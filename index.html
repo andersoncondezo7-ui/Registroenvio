@@ -1,0 +1,104 @@
+<!--
+  Formulario de registro de envío por agencia Shalom.
+  Lógica de negocio (este archivo + app.js) separada de los datos (agencias.json),
+  para que actualizar agencias cada mes no toque el código. Ver scripts/generar_agencias.py.
+-->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<title>Registro de envío · Agencia Shalom</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="topbar-brand">
+        <span class="topbar-logo">🚚</span>
+        <div>
+          <h1>Registro de envío</h1>
+          <p>Selecciona tu agencia Shalom</p>
+        </div>
+      </div>
+    </header>
+
+    <main class="content">
+      <form id="envioForm" novalidate>
+
+        <section class="card">
+          <h2>1. Tus datos</h2>
+
+          <div class="field">
+            <label for="nombre">Nombre completo</label>
+            <input type="text" id="nombre" placeholder="Ej: María Pérez García" autocomplete="name" />
+            <span class="error hidden" id="errNombre">Ingresa tu nombre completo.</span>
+          </div>
+
+          <div class="field">
+            <label for="telefono">Teléfono / Celular</label>
+            <div class="phone-input-wrap">
+              <span class="phone-prefix">+51</span>
+              <input type="tel" id="telefono" placeholder="987654321" autocomplete="tel" inputmode="numeric" maxlength="9" />
+            </div>
+            <span class="error hidden" id="errTelefono">Ingresa los 9 dígitos de tu celular.</span>
+          </div>
+
+          <div class="field">
+            <label for="dni">DNI / CE</label>
+            <input type="text" id="dni" placeholder="Ej: 12345678" inputmode="numeric" maxlength="12" />
+            <span class="error hidden" id="errDni">El DNI debe tener 8 dígitos (o ingresa tu número de CE).</span>
+          </div>
+
+          <div class="field">
+            <label for="cantidad">Cantidad de prendas compradas</label>
+            <input type="number" id="cantidad" min="1" step="1" placeholder="Ej: 3" />
+            <span class="error hidden" id="errCantidad">Ingresa una cantidad válida (mínimo 1).</span>
+          </div>
+        </section>
+
+        <section class="card">
+          <h2>2. Busca tu agencia Shalom</h2>
+          <div class="small-hint">Escribe tu distrito o el nombre de la agencia.</div>
+
+          <div class="field autocomplete-wrap">
+            <label for="buscadorAgencia">Distrito / Agencia</label>
+            <input type="text" id="buscadorAgencia" placeholder="Ej: Miraflores, San Juan de Lurigancho…" autocomplete="off" />
+            <div id="sugerencias" class="suggestions hidden"></div>
+            <span class="error hidden" id="errAgencia">Selecciona una agencia de la lista de sugerencias.</span>
+          </div>
+
+          <div id="agenciaCard" class="agency-card hidden">
+            <div class="agency-card-head">
+              <span class="agency-card-tag">✅ Agencia seleccionada</span>
+              <button type="button" id="btnCambiarAgencia" class="link-btn">Cambiar</button>
+            </div>
+            <div class="agency-row">
+              <span class="agency-label">Ruta / Agencia</span>
+              <strong id="agRuta"></strong>
+            </div>
+            <div class="agency-row">
+              <span class="agency-label">Dirección completa</span>
+              <strong id="agDireccion"></strong>
+            </div>
+            <div class="agency-row">
+              <span class="agency-label">Referencia</span>
+              <strong id="agReferencia"></strong>
+            </div>
+          </div>
+        </section>
+
+        <button type="submit" id="btnEnviar" class="btn-primary">
+          <span id="btnEnviarTxt">📲 Confirmar y enviar por WhatsApp</span>
+        </button>
+
+        <div id="formMsg" class="form-msg hidden"></div>
+      </form>
+    </main>
+
+    <footer class="footnote">Shalom · Registro interno de envíos</footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
