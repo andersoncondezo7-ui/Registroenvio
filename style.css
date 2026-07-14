@@ -127,34 +127,6 @@ input {
   transition: border-color 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
 }
 
-/* Teléfono: prefijo fijo +51 pegado al input, como si fuera un solo campo */
-.phone-input-wrap {
-  display: flex;
-  align-items: stretch;
-}
-
-.phone-prefix {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0 12px;
-  border: 1px solid var(--border);
-  border-right: 0;
-  border-radius: 12px 0 0 12px;
-  background: #f0f0f2;
-  color: var(--muted);
-  font-weight: 700;
-  font-size: 15px;
-  white-space: nowrap;
-}
-
-.phone-input-wrap input {
-  border-radius: 0 12px 12px 0;
-}
-
-.phone-input-wrap input:focus {
-  z-index: 1;
-}
 
 input:focus {
   border-color: var(--shalom-red);
