@@ -246,14 +246,11 @@ function validarFormulario() {
 
   let valido = true;
 
-  // Celular peruano = 9 dígitos exactos (el "+51" ya está fijo en la interfaz, no se pide).
+  // Celular peruano = 9 dígitos exactos. Se guarda tal cual, sin prefijo de país.
   const telefonoValido = telefonoDigitos.length === 9;
 
-  // DNI peruano = 8 dígitos exactos. El campo también acepta CE (carné de extranjería),
-  // que no siempre es solo numérico, así que la regla de 8 dígitos solo aplica cuando
-  // el valor ingresado es puramente numérico.
-  const dniSoloDigitos = /^\d+$/.test(dni);
-  const dniValido = dni !== "" && (dniSoloDigitos ? dni.length === 8 : dni.length >= 6);
+  // DNI peruano = 8 dígitos exactos, sin excepciones.
+  const dniValido = /^\d{8}$/.test(dni);
 
   if (!nombre) { mostrarError("errNombre", true); valido = false; } else mostrarError("errNombre", false);
   if (!telefonoValido) { mostrarError("errTelefono", true); valido = false; } else mostrarError("errTelefono", false);
@@ -261,7 +258,7 @@ function validarFormulario() {
   if (!isFinite(cantidad) || cantidad < 1) { mostrarError("errCantidad", true); valido = false; } else mostrarError("errCantidad", false);
   if (!AGENCIA_SELECCIONADA) { mostrarError("errAgencia", true); valido = false; } else mostrarError("errAgencia", false);
 
-  return valido ? { nombre, telefono: "+51 " + telefonoDigitos, dni, cantidad } : null;
+  return valido ? { nombre, telefono: telefonoDigitos, dni, cantidad } : null;
 }
 
 function mostrarMensajeForm(tipo, texto) {
@@ -286,6 +283,7 @@ async function manejarSubmit(evento) {
     dni: datosCliente.dni,
     cantidad: datosCliente.cantidad,
     ruta_agencia: AGENCIA_SELECCIONADA.ruta_agencia,
+    agencia: AGENCIA_SELECCIONADA.agencia || "",
     distrito: AGENCIA_SELECCIONADA.distrito,
     direccion_completa: AGENCIA_SELECCIONADA.direccion_completa,
     referencia: AGENCIA_SELECCIONADA.referencia,
@@ -326,6 +324,13 @@ function initTelefono() {
   });
 }
 
+function initDni() {
+  const input = document.getElementById("dni");
+  input.addEventListener("input", () => {
+    input.value = input.value.replace(/\D/g, "").slice(0, 8);
+  });
+}
+
 function initBuscador() {
   const input = document.getElementById("buscadorAgencia");
   const wrap = document.getElementById("sugerencias");
@@ -360,6 +365,7 @@ async function init() {
   }
 
   initTelefono();
+  initDni();
   initBuscador();
   document.getElementById("envioForm").addEventListener("submit", manejarSubmit);
 }
