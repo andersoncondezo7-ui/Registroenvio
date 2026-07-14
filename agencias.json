@@ -1,6 +1,7 @@
 [
   {
     "ruta_agencia": "Amazonas / Bagua / Bagua / Bagua Capital",
+    "agencia": "Bagua Capital",
     "distrito": "Bagua",
     "direccion_completa": "Jr. Amazonas C-9 Mz. 126 Lt. 25, Bagua - Bagua - Amazonas",
     "referencia": "frente Al Parque Jerusalen Y/o Costado De Avicola Yaceg",
@@ -8,6 +9,7 @@
   },
   {
     "ruta_agencia": "Amazonas / Bongara / Jazan / Pedro Ruiz",
+    "agencia": "Pedro Ruiz",
     "distrito": "Jazan",
     "direccion_completa": "Av. Sacsahuaman N° 513 - Pedro Ruiz",
     "referencia": "A Media Cuadra De La Ugel",
@@ -15,6 +17,7 @@
   },
   {
     "ruta_agencia": "Amazonas / Chachapoyas / Chachapoyas / Chachapoyas Co Dos De Mayo",
+    "agencia": "Chachapoyas Co Dos De Mayo",
     "distrito": "Chachapoyas",
     "direccion_completa": "Jr. Dos De Mayo Cdra. 15 S/n Chachapoyas",
     "referencia": "Junto A Terminal De Combis Etsa",
@@ -22,6 +25,7 @@
   },
   {
     "ruta_agencia": "Amazonas / Chachapoyas / Chachapoyas / Chachapoyas Jr Grau",
+    "agencia": "Chachapoyas Jr Grau",
     "distrito": "Chachapoyas",
     "direccion_completa": "Jr. Grau 270",
     "referencia": "Junto A La Agencia De Viajes Monteverde",
@@ -29,6 +33,7 @@
   },
   {
     "ruta_agencia": "Amazonas / Luya / Luya / Luya",
+    "agencia": "Luya",
     "distrito": "Luya",
     "direccion_completa": "Jr. Ramón Castilla S/n, Luya - Amazonas",
     "referencia": "Entre El Colegio Secundario Ramón Castilla Y El Jr. José Gálvez, A Media Cdra. Del Agente De Venta De Pasajes De Civa, Móvil Y Transporte Chiclayo",
@@ -36,6 +41,7 @@
   },
   {
     "ruta_agencia": "Amazonas / Utcubamba / Bagua Grande / Bagua Grande",
+    "agencia": "Bagua Grande",
     "distrito": "Bagua Grande",
     "direccion_completa": "Av. Chachapoyas 1094 Sector Gonchillo",
     "referencia": "A 2 Cuadras De La Clínica Señor De Los Milagros",
@@ -43,6 +49,7 @@
   },
   {
     "ruta_agencia": "Ancash / Carhuaz / Carhuaz / Carhuaz",
+    "agencia": "Carhuaz",
     "distrito": "Carhuaz",
     "direccion_completa": "Carretera Central 00s/n Cent Carhuaz - Carhuaz - Áncash",
     "referencia": "Media Cuadra Antes De Llegar Al Estadio Municipal Capitan Carlos Mejia",
@@ -50,6 +57,7 @@
   },
   {
     "ruta_agencia": "Ancash / Casma / Casma / Casma",
+    "agencia": "Casma",
     "distrito": "Casma",
     "direccion_completa": "Av. Miguel Grau Mz. D 4 Lt. 1 Casma - Ancash",
     "referencia": "Frente Al Jardín De Infancia",
@@ -57,6 +65,7 @@
   },
   {
     "ruta_agencia": "Ancash / Huaraz / Huaraz / Huaraz",
+    "agencia": "Huaraz",
     "distrito": "Huaraz",
     "direccion_completa": "Av. 27 De Noviembre Cdra. 20 S/n - Villon Bajo",
     "referencia": "Al Costado Del Grifo Primax",
@@ -64,6 +73,7 @@
   },
   {
     "ruta_agencia": "Ancash / Huarmey / Huarmey / Huarmey",
+    "agencia": "Huarmey",
     "distrito": "Huarmey",
     "direccion_completa": "Carr. Panamericana Norte N° Km 293 Sect. Panamericana Huarmey – Ancash",
     "referencia": "a 4 Cdras. Del Terminal Terrestre De Sur A Norte",
@@ -71,6 +81,7 @@
   },
   {
     "ruta_agencia": "Ancash / Huaylas / Caraz / Caraz",
+    "agencia": "Caraz",
     "distrito": "Caraz",
     "direccion_completa": "Av. 9 De Octubre N° 259 - Huaylas",
     "referencia": "Al Costado De La Empresa Móvil Tours",
@@ -78,6 +89,7 @@
   },
   {
     "ruta_agencia": "Ancash / Santa / Chimbote / Av Enrique Meiggs",
+    "agencia": "Av Enrique Meiggs",
     "distrito": "Chimbote",
     "direccion_completa": "Av. Enrique Meiggs N° 2457.",
     "referencia": "",
@@ -85,6 +97,7 @@
   },
   {
     "ruta_agencia": "Ancash / Santa / Chimbote / Av Jose Galvez",
+    "agencia": "Av Jose Galvez",
     "distrito": "Chimbote",
     "direccion_completa": "Av. José Gálvez 791, Chimbote - Santa - Ancash",
     "referencia": "a 1 Cdra. Antes De Llegar Al Puente Gálvez",
@@ -92,6 +105,7 @@
   },
   {
     "ruta_agencia": "Ancash / Santa / Chimbote / Av. Los Pescadores Co",
+    "agencia": "Av. Los Pescadores Co",
     "distrito": "Chimbote",
     "direccion_completa": "Par. Parcela N° 16757 - E Sector La Perla Tres Cabezas - Ancash",
     "referencia": "frente Al Estadio Centenario",
@@ -99,6 +113,7 @@
   },
   {
     "ruta_agencia": "Ancash / Santa / Nuevo Chimbote / Av. Pacífico Belen",
+    "agencia": "Av. Pacífico Belen",
     "distrito": "Nuevo Chimbote",
     "direccion_completa": "Aa.hh. Belen Mz O Lt 28 - Nuevo Chimbote - Santa - Ancash",
     "referencia": "Frente Al Grifo Doxa",
@@ -106,6 +121,7 @@
   },
   {
     "ruta_agencia": "Ancash / Santa / Nuevo Chimbote / Garatea",
+    "agencia": "Garatea",
     "distrito": "Nuevo Chimbote",
     "direccion_completa": "Urb. Nicolas Garatea Mz. 100 lt. 24 - Nuevo Chimbote - Santa - Ancash",
     "referencia": "Frente Al Paradero Autos N.- Garatea",
@@ -113,6 +129,7 @@
   },
   {
     "ruta_agencia": "Ancash / Santa / Nuevo Chimbote / Ovalo De La Familia",
+    "agencia": "Ovalo De La Familia",
     "distrito": "Nuevo Chimbote",
     "direccion_completa": "Urbanización José Carlos Mariategui (ex Unicreto) Mz R 3 Lt 3",
     "referencia": "A Una Cuadra Del Óvalo La Familia",
@@ -120,6 +137,7 @@
   },
   {
     "ruta_agencia": "Ancash / Santa / Nuevo Chimbote / Tres De Octubre",
+    "agencia": "Tres De Octubre",
     "distrito": "Nuevo Chimbote",
     "direccion_completa": "Av. José Pardo Mz. K, Lt. 17 - Tres De Octubre",
     "referencia": "Frente Al Óvalo Las Américas",
@@ -127,6 +145,7 @@
   },
   {
     "ruta_agencia": "Ancash / Santa / Santa / Santa",
+    "agencia": "Santa",
     "distrito": "Santa",
     "direccion_completa": "Panamericana Norte Km 442 - B, Santa",
     "referencia": "Al Lado De La Ferreteria La Llave",
@@ -134,6 +153,7 @@
   },
   {
     "ruta_agencia": "Ancash / Yungay / Yungay / Yungay",
+    "agencia": "Yungay",
     "distrito": "Yungay",
     "direccion_completa": "Jr. Industrial, Lte. 14 - Yungay",
     "referencia": "Al Costado Del Terminal Terrestre Y La Tapiceria Fredy",
@@ -141,6 +161,7 @@
   },
   {
     "ruta_agencia": "Apurimac / Abancay / Abancay / Abancay",
+    "agencia": "Abancay",
     "distrito": "Abancay",
     "direccion_completa": "Av. Panamericana S/n - Abancay - Apurímac",
     "referencia": "A 100 Metros De La Comisaría De Bellavista, Al Costado De Maderera Vega",
@@ -148,6 +169,7 @@
   },
   {
     "ruta_agencia": "Apurimac / Andahuaylas / Andahuaylas / Andahuaylas",
+    "agencia": "Andahuaylas",
     "distrito": "Andahuaylas",
     "direccion_completa": "Av. Malinas 1355 Pochccota, Andahuaylas - Andahuaylas - Apurímac",
     "referencia": "al Costado De La Ex Cancha El Centenario O Altura De La Universidad Unsaac",
@@ -155,6 +177,7 @@
   },
   {
     "ruta_agencia": "Apurimac / Cotabambas / Challhuahuacho / Challhuahuacho",
+    "agencia": "Challhuahuacho",
     "distrito": "Challhuahuacho",
     "direccion_completa": "Barrio Wichaypampa Lt. 13 - 15 - 16, challhuahuacho - Cotabambas - Apurímac",
     "referencia": "A Dos Cdras Del Terminal Terrestre De Challhuahuacho / A Espaldas Del Taller E&l",
@@ -162,6 +185,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Alto Selva Alegre / Av Augusto Salazar Bondy",
+    "agencia": "Av Augusto Salazar Bondy",
     "distrito": "Alto Selva Alegre",
     "direccion_completa": "Augusto Salazar Bondy Mz J Lt 4 Alto Selva Alegre - Arequipa",
     "referencia": "a Media Cdra. De La Iglesia Guadalupe",
@@ -169,6 +193,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Alto Selva Alegre / Av Lima",
+    "agencia": "Av Lima",
     "distrito": "Alto Selva Alegre",
     "direccion_completa": "Av. Lima N° 406 – Alto Selva Alegre - Arequipa",
     "referencia": "Esquina Con Av. Obrera Cuadra 20",
@@ -176,6 +201,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Arequipa / Av Parra 379 Co",
+    "agencia": "Av Parra 379 Co",
     "distrito": "Arequipa",
     "direccion_completa": "Av. Parra 379 - Arequipa",
     "referencia": "",
@@ -183,6 +209,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Arequipa / Mall Lambramani",
+    "agencia": "Mall Lambramani",
     "distrito": "Arequipa",
     "direccion_completa": "Av. Lambramani 325, Arequipa - Arequipa- Arequipa",
     "referencia": "Dentro Del Mall Lambramani (sotano Piso -4)",
@@ -190,6 +217,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Cayma / Av Charcani",
+    "agencia": "Av Charcani",
     "distrito": "Cayma",
     "direccion_completa": "Av. Charcani 401 Asoc. Jose Olaya",
     "referencia": "Frente Al Colegio Mendel",
@@ -197,6 +225,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Cayma / Plaza La Tomilla",
+    "agencia": "Plaza La Tomilla",
     "distrito": "Cayma",
     "direccion_completa": "Av. Ramón Castilla N° 1000 - B La Tomilla Cayma",
     "referencia": "En La Misma Plaza Tomilla",
@@ -204,6 +233,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Cerro Colorado / Asoc Las Flores - Av 54",
+    "agencia": "Asoc Las Flores - Av 54",
     "distrito": "Cerro Colorado",
     "direccion_completa": "Asoc. Las Flores Zn.2 Mz.j Lt.8 - Cerro Colorado",
     "referencia": "Av 54 - A Media Cuadra De Ferretería Gino",
@@ -211,6 +241,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Cerro Colorado / Asoc. Nuevo Horizonte - Av. 54",
+    "agencia": "Asoc. Nuevo Horizonte - Av. 54",
     "distrito": "Cerro Colorado",
     "direccion_completa": "Nuevo Horizonte Mz.h Lote 12 - Cerro Colorado - Arequipa",
     "referencia": "Con Av.54 A Cuatro Cdras. De Inkafarma",
@@ -218,6 +249,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Cerro Colorado / Autopista La Joya",
+    "agencia": "Autopista La Joya",
     "distrito": "Cerro Colorado",
     "direccion_completa": "Asoc. Urbanizadora Peruarbo Sector Peru Zona I Mz. B4 Lt. 4 - Autopista La Joya - Arequipa",
     "referencia": "Autopista Arequipa - La Joya, A Dos Cdras. Del Sauna Candamo",
@@ -225,6 +257,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Cerro Colorado / Av Los Incas",
+    "agencia": "Av Los Incas",
     "distrito": "Cerro Colorado",
     "direccion_completa": "Av. Los Incas N° 604 Semirural Pachacutec – Cerro Colorado - Arequipa",
     "referencia": "Esquina Con Calle San Martin Semirural Pachacutec",
@@ -232,6 +265,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Cerro Colorado / Av Pumacahua",
+    "agencia": "Av Pumacahua",
     "distrito": "Cerro Colorado",
     "direccion_completa": "Urb. San Felipe Av Pumacahua Lt 14, Cerro Colorado Arequipa",
     "referencia": "A Dos Cdras. Antes De Llegar Al Metro Cencosud / Ex Notaria Concha Revilla.",
@@ -239,6 +273,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Cerro Colorado / Ciudad Municipal",
+    "agencia": "Ciudad Municipal",
     "distrito": "Cerro Colorado",
     "direccion_completa": "Mz. A, Sub Lt. 2 A, Asentamiento Poblacional Asociación Centro Industrial Las Canteras, Cerro Colorado - Arequipa",
     "referencia": "Al Costado Del Grifo Primax",
@@ -246,6 +281,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Cerro Colorado / Zamacola",
+    "agencia": "Zamacola",
     "distrito": "Cerro Colorado",
     "direccion_completa": "Calle Yavarí 507 B - Zamacola - Cerro Colorado – Arequipa",
     "referencia": "A Una Cuadra De La Posta De Zamacola (marcisa Campos)",
@@ -253,6 +289,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Jacobo Hunter / Jacobo Hunter",
+    "agencia": "Jacobo Hunter",
     "distrito": "Jacobo Hunter",
     "direccion_completa": "Calle Argentina # 405 - A, Jacobo Hunter - Arequipa",
     "referencia": "Frente Al Cajero De Caja Arequipa Y Esquina Con El Banco Caja Arequipa",
@@ -260,6 +297,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / La Joya / El Cruce La Joya",
+    "agencia": "El Cruce La Joya",
     "distrito": "La Joya",
     "direccion_completa": "Lateral 12 C Lt. 32, El Cruce La Joya - Arequipa",
     "referencia": "Al Costado Del Grifo Primax De La Joya",
@@ -267,6 +305,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Mariano Melgar / Mariano Melgar",
+    "agencia": "Mariano Melgar",
     "distrito": "Mariano Melgar",
     "direccion_completa": "Calle Ancash N° 202 - Mariano Melgar",
     "referencia": "A La Altura Del Coliseo Del Niño",
@@ -274,6 +313,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Miraflores / Miraflores Arequipa",
+    "agencia": "Miraflores Arequipa",
     "distrito": "Miraflores",
     "direccion_completa": "Urb. Residencial Felipe Santiago Salaverry - Calle Teniente Rodríguez Mz. H Lt. 11, Miraflores - Arequipa - Arequipa",
     "referencia": "A Media Cdra. De La Compañia De Bombero De Miraflores",
@@ -281,6 +321,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Paucarpata / Av Jesus",
+    "agencia": "Av Jesus",
     "distrito": "Paucarpata",
     "direccion_completa": "Av. Jesús N° 1100 Paucarpata – Arequipa",
     "referencia": "Con Esquina arturo Villegas N° 101.",
@@ -288,6 +329,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Paucarpata / Urb Manuel Prado",
+    "agencia": "Urb Manuel Prado",
     "distrito": "Paucarpata",
     "direccion_completa": "Calle Belén N°100 - A Urb. Manuel Prado - Paucarpata",
     "referencia": "A Espaldas Del Cc. Mall Aventura Porongoche",
@@ -295,6 +337,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Socabaya / Av Socabaya - Los Toritos",
+    "agencia": "Av Socabaya - Los Toritos",
     "distrito": "Socabaya",
     "direccion_completa": "Av. Socabaya 301 - Urb. San Martín De Socabaya",
     "referencia": "Al Frente Del Parque Victor Barriga",
@@ -302,6 +345,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Socabaya / Av. Horacio Zevallos",
+    "agencia": "Av. Horacio Zevallos",
     "distrito": "Socabaya",
     "direccion_completa": "Asentamiento Urbano Municipal Horacio Zeballos Gamez Sector E Mz. 1 Lt. 18 socabaya - Arequipa",
     "referencia": "al Costado Del Colegio Joule Y/o 2 Cdras. Del Penal De Socabaya",
@@ -309,6 +353,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Uchumayo / Uchumayo",
+    "agencia": "Uchumayo",
     "distrito": "Uchumayo",
     "direccion_completa": "Urb. El Carmen M. E. Lt. 1 Congata Del Distrito Uchumayo - Arequipa",
     "referencia": "A Dos Cdras. De La Comisaria Congata",
@@ -316,6 +361,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Arequipa / Yura / Yura",
+    "agencia": "Yura",
     "distrito": "Yura",
     "direccion_completa": "Mz. O Lt. 4 Zna 2 Ciudad De Dios - Yura - Arequipa",
     "referencia": "Carretera Yura",
@@ -323,6 +369,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Camana / Camana / Camana",
+    "agencia": "Camana",
     "distrito": "Camana",
     "direccion_completa": "Calle Agustín Gamarra N° 451, Cercado Camaná",
     "referencia": "Al Frente Del Delivey Caseritos",
@@ -330,6 +377,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Caraveli / Chala / Chala",
+    "agencia": "Chala",
     "distrito": "Chala",
     "direccion_completa": "Av. Emancipacion Nro. S/n Mz. 78 Lt. 10.",
     "referencia": "A Media Cdra. Del Parque Del Niño Chalino",
@@ -337,6 +385,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Castilla / Aplao / Aplao",
+    "agencia": "Aplao",
     "distrito": "Aplao",
     "direccion_completa": "Ubica En La Manzana X1, Lote 07, De La Calle 8 De Setiembre, Aplao - Castilla - Arequipa",
     "referencia": "A Una Cdra. De Ministerial Público Fiscalía",
@@ -344,6 +393,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Caylloma / Majes / Av Colonizadores Co",
+    "agencia": "Av Colonizadores Co",
     "distrito": "Majes",
     "direccion_completa": "Av. Lote Colonizadores. 4 Parcela 180, Majes - Caylloma - Arequipa",
     "referencia": "A Media Cdra. Del Grifo El Eje",
@@ -351,6 +401,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Caylloma / Majes / Calle Yarabamba",
+    "agencia": "Calle Yarabamba",
     "distrito": "Majes",
     "direccion_completa": "Calle Yarabamba, Mz. Y Lt 7. Villa El Pedregal, Majes - Caylloma - Arequipa",
     "referencia": "A Media Cdra. De La Notaria Terán Bejar",
@@ -358,6 +409,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Islay / Cocachacra / Cocachacra",
+    "agencia": "Cocachacra",
     "distrito": "Cocachacra",
     "direccion_completa": "Centro Poblado Cocachacra Mz. N5 Sub-lote 5b Calle Dean Valdivia, Cocachacra - Islay - Arequipa",
     "referencia": "del Parque San Francisco Una Cdra. Hacia Abajo",
@@ -365,6 +417,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Islay / Islay / Matarani",
+    "agencia": "Matarani",
     "distrito": "Islay",
     "direccion_completa": "Asentamiento Humano. Puerto Nuevo Mz. I Lt. 18 Av. Bello Horizonte, islay - islay - Arequipa",
     "referencia": "Frente Al Parque Ecológico",
@@ -372,6 +425,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Islay / Mollendo / Cercado Mollendo",
+    "agencia": "Cercado Mollendo",
     "distrito": "Mollendo",
     "direccion_completa": "Calle Dean Valdivia 388 Cercado",
     "referencia": "Esquina Con Blondel",
@@ -379,6 +433,7 @@
   },
   {
     "ruta_agencia": "Arequipa / Islay / Mollendo / Mollendo Co",
+    "agencia": "Mollendo Co",
     "distrito": "Mollendo",
     "direccion_completa": "Mariscal Castilla 472 –a, Arequipa - Islay - Mollendo",
     "referencia": "al Costado De Cei “mi carrusel”",
@@ -386,6 +441,7 @@
   },
   {
     "ruta_agencia": "Ayacucho / Huamanga / Ayacucho / Ayacucho Co",
+    "agencia": "Ayacucho Co",
     "distrito": "Ayacucho",
     "direccion_completa": "Aa.hh Complejo Artesanal T1 Lt1 - Ayacucho",
     "referencia": "A Una Cuadra De La Puerta 2 Del Terminal Terrestre Libertadores De América",
@@ -393,6 +449,7 @@
   },
   {
     "ruta_agencia": "Ayacucho / Huamanga / Carmen Alto / Carmen Alto",
+    "agencia": "Carmen Alto",
     "distrito": "Carmen Alto",
     "direccion_completa": "Asentamiento Humano Carmen Alto Mz B1 Lote 9 Zona Ii Acuchimay Carmen Alto – Huamanga- Ayacucho",
     "referencia": "A 1 Cuadra De La Municipalidad De Carmen Alto",
@@ -400,6 +457,7 @@
   },
   {
     "ruta_agencia": "Ayacucho / Huamanga / Jesus Nazareno / Jesus Nazareno",
+    "agencia": "Jesus Nazareno",
     "distrito": "Jesus Nazareno",
     "direccion_completa": "Jr. José María Eguren 451 - Jesus Nazareno - Huamanga - Ayacucho",
     "referencia": "Cruce Con Jr. Mariano Melgar",
@@ -407,6 +465,7 @@
   },
   {
     "ruta_agencia": "Ayacucho / Huamanga / San Juan Bautista / San Juan Bautista",
+    "agencia": "San Juan Bautista",
     "distrito": "San Juan Bautista",
     "direccion_completa": "Av. Venezuela N° 431 – Urb. Aprovisa, San Juan Bautista - Huamanga - Ayacucho",
     "referencia": "Altura Del Hostal La Oriental, Cerca Al Seguro De Essalud",
@@ -414,6 +473,7 @@
   },
   {
     "ruta_agencia": "Ayacucho / Huanta / Huanta / Huanta",
+    "agencia": "Huanta",
     "distrito": "Huanta",
     "direccion_completa": "Jr. Gervasio Santillana N°976 - Huanta - Ayacucho.",
     "referencia": "Cruce Con Jr. Revolución",
@@ -421,6 +481,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Cajabamba / Cajabamba / Cajabamba",
+    "agencia": "Cajabamba",
     "distrito": "Cajabamba",
     "direccion_completa": "Jr. Lara N° 100 ,cajabamba - Cajabamba - Cajamarca",
     "referencia": "A Una Cdra. Del Complejo Deportivo “santa Ana”",
@@ -428,6 +489,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Cajamarca / Cajamarca / Barrio San Jose",
+    "agencia": "Barrio San Jose",
     "distrito": "Cajamarca",
     "direccion_completa": "Jr. Chanchamayo N° 1162 - Barrio San José Cajamarca",
     "referencia": "Paralela Con Jr. Huancavelica Y Jr. Sara Macdougall.",
@@ -435,6 +497,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Cajamarca / Cajamarca / Barrio San Martín",
+    "agencia": "Barrio San Martín",
     "distrito": "Cajamarca",
     "direccion_completa": "Jirón Los Gladiolos N° 336 barrio San Martín, Cajamarca – Cajamarca – Cajamarca",
     "referencia": "A La Altura De La Cdra. 13 De La Vía De Evitamiento Sur /a Una Cdra. De La Universidad Nacional De Cajamarca",
@@ -442,6 +505,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Cajamarca / Cajamarca / Cajamarca Co",
+    "agencia": "Cajamarca Co",
     "distrito": "Cajamarca",
     "direccion_completa": "Av. Independencia N° 787 Barrio Santa Elena",
     "referencia": "",
@@ -449,6 +513,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Cajamarca / Cajamarca / Cajamarca Horacio Zevallos",
+    "agencia": "Cajamarca Horacio Zevallos",
     "distrito": "Cajamarca",
     "direccion_completa": "Jr. Emilio Barrantes Mz X Lote 3 Urb. Horacio Zevallos - Cajamarca.",
     "referencia": "A Una Cuadra De La Universidad Privada Del Norte (upn) Y Vía De Evitamiento Norte Cuadra 13.",
@@ -456,6 +521,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Cajamarca / Cajamarca / Huambocancha Baja",
+    "agencia": "Huambocancha Baja",
     "distrito": "Cajamarca",
     "direccion_completa": "Mz. A Lote S/n – Barrio Huambocancha Baja – Cajamarca",
     "referencia": "A Una Cdra. Del Paradero De La P13/al Costado Del Campo Deportivo El Patriarca",
@@ -463,6 +529,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Cajamarca / Jesus / Huaraclla",
+    "agencia": "Huaraclla",
     "distrito": "Jesus",
     "direccion_completa": "Mz. A Lote S/n Cp Huaraclla - Jesus - Cajamarca",
     "referencia": "A Una Cdra. De La I.e. José Olaya Balandra.",
@@ -470,6 +537,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Cajamarca / Los Banos Del Inca / Baños Del Inca",
+    "agencia": "Baños Del Inca",
     "distrito": "Los Banos Del Inca",
     "direccion_completa": "Jr. Cahuide N° 242 – Lotiz. Hurtado Miller – Baños Del Inca – Cajamarca",
     "referencia": "A Espaldas De Senati Y A Una Cdra. De La Base De Serenazgo De Baños Del Inca",
@@ -477,6 +545,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Celendin / Celendin / Celendin",
+    "agencia": "Celendin",
     "distrito": "Celendin",
     "direccion_completa": "Jr. Pedro Ortiz Montoya 148",
     "referencia": "Esquina Con Av. Amazonas",
@@ -484,6 +553,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Chota / Chota / Chota",
+    "agencia": "Chota",
     "distrito": "Chota",
     "direccion_completa": "Av. Fray José Arana N 805",
     "referencia": "Frente Al Terminal Angel Divino",
@@ -491,6 +561,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Contumaza / Chilete / Chilete - Agente",
+    "agencia": "Chilete - Agente",
     "distrito": "Chilete",
     "direccion_completa": "Jr. Santa Rosa N° 121, Chilete – Contumazá – Cajamarca",
     "referencia": "A Una Cdra. Del Terrapuerto Y A 100 Mts. Del Puente De Ingreso A Chilete",
@@ -498,6 +569,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Contumaza / Yonan / Tembladera Cajamarca",
+    "agencia": "Tembladera Cajamarca",
     "distrito": "Yonan",
     "direccion_completa": "Jr. Bolognesi S/n – Tembladera - Yonan - Contumazá - Cajamarca",
     "referencia": "Al Frente Del Parque Víctor Raúl Haya De La Torre",
@@ -505,6 +577,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Cutervo / Cutervo / Cutervo",
+    "agencia": "Cutervo",
     "distrito": "Cutervo",
     "direccion_completa": "Av. Salomón Vilchez Murga S/n. Cdra 9",
     "referencia": "Frente A La Clínica Cutervo",
@@ -512,6 +585,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Hualgayoc / Bambamarca / Bambamarca",
+    "agencia": "Bambamarca",
     "distrito": "Bambamarca",
     "direccion_completa": "Av. Tupac Amaru 1105",
     "referencia": "Al Costado Del Paradero Al Cumbe",
@@ -519,6 +593,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / Jaen / Jaen / Jaen",
+    "agencia": "Jaen",
     "distrito": "Jaen",
     "direccion_completa": "Av. Pakammuros Cuadra 6 S/n",
     "referencia": "Esquina Con Calle Libertad N° 490",
@@ -526,6 +601,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / San Ignacio / San Ignacio / San Ignacio",
+    "agencia": "San Ignacio",
     "distrito": "San Ignacio",
     "direccion_completa": "Pasaje Tres N° 113 Urb Santa Rosa, Cajamarca - San Ignacio",
     "referencia": "Frente Al Estado Municipal",
@@ -533,6 +609,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / San Marcos / Pedro Galvez / San Marcos",
+    "agencia": "San Marcos",
     "distrito": "Pedro Galvez",
     "direccion_completa": "Jr. Adolfo Amorin Bueno N° 140 San Marcos – Cajamarca",
     "referencia": "Al Frente De La Plaza Agropecuaria",
@@ -540,6 +617,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / San Miguel / San Miguel / San Miguel Cajamarca",
+    "agencia": "San Miguel Cajamarca",
     "distrito": "San Miguel",
     "direccion_completa": "Jr. Bolognesi N° 717 – San Miguel – Cajamarca - Cajamarca",
     "referencia": "Al Costado Del Coliseo Y El Paradero De Llapa Y Cochán.",
@@ -547,6 +625,7 @@
   },
   {
     "ruta_agencia": "Cajamarca / San Pablo / San Pablo / San Pablo Cajamarca",
+    "agencia": "San Pablo Cajamarca",
     "distrito": "San Pablo",
     "direccion_completa": "Jr. Tnt. Lorenzo Iglesia N° 910 - San Pablo – Cajamarca - Cajamarca",
     "referencia": "A Media Cdra. Del Hospital San Pablo",
@@ -554,6 +633,7 @@
   },
   {
     "ruta_agencia": "Callao / Callao / Bellavista / Bellavista Callao",
+    "agencia": "Bellavista Callao",
     "distrito": "Bellavista",
     "direccion_completa": "Av. Elmer Faucett 1641 - Urb. Jardines Virú Mz. B Lt 46, Bellavista - Callao",
     "referencia": "A 2 Cuadras Del Cruce De Av. Faucett Con Av. Venezuela",
@@ -561,6 +641,7 @@
   },
   {
     "ruta_agencia": "Callao / Callao / Callao / Av Bertello Callao",
+    "agencia": "Av Bertello Callao",
     "distrito": "Callao",
     "direccion_completa": "Av. Alejandro Bertello Bollati mz. B Lt. 20 Y 21 – Urb. Progresiva Bahía Blanca – Callao - Callao - Callao",
     "referencia": "Frente Al Mercado Costa Azul",
@@ -568,6 +649,7 @@
   },
   {
     "ruta_agencia": "Callao / Callao / Callao / Av Quilca",
+    "agencia": "Av Quilca",
     "distrito": "Callao",
     "direccion_completa": "Unidad Inmobiliaria N° 1, Av. Quilca Mz. G Sub Lt. 11c, Urb. Aeropuerto – Segundo Sector - Callao",
     "referencia": "Cruce Con Calle 1, Frente A La Iglesia De Testigos De Jehová",
@@ -575,6 +657,7 @@
   },
   {
     "ruta_agencia": "Callao / Callao / Callao / Av Saenz Peña",
+    "agencia": "Av Saenz Peña",
     "distrito": "Callao",
     "direccion_completa": "Av. Saenz Peña N° 414 - 416 - Callao - Callao",
     "referencia": "Cruce Con Av. Marco Polo",
@@ -582,6 +665,7 @@
   },
   {
     "ruta_agencia": "Callao / Callao / Callao / Callao Faucett",
+    "agencia": "Callao Faucett",
     "distrito": "Callao",
     "direccion_completa": "Av. Elmer Faucett N° 492",
     "referencia": "",
@@ -589,6 +673,7 @@
   },
   {
     "ruta_agencia": "Callao / Callao / La Perla / Ovalo La Perla",
+    "agencia": "Ovalo La Perla",
     "distrito": "La Perla",
     "direccion_completa": "Av. La Marina 530, Urb. Benjamin Doigg Lossio, La Perla, Callao",
     "referencia": "a 3 Cuadras Del Óvalo De La Perla",
@@ -596,6 +681,7 @@
   },
   {
     "ruta_agencia": "Callao / Callao / Mi Peru / Mi Peru",
+    "agencia": "Mi Peru",
     "distrito": "Mi Peru",
     "direccion_completa": "V. Victor Raul Haya De La Torre Mz. A Lt. 02 Asentamiento Humano Confraternidad - Iii Sector - Mi peru – Callao - Callao",
     "referencia": "Cruce Con Av. Arequipa",
@@ -603,6 +689,7 @@
   },
   {
     "ruta_agencia": "Callao / Callao / Ventanilla / Pachacutec Av 150",
+    "agencia": "Pachacutec Av 150",
     "distrito": "Ventanilla",
     "direccion_completa": "Av. 150 Izquierda Mz. W2 Lt. 01 Proyecto Piloto Nuevo pachacutec, Ventanilla - Callao - Callao",
     "referencia": "A 1 Cdra. Del Cruce Av. Camino Del Inca",
@@ -610,6 +697,7 @@
   },
   {
     "ruta_agencia": "Callao / Callao / Ventanilla / Pachacutec Pdro Chinitas",
+    "agencia": "Pachacutec Pdro Chinitas",
     "distrito": "Ventanilla",
     "direccion_completa": "Av. 225 Mz. H Sub Lt. T. 11 - Asoc Proy. Esp. Ciudad Pachacutec",
     "referencia": "A 1 Cdra. Del Cruce Con Av. Los Proyectistas, Ventanilla - Lima - Lima",
@@ -617,6 +705,7 @@
   },
   {
     "ruta_agencia": "Callao / Callao / Ventanilla / Pachacutec Pdro Vc",
+    "agencia": "Pachacutec Pdro Vc",
     "distrito": "Ventanilla",
     "direccion_completa": "Av. 225 Mz F Lote 2 Sector A Grupo Residencial A2 - Proyecto piloto Nuevo Pachacutec, Ventanilla - Callao - Callao",
     "referencia": "Frente Al Centro De Salud 3 De Febrero",
@@ -624,6 +713,7 @@
   },
   {
     "ruta_agencia": "Callao / Callao / Ventanilla / Parad. Los Licenciados",
+    "agencia": "Parad. Los Licenciados",
     "distrito": "Ventanilla",
     "direccion_completa": "Calle 19, Mz. J Lt. 26 Zn - Urb. Coop. De La Marina",
     "referencia": "Al Costado De Lubricentro Pablito Romero",
@@ -631,6 +721,7 @@
   },
   {
     "ruta_agencia": "Cusco / Anta / Anta / Anta Izcuchaca",
+    "agencia": "Anta Izcuchaca",
     "distrito": "Anta",
     "direccion_completa": "Parque Del Carmen Lt. 1 Mz. B 2, Anta - Anta - Cusco",
     "referencia": "Paradero Carmen, Pista Principal Izcuchaca",
@@ -638,6 +729,7 @@
   },
   {
     "ruta_agencia": "Cusco / Calca / Calca / Cusco Calca",
+    "agencia": "Cusco Calca",
     "distrito": "Calca",
     "direccion_completa": "Av. Vilcanota Mz. A Lt 4 Calca - Cusco",
     "referencia": "Frente Al Grifo Petro Perú O El Óvalo Puma - Entrada De Calca",
@@ -645,6 +737,7 @@
   },
   {
     "ruta_agencia": "Cusco / Calca / Pisac / Pisac",
+    "agencia": "Pisac",
     "distrito": "Pisac",
     "direccion_completa": "Av Vilcanota S/n, Pisac - Calca - Cusco",
     "referencia": "A Media Cdra. Del Puente De Pisac / Carretera A Taray",
@@ -652,6 +745,7 @@
   },
   {
     "ruta_agencia": "Cusco / Canchis / Combapata / Combapata",
+    "agencia": "Combapata",
     "distrito": "Combapata",
     "direccion_completa": "Av. Señor De Huanca S/n - Combapata - Canchis - Cusco",
     "referencia": "Al Costado Del Grifo Señor De Qoylluriti - A Orillas De La Misma Carretera A Sicuani",
@@ -659,6 +753,7 @@
   },
   {
     "ruta_agencia": "Cusco / Canchis / Sicuani / Sicuani Av Manuel Callo",
+    "agencia": "Sicuani Av Manuel Callo",
     "distrito": "Sicuani",
     "direccion_completa": "Jr. Inambari Nro. 208, Sicuani - Canchis - Cusco",
     "referencia": "Al Frente Del Bcp Y De Caja Piura",
@@ -666,6 +761,7 @@
   },
   {
     "ruta_agencia": "Cusco / Canchis / Sicuani / Sicuani Co Ovalo San Andres",
+    "agencia": "Sicuani Co Ovalo San Andres",
     "distrito": "Sicuani",
     "direccion_completa": "Prolong. Av. Arequipa 1010 S/n",
     "referencia": "Al Costado Del Grifo Guadalupe En El Óvalo San Andrés",
@@ -673,6 +769,7 @@
   },
   {
     "ruta_agencia": "Cusco / Chumbivilcas / Santo Tomas / Santo Tomas",
+    "agencia": "Santo Tomas",
     "distrito": "Santo Tomas",
     "direccion_completa": "Calle Bolognesi Mz. 02 Lt. 25, Santo Tomas - Chumbivilcas - Cusco",
     "referencia": "A Espaldas De La Polleria Pico Dorado Y A Media Cdra. De La Av Santa Barbara",
@@ -680,6 +777,7 @@
   },
   {
     "ruta_agencia": "Cusco / Cusco / Cusco / Tica Tica",
+    "agencia": "Tica Tica",
     "distrito": "Cusco",
     "direccion_completa": "Arco Ticatica Pustipata, Lt. N° A - 11 - 2, Cusco",
     "referencia": "En La Av. Principal A 3 Cdras. Del Mercado Tica Tica",
@@ -687,6 +785,7 @@
   },
   {
     "ruta_agencia": "Cusco / Cusco / San Jeronimo / San Jeronimo",
+    "agencia": "San Jeronimo",
     "distrito": "San Jeronimo",
     "direccion_completa": "Calle Ciro Alegría 226 - 224",
     "referencia": "Una Cuadra Antes Del Paradero Penal En El Carril De Bajada",
@@ -694,6 +793,7 @@
   },
   {
     "ruta_agencia": "Cusco / Cusco / San Sebastian / Cachimayo - San Sebastian",
+    "agencia": "Cachimayo - San Sebastian",
     "distrito": "San Sebastian",
     "direccion_completa": "Urb. Cachimayo A-37 Av. La Cultura – San Sebastian – Cusco",
     "referencia": "Entre Paradero Enaco Y Parque Cachimayo, A 2 Cuadra De La Universidad Andina.",
@@ -701,6 +801,7 @@
   },
   {
     "ruta_agencia": "Cusco / Cusco / San Sebastian / Cusco Co Via Evitamiento",
+    "agencia": "Cusco Co Via Evitamiento",
     "distrito": "San Sebastian",
     "direccion_completa": "Av. Evitamiento S/n Ups Chacahuayco, san Sebastian - Cusco - Cusco",
     "referencia": "Vía evitamiento En El Paradero Horacio",
@@ -708,6 +809,7 @@
   },
   {
     "ruta_agencia": "Cusco / Cusco / San Sebastian / Via Expresa Sur",
+    "agencia": "Via Expresa Sur",
     "distrito": "San Sebastian",
     "direccion_completa": "Urb. Tupac Amaru B-1-2 san Sebastian – Cusco",
     "referencia": "Terminando La Via Expresa Zona Sur",
@@ -715,6 +817,7 @@
   },
   {
     "ruta_agencia": "Cusco / Cusco / Santiago / Av Antonio Lorena",
+    "agencia": "Av Antonio Lorena",
     "distrito": "Santiago",
     "direccion_completa": "Prolongación Av. Antonio Lorena # 140 - Santiago, Cusco",
     "referencia": "Al Frente Del Cementerio Almudena",
@@ -722,6 +825,7 @@
   },
   {
     "ruta_agencia": "Cusco / Cusco / Santiago / Huancaro",
+    "agencia": "Huancaro",
     "distrito": "Santiago",
     "direccion_completa": "Urb. Villa Union F-1-b Huancaro, Santiago - Cusco - Cusco",
     "referencia": "Frente A La Iglesia De Los Mormones/ A Una Cdra. Del Mercado Huancaro",
@@ -729,6 +833,7 @@
   },
   {
     "ruta_agencia": "Cusco / Cusco / Santiago / Urb. Bancopata Av. Industrial",
+    "agencia": "Urb. Bancopata Av. Industrial",
     "distrito": "Santiago",
     "direccion_completa": "Av. Industrial Urb. Bancopata J-20, Santiago - Cusco",
     "referencia": "a 2 Cdras. Del Ovalo Pachacutec, Frente A La Empresa Coca Cola",
@@ -736,6 +841,7 @@
   },
   {
     "ruta_agencia": "Cusco / Cusco / Wanchaq / Av Pachacutec",
+    "agencia": "Av Pachacutec",
     "distrito": "Wanchaq",
     "direccion_completa": "Av. Pachacutec 429 - Wanchaq",
     "referencia": "A 100 Mtrs. De La Piscina Wanchaq",
@@ -743,6 +849,7 @@
   },
   {
     "ruta_agencia": "Cusco / Cusco / Wanchaq / Cusco Parque Industrial",
+    "agencia": "Cusco Parque Industrial",
     "distrito": "Wanchaq",
     "direccion_completa": "Av. Las Americas Mz. E Lt. 20, 2da Etapa, Urb. Parque Industrial, Wanchaq - Cusco",
     "referencia": "Al Frente De Talleres Pfuro, Al Frente De Mederera Urpi, Paralela a La Av Via Expresa.",
@@ -750,6 +857,7 @@
   },
   {
     "ruta_agencia": "Cusco / Cusco / Wanchaq / Velasco Astete",
+    "agencia": "Velasco Astete",
     "distrito": "Wanchaq",
     "direccion_completa": "Velasco Astete D3 - Wanchaq",
     "referencia": "A 2 Cdras. Del Aereopuerto",
@@ -757,6 +865,7 @@
   },
   {
     "ruta_agencia": "Cusco / Espinar / Yauri ( Espinar ) / Espinar",
+    "agencia": "Espinar",
     "distrito": "Yauri ( Espinar )",
     "direccion_completa": "Calle San Jose N° 703 Barrio Progreso, Yauri (espinar) - Espinar - Cusco",
     "referencia": "a Media Cdra. Del Grifo San Jose / A Media Cdra. De La Av. Tintaya",
@@ -764,6 +873,7 @@
   },
   {
     "ruta_agencia": "Cusco / La Convencion / Santa Ana / Quillabamba",
+    "agencia": "Quillabamba",
     "distrito": "Santa Ana",
     "direccion_completa": "Jr. Puno Lt. 10 Y 11 Mz. G Urb. Santa Ana, Cusco - La Convencion - Santa Ana",
     "referencia": "A Media Cdra.l Del Estadio Municipal De Quillabamba / Cruce Con Prolongacion Jr. Martin Pio Concha",
@@ -771,6 +881,7 @@
   },
   {
     "ruta_agencia": "Cusco / Quispicanchi / Ocongate / Ocongate",
+    "agencia": "Ocongate",
     "distrito": "Ocongate",
     "direccion_completa": "Sect. Mayo Ucjo S/n, Ocongate - Quispicanchi - Cusco",
     "referencia": "A La Espalda Del Terminal De Buses De Ocongate / A Orillas De La Carreta A Mazuko",
@@ -778,6 +889,7 @@
   },
   {
     "ruta_agencia": "Cusco / Quispicanchi / Oropesa / Oropesa",
+    "agencia": "Oropesa",
     "distrito": "Oropesa",
     "direccion_completa": "Sec. Chimpapampa Apv. Jose Ccarlos Mareategui s/n, Oropesa - Quispicanchi - Cusco",
     "referencia": "A Una Cdra. De La Carreta A Urcos / A Una Cdra. De La Panificadora Cachito Amarillo",
@@ -785,6 +897,7 @@
   },
   {
     "ruta_agencia": "Cusco / Quispicanchi / Urcos / Urcos",
+    "agencia": "Urcos",
     "distrito": "Urcos",
     "direccion_completa": "Mayupata S/n Paucarbamba, Urcos - Quispicanchi - Cusco",
     "referencia": "Al Frende Del Estadio Municipal De Urcos / Al Frente Del Terminal Terrestre De Urcos",
@@ -792,6 +905,7 @@
   },
   {
     "ruta_agencia": "Cusco / Urubamba / Chinchero / Chinchero",
+    "agencia": "Chinchero",
     "distrito": "Chinchero",
     "direccion_completa": "Av. Mateo Pumacahua S/n, Chinchero - Urubamba - Cusco",
     "referencia": "Al costado De La Caja Cusco / En La Misma Carretera A Urubamba",
@@ -799,6 +913,7 @@
   },
   {
     "ruta_agencia": "Cusco / Urubamba / Urubamba / Cusco Urubamba",
+    "agencia": "Cusco Urubamba",
     "distrito": "Urubamba",
     "direccion_completa": "Lt. E-3 Fracción -1, Sector Patahuasi, Urubamba – Urubamba - Cusco",
     "referencia": "A Una Cdra. De La Carretera A Ollantaytambo / A Media Cdra. Del Parque Teresita",
@@ -806,6 +921,7 @@
   },
   {
     "ruta_agencia": "Huancavelica / Huancavelica / Huancavelica / Huancavelica",
+    "agencia": "Huancavelica",
     "distrito": "Huancavelica",
     "direccion_completa": "Av. Universitaria 1003 - Huancavelica",
     "referencia": "A 1 Cdra. De La Escuela Santa Ana Y A 3 Cdras. Del Puente Del Ejército (barrio Santa Ana)",
@@ -813,6 +929,7 @@
   },
   {
     "ruta_agencia": "Huanuco / Ambo / Ambo / Ambo",
+    "agencia": "Ambo",
     "distrito": "Ambo",
     "direccion_completa": "Av. Las Americas 501",
     "referencia": "Al Frente Del Colegio Juan José Crespo Y Castillo",
@@ -820,6 +937,7 @@
   },
   {
     "ruta_agencia": "Huanuco / Huanuco / Amarilis / Amarilis Co",
+    "agencia": "Amarilis Co",
     "distrito": "Amarilis",
     "direccion_completa": "Jr. Los Pinos Lote 3 -d2 Urb Los Pinos - Amarilis - Huánuco",
     "referencia": "A La Espalda De Toyota Huánuco",
@@ -827,6 +945,7 @@
   },
   {
     "ruta_agencia": "Huanuco / Huanuco / Huanuco / Jr Aguilar",
+    "agencia": "Jr Aguilar",
     "distrito": "Huanuco",
     "direccion_completa": "Jr. Aguilar N° 872 - Huánuco",
     "referencia": "",
@@ -834,6 +953,7 @@
   },
   {
     "ruta_agencia": "Huanuco / Leoncio Prado / Jose Crespo Y Castil / Aucayacu",
+    "agencia": "Aucayacu",
     "distrito": "Jose Crespo Y Castil",
     "direccion_completa": "Jr. Chiclayo 247 0c-02 Cent Aucayu, Leoncio Prado, Huánuco",
     "referencia": "Atrás Del Estadio Municipal",
@@ -841,6 +961,7 @@
   },
   {
     "ruta_agencia": "Huanuco / Leoncio Prado / Rupa Rupa / Tingo Maria Co Buenos Aires",
+    "agencia": "Tingo Maria Co Buenos Aires",
     "distrito": "Rupa Rupa",
     "direccion_completa": "Calle Rosario Central",
     "referencia": "Segunda Entrada De Buenos Aires, En La Misma Esquina",
@@ -848,6 +969,7 @@
   },
   {
     "ruta_agencia": "Huanuco / Leoncio Prado / Rupa Rupa / Tingo María - Leoncio Prado",
+    "agencia": "Tingo María - Leoncio Prado",
     "distrito": "Rupa Rupa",
     "direccion_completa": "Av. Tito Jaime 914, Rupa Rupa- Leoncio Prado - Huanuco",
     "referencia": "A Dos Cdras. De La Plaza De Armas Leoncio Pardo",
@@ -855,6 +977,7 @@
   },
   {
     "ruta_agencia": "Ica / Chincha / Chincha Alta / Calle Los Angeles",
+    "agencia": "Calle Los Angeles",
     "distrito": "Chincha Alta",
     "direccion_completa": "Calle Los Ángeles N° Casa 217 01 - A Sin Barriio Cercado, Chincha Alta - Chincha - Ica",
     "referencia": "A 2 Cdras. De La Plaza De Armas De Chncha Pasando Electrodunas",
@@ -862,6 +985,7 @@
   },
   {
     "ruta_agencia": "Ica / Chincha / Chincha Alta / Prolong Luis Massaro",
+    "agencia": "Prolong Luis Massaro",
     "distrito": "Chincha Alta",
     "direccion_completa": "Prolongacion Luis Massaro N°247 - Chincha Alta",
     "referencia": "",
@@ -869,6 +993,7 @@
   },
   {
     "ruta_agencia": "Ica / Chincha / Pueblo Nuevo / Chincha Pueblo Nuevo",
+    "agencia": "Chincha Pueblo Nuevo",
     "distrito": "Pueblo Nuevo",
     "direccion_completa": "Aa. Hh. Los Alamos, Calle Los Laureles Mz. 17 Lt. 11- A",
     "referencia": "A 2 Cdras. De La Posta Los Álamos",
@@ -876,6 +1001,7 @@
   },
   {
     "ruta_agencia": "Ica / Chincha / Sunampe / Sunampe Co",
+    "agencia": "Sunampe Co",
     "distrito": "Sunampe",
     "direccion_completa": "Carr. Panamericana sur Nro. 198 -b , Sin Barrio Cercado Sunampe, Sunampe - Chincha - Ica",
     "referencia": "Antigua panamericana Sur Frente A La Entrada De Grocio Prado.",
@@ -883,6 +1009,7 @@
   },
   {
     "ruta_agencia": "Ica / Ica / Ica / Ica Av. Jj Elias",
+    "agencia": "Ica Av. Jj Elias",
     "distrito": "Ica",
     "direccion_completa": "Manzana B, Sub-lote 02 Del Fundo La Palma Ica",
     "referencia": "Cruce De Av. Cutervo Con Av. J.j Elias",
@@ -890,6 +1017,7 @@
   },
   {
     "ruta_agencia": "Ica / Ica / Ica / Ica San Joaquin",
+    "agencia": "Ica San Joaquin",
     "distrito": "Ica",
     "direccion_completa": "Pasaje Grau N° 101 San Joaquin - Ica",
     "referencia": "A 1 Cdra De Petro Peru",
@@ -897,6 +1025,7 @@
   },
   {
     "ruta_agencia": "Ica / Ica / Ica / Ica Urb. Manzanilla",
+    "agencia": "Ica Urb. Manzanilla",
     "distrito": "Ica",
     "direccion_completa": "Av. Manuel Santana Chiri N°359 A1 – Ica",
     "referencia": "Cruce Con Calle Baltazar Caravedo",
@@ -904,6 +1033,7 @@
   },
   {
     "ruta_agencia": "Ica / Ica / La Tinguina / La Tinguiña",
+    "agencia": "La Tinguiña",
     "distrito": "La Tinguina",
     "direccion_completa": "Calle Francisco Sales Sotelo N° 298 Sub Lote 3, La Tinguiña - Ica – Ica",
     "referencia": "Cruce De La Av.frncisco Sales Sotelo Y Av. Jose Carlos Mariategui",
@@ -911,6 +1041,7 @@
   },
   {
     "ruta_agencia": "Ica / Ica / Parcona / Parcona",
+    "agencia": "Parcona",
     "distrito": "Parcona",
     "direccion_completa": "Cp. De Parcona -cercado (primera Etapa) Mz. B Lote 16 Parcona - Ica",
     "referencia": "Av. 18 De Febrero y Cruce De Av. Natividad Paco",
@@ -918,6 +1049,7 @@
   },
   {
     "ruta_agencia": "Ica / Ica / Salas / Salas Ica",
+    "agencia": "Salas Ica",
     "distrito": "Salas",
     "direccion_completa": "Sub Lote 01 zona panamericana sur km. 293.350, Salas guadalupe - Ica - Ica",
     "referencia": "Frente Al Estadio De Salas Guadalupe",
@@ -925,6 +1057,7 @@
   },
   {
     "ruta_agencia": "Ica / Ica / Santiago / Ica Santiago",
+    "agencia": "Ica Santiago",
     "distrito": "Santiago",
     "direccion_completa": "Centro Poblado Santiago Mz. E, Lt. 01 Sector Ii Santiago - Ica - Ica",
     "referencia": "Frente A La Comisaria De Santiago",
@@ -932,6 +1065,7 @@
   },
   {
     "ruta_agencia": "Ica / Ica / Subtanjalla / Ica Subtanjalla Co",
+    "agencia": "Ica Subtanjalla Co",
     "distrito": "Subtanjalla",
     "direccion_completa": "C.p - Sector Macacona /predio Parcela 214 Lote 2, Subtanjalla - Ica - Ica",
     "referencia": "Panamericana Sur Frente A La Entrada Del Arrabal",
@@ -939,6 +1073,7 @@
   },
   {
     "ruta_agencia": "Ica / Nazca / Marcona / San Juan De Marcona",
+    "agencia": "San Juan De Marcona",
     "distrito": "Marcona",
     "direccion_completa": "A.h. San Martin De Porres E-28 San Juan De Marcona - Nazca - Ica",
     "referencia": "Entre El Hotel San Martin Y El Minimarket Lana",
@@ -946,6 +1081,7 @@
   },
   {
     "ruta_agencia": "Ica / Nazca / Nazca / Av Circunvalacion Nazca",
+    "agencia": "Av Circunvalacion Nazca",
     "distrito": "Nazca",
     "direccion_completa": "En La Esquina De La Av. Circunvalación Con Calle S/n, Hoy Calle Las Mercedes S/n Nasca",
     "referencia": "Al Lado De La Iep Jean Piaget",
@@ -953,6 +1089,7 @@
   },
   {
     "ruta_agencia": "Ica / Nazca / Vista Alegre / Vista Alegre Co",
+    "agencia": "Vista Alegre Co",
     "distrito": "Vista Alegre",
     "direccion_completa": "Carretera Panamericana Sur Nu00b0 906, Vista Alegre - Nazca -u00a0ica",
     "referencia": "Frente Al Aeropuerto De Vista Alegre",
@@ -960,6 +1097,7 @@
   },
   {
     "ruta_agencia": "Ica / Pisco / Pisco / Av Abraham Valdelomar Co",
+    "agencia": "Av Abraham Valdelomar Co",
     "distrito": "Pisco",
     "direccion_completa": "Av. Abraham Valdelomar Nro. Puerta 965 Pisco - Pisco - Ica",
     "referencia": "A Una Cdra. Por La Posta San Martin",
@@ -967,6 +1105,7 @@
   },
   {
     "ruta_agencia": "Ica / Pisco / Pisco / La Villa Cruce Pisco",
+    "agencia": "La Villa Cruce Pisco",
     "distrito": "Pisco",
     "direccion_completa": "C. P. Oblacion Villa Los Angeles Mz.a Lt 13 B La Villa pisco-pisco-ica",
     "referencia": "A 100 Metros Con Dirección Al Sur Dedl Cruce Panamericana Antigua C/n Av. Fermín Tangüis",
@@ -974,6 +1113,7 @@
   },
   {
     "ruta_agencia": "Ica / Pisco / San Clemente / San Clemente",
+    "agencia": "San Clemente",
     "distrito": "San Clemente",
     "direccion_completa": "Av. Los Libertadores Grupo Número 1 Mz,91 Lote 7ª San Clemente - Pisco - Ica",
     "referencia": "Libertadores Sexta Cuadra,frente Del Grifo Santa Rosa",
@@ -981,6 +1121,7 @@
   },
   {
     "ruta_agencia": "Junin / Chanchamayo / Bajo Pichanaqui / Pichanaki",
+    "agencia": "Pichanaki",
     "distrito": "Bajo Pichanaqui",
     "direccion_completa": "Av. Venus Lt. 20 Ciudad Satélite",
     "referencia": "( A 1 Cuadra Y Media Del Parque De Satélite)",
@@ -988,6 +1129,7 @@
   },
   {
     "ruta_agencia": "Junin / Chanchamayo / La Merced / La Merced",
+    "agencia": "La Merced",
     "distrito": "La Merced",
     "direccion_completa": "Av. Peru 931 Sector Pampa Del Carmen, La Merced -chanchamayo - Junín",
     "referencia": "Frente A La Cooperativa Chanchamayo",
@@ -995,6 +1137,7 @@
   },
   {
     "ruta_agencia": "Junin / Chanchamayo / Perene / Perene",
+    "agencia": "Perene",
     "distrito": "Perene",
     "direccion_completa": "Av. Marginal S/n Aa.vv San Jacinto - perene - Chanchamayo - Junin",
     "referencia": "Antes Del Ultimo Rompemuelle De San Jacinto",
@@ -1002,6 +1145,7 @@
   },
   {
     "ruta_agencia": "Junin / Chanchamayo / San Ramon / San Ramón",
+    "agencia": "San Ramón",
     "distrito": "San Ramon",
     "direccion_completa": "Jr. Ucayali 102 - San Ramón",
     "referencia": "Frente A La Caja Huancayo Y El Parque El Avión",
@@ -1009,6 +1153,7 @@
   },
   {
     "ruta_agencia": "Junin / Chupaca / Chupaca / Chupaca",
+    "agencia": "Chupaca",
     "distrito": "Chupaca",
     "direccion_completa": "Jr. Ramon Castilla 201, Chupaca - Chupaca - Junin",
     "referencia": "A Una Cdra. De La Plaza Principal De Chupaca",
@@ -1016,6 +1161,7 @@
   },
   {
     "ruta_agencia": "Junin / Concepcion / Concepcion / Concepcion",
+    "agencia": "Concepcion",
     "distrito": "Concepcion",
     "direccion_completa": "Carretera Central Lt. 7 - Mz. E5, Concepción - Concepción - Junín",
     "referencia": "Esquina Con Tupac Amaru",
@@ -1023,6 +1169,7 @@
   },
   {
     "ruta_agencia": "Junin / Huancayo / Chilca / Chilca Huancayo",
+    "agencia": "Chilca Huancayo",
     "distrito": "Chilca",
     "direccion_completa": "Jr. 28 De Julio N° 935",
     "referencia": "Esquina 28 De Julio Y Santos Chocano",
@@ -1030,6 +1177,7 @@
   },
   {
     "ruta_agencia": "Junin / Huancayo / Chilca / Chilca Leoncio Prado",
+    "agencia": "Chilca Leoncio Prado",
     "distrito": "Chilca",
     "direccion_completa": "Jr. Leonico Prado 656, Chilca – Huancayo - Junín",
     "referencia": "Esquina Con Jiron Jose Olaya",
@@ -1037,6 +1185,7 @@
   },
   {
     "ruta_agencia": "Junin / Huancayo / El Tambo / Av Circunvalación Cruce Con Mariategui",
+    "agencia": "Av Circunvalación Cruce Con Mariategui",
     "distrito": "El Tambo",
     "direccion_completa": "Av. Circunvalación 480 T-1, El Tambo - Huancayo - Junin",
     "referencia": "Esquina Con Prolongación Mariategui",
@@ -1044,6 +1193,7 @@
   },
   {
     "ruta_agencia": "Junin / Huancayo / El Tambo / Av Mariscal Castilla Co Parque Industrial",
+    "agencia": "Av Mariscal Castilla Co Parque Industrial",
     "distrito": "El Tambo",
     "direccion_completa": "Av Mariscal Castilla 2769",
     "referencia": "Frente Al Colegio Andres Bello",
@@ -1051,6 +1201,7 @@
   },
   {
     "ruta_agencia": "Junin / Huancayo / El Tambo / Ciudad Universitaria",
+    "agencia": "Ciudad Universitaria",
     "distrito": "El Tambo",
     "direccion_completa": "Jr Tarma Nro. 37 - 24, El Tambo - Huancayo - Junín",
     "referencia": "Al Costado De La Facultad De Ingeniería Metalúrgica Uncp",
@@ -1058,6 +1209,7 @@
   },
   {
     "ruta_agencia": "Junin / Huancayo / El Tambo / Pio Pata",
+    "agencia": "Pio Pata",
     "distrito": "El Tambo",
     "direccion_completa": "Av. Huancavelica 1201, El Tambo - Huancayo - Junín",
     "referencia": "Esquina Con El Jr. La Victoria",
@@ -1065,6 +1217,7 @@
   },
   {
     "ruta_agencia": "Junin / Huancayo / Huancayo / Huancayo Jr. Ica",
+    "agencia": "Huancayo Jr. Ica",
     "distrito": "Huancayo",
     "direccion_completa": "Jr. Ica Nº 1143 - Huancayo",
     "referencia": "Entre El Jr. Ica Y El Jr. Tacna",
@@ -1072,6 +1225,7 @@
   },
   {
     "ruta_agencia": "Junin / Huancayo / Huancayo / San Carlos Huancayo",
+    "agencia": "San Carlos Huancayo",
     "distrito": "Huancayo",
     "direccion_completa": "Pj. San Fernando 209 Huancayo - Huancayo - Junin",
     "referencia": "Esquina Del Jr. San Fernando Y Mártires Del Periodismo",
@@ -1079,6 +1233,7 @@
   },
   {
     "ruta_agencia": "Junin / Huancayo / Huancayo / Terminal Los Andes",
+    "agencia": "Terminal Los Andes",
     "distrito": "Huancayo",
     "direccion_completa": "Av. Ferrocarril S/n - Huancayo - Counter N° 14",
     "referencia": "Terminal Terrestre Los Andes, Frente Al Open Plaza",
@@ -1086,6 +1241,7 @@
   },
   {
     "ruta_agencia": "Junin / Huancayo / Pilcomayo / Pilcomayo",
+    "agencia": "Pilcomayo",
     "distrito": "Pilcomayo",
     "direccion_completa": "Plaza Independencia 131, Pilcomayo - Huancayo - Junín",
     "referencia": "Plaza Principal De Pilcomayo",
@@ -1093,6 +1249,7 @@
   },
   {
     "ruta_agencia": "Junin / Huancayo / San Agustin / San Agustin De Cajas",
+    "agencia": "San Agustin De Cajas",
     "distrito": "San Agustin",
     "direccion_completa": "Carretera Central Km 7.5 S/n San Agustin – Huancayo – Junín",
     "referencia": "Frente A La Envasadora Solgas",
@@ -1100,6 +1257,7 @@
   },
   {
     "ruta_agencia": "Junin / Jauja / Jauja / Jauja",
+    "agencia": "Jauja",
     "distrito": "Jauja",
     "direccion_completa": "Jr. Estanislao Marquez 286, Yauyos - Jauja - Junín",
     "referencia": "Esquina Con Jr. 4 De Enero",
@@ -1107,6 +1265,7 @@
   },
   {
     "ruta_agencia": "Junin / Jauja / Jauja / Terminal Jauja",
+    "agencia": "Terminal Jauja",
     "distrito": "Jauja",
     "direccion_completa": "Jr.luis Bardales S/n, Jauja – Jauja – Junín",
     "referencia": "Terminal Terrestre Hatun Xauxa",
@@ -1114,6 +1273,7 @@
   },
   {
     "ruta_agencia": "Junin / Satipo / Mazamari / Mazamari",
+    "agencia": "Mazamari",
     "distrito": "Mazamari",
     "direccion_completa": "Jr. Jorge Chavez Nro 144 Lt. 8a Junín - Satipo– Mazamari",
     "referencia": "Cerca A La Vía Principal, Al Costado Del Hospedaje Luján 1er Piso",
@@ -1121,6 +1281,7 @@
   },
   {
     "ruta_agencia": "Junin / Satipo / Pangoa / Pangoa",
+    "agencia": "Pangoa",
     "distrito": "Pangoa",
     "direccion_completa": "Av. Marginal S/n Número Villa Chavini Pangoa - Satipo - Junín",
     "referencia": "Al Costado De La Tienda Honda Inversiones Arauco San Martín De Pangoa",
@@ -1128,6 +1289,7 @@
   },
   {
     "ruta_agencia": "Junin / Satipo / Satipo / Satipo",
+    "agencia": "Satipo",
     "distrito": "Satipo",
     "direccion_completa": "Jr. Francisco Irazola 1077 - Junín",
     "referencia": "Fábrica La Satipeña",
@@ -1135,6 +1297,7 @@
   },
   {
     "ruta_agencia": "Junin / Tarma / Tarma / Tarma",
+    "agencia": "Tarma",
     "distrito": "Tarma",
     "direccion_completa": "Jr. Amazonas Nro. 1164 Tarma - Junín",
     "referencia": "entre Jr. Amazonas Con Av. Vienrich",
@@ -1142,6 +1305,7 @@
   },
   {
     "ruta_agencia": "Junin / Yauli / La Oroya / La Oroya",
+    "agencia": "La Oroya",
     "distrito": "La Oroya",
     "direccion_completa": "Av. Arévalo S/n (carretera Central) - Anexo El Tambo - Santa Rosa De Sacco",
     "referencia": "",
@@ -1149,6 +1313,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Ascope / Casa Grande / Casa Grande",
+    "agencia": "Casa Grande",
     "distrito": "Casa Grande",
     "direccion_completa": "Calle Luis sánchez N° 152 Sector Parte Alta. Casa Grande - Ascope - La Libertad",
     "referencia": "Cruce Con av. Estadio",
@@ -1156,6 +1321,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Ascope / Paijan / Paijan",
+    "agencia": "Paijan",
     "distrito": "Paijan",
     "direccion_completa": "Av. Panamericana Norte N° 1320 - Paijan",
     "referencia": "",
@@ -1163,6 +1329,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Chepen / Chepen / Chepen",
+    "agencia": "Chepen",
     "distrito": "Chepen",
     "direccion_completa": "Prolongacion Ezequiel Gonzales Caceda 193 - Sec. Chepen, Frente Al Coliseo",
     "referencia": "",
@@ -1170,6 +1337,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Chepen / Pacanga / Pacanguilla",
+    "agencia": "Pacanguilla",
     "distrito": "Pacanga",
     "direccion_completa": "Carretera Panamericana # 835 - Urb. Pacanguilla - Distrito Pacanga",
     "referencia": "En La Misma Panamericana",
@@ -1177,6 +1345,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Otuzco / Otuzco / Otuzco",
+    "agencia": "Otuzco",
     "distrito": "Otuzco",
     "direccion_completa": "Av. Alfredo Gutiérrez N° 120 - Otuzco - Otuzco - La Libertad.",
     "referencia": "",
@@ -1184,6 +1353,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Pacasmayo / Guadalupe / Ciudad De Dios",
+    "agencia": "Ciudad De Dios",
     "distrito": "Guadalupe",
     "direccion_completa": "Mz. A Lt. 01 Cpm Ciudad De Dios - Sec. Los Ángeles – Guadalupe – La Libertad",
     "referencia": "Al Costado Del Molino Samán Y A Dos Cuadras Del Cruce A Cajamarca",
@@ -1191,6 +1361,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Pacasmayo / Guadalupe / Guadalupe La Libertad",
+    "agencia": "Guadalupe La Libertad",
     "distrito": "Guadalupe",
     "direccion_completa": "Av. Nilla Cerruty N° 299 - Guadalupe – Pacasmayo – La Libertad",
     "referencia": "Al Costado Del Grifo Repsol - Neotech",
@@ -1198,6 +1369,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Pacasmayo / Pacasmayo / Pacasmayo Centro",
+    "agencia": "Pacasmayo Centro",
     "distrito": "Pacasmayo",
     "direccion_completa": "Av. Gonzalo Ugaz Salcedo S/n - Pacasmayo - La Libertad",
     "referencia": "Al Costado Del Estadio Municipal De Pacasmayo / A Media Cdra. Del Supermercado Tottus",
@@ -1205,6 +1377,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Pacasmayo / Pacasmayo / Pacasmayo Las Palmeras",
+    "agencia": "Pacasmayo Las Palmeras",
     "distrito": "Pacasmayo",
     "direccion_completa": "Ctra. Panamericana Norte N° Mz. P Lt. 4a - A.h. Las Palmeras",
     "referencia": "Entre Av. Sucre Y Av. Leoncio Prado",
@@ -1212,6 +1385,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Pacasmayo / San Pedro De Lloc / San Pedro De Lloc",
+    "agencia": "San Pedro De Lloc",
     "distrito": "San Pedro De Lloc",
     "direccion_completa": "Av. Vía De Evitamiento N° 407, San Pedro De Lloc - Pacasmayo - La Libertad",
     "referencia": "A Media Cdra. De La Calle Libertad/ A Media Cdra. Del Paradero De La Via De Evitamiento",
@@ -1219,6 +1393,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Sanchez Carrion / Huamachuco / Huamachuco",
+    "agencia": "Huamachuco",
     "distrito": "Huamachuco",
     "direccion_completa": "Jr. Simon Bolivar 763, Huamachuco Sanchez Carrion - La Libertad",
     "referencia": "Entre Jr. Independecia Y Jr. Alfonso Ugarte",
@@ -1226,6 +1401,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / El Porvenir / Alto Trujillo",
+    "agencia": "Alto Trujillo",
     "distrito": "El Porvenir",
     "direccion_completa": "Av. Prolongación 12 De Noviembre, Mz. Q, Lt. 25",
     "referencia": "A Media Cdra. De La Comisaría Alto Trujillo",
@@ -1233,6 +1409,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / El Porvenir / Av Hermanos Angulo",
+    "agencia": "Av Hermanos Angulo",
     "distrito": "El Porvenir",
     "direccion_completa": "Av. Hermanos Angulo 628, Trujillo",
     "referencia": "A Espaldas De La Municipalidad El Porvenir",
@@ -1240,6 +1417,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / El Porvenir / Av. Las Magnolias",
+    "agencia": "Av. Las Magnolias",
     "distrito": "El Porvenir",
     "direccion_completa": "Av. Las Magnolias Mz. 25 Lt. 2a Nuevo Porvenir, El Porvenir - Trujillo - La Libertad",
     "referencia": "A Una Cdra. Del Poder Judicial Cisaj Sede El Porvenir",
@@ -1247,6 +1425,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / El Porvenir / Jr. Cahuide",
+    "agencia": "Jr. Cahuide",
     "distrito": "El Porvenir",
     "direccion_completa": "Jr. Cahuide N° 342 Aa.hh La Merced - El Porvenir - Trujillo - La Libertad",
     "referencia": "A Una Cdra. Del Arco Del Porvenir / A Una Cdra. De La Parroquia El Buen Pastor",
@@ -1254,6 +1433,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / Huanchaco / El Milagro",
+    "agencia": "El Milagro",
     "distrito": "Huanchaco",
     "direccion_completa": "Av. Industrial Mz 23 Lt. 13 Sector Ii – el Milagro, Huanchaco - Trujillo - La Libertad",
     "referencia": "A 2 cdras. de la plaza de armas de el Milagro",
@@ -1261,6 +1441,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / Huanchaco / Ovalo Huanchaco Co",
+    "agencia": "Ovalo Huanchaco Co",
     "distrito": "Huanchaco",
     "direccion_completa": "Carretera Via De Evitamiento 576.2 Huanchaquito Alto - Trujillo - La Libertad",
     "referencia": "A 1 Cdra. De Ovalo Huanchaco / Al Costado De Condominio Las Brisas",
@@ -1268,6 +1449,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / La Esperanza / Av Tahuantinsuyo",
+    "agencia": "Av Tahuantinsuyo",
     "distrito": "La Esperanza",
     "direccion_completa": "Av. Tahuantinsuyo N° 739, la Esperanza – trujillo – la Libertad",
     "referencia": "Diagonal A Grifo El Amigo. / Entre Pasaje Santa Ana Y Av. Los Laureles",
@@ -1275,6 +1457,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / La Esperanza / Wichanzao",
+    "agencia": "Wichanzao",
     "distrito": "La Esperanza",
     "direccion_completa": "Mz. 1 Lt. 23 Aa.hh Wichanzao – la Esperanza – trujillo – la Libertad",
     "referencia": "Al Costado Del Almacén Sunat. / Diagonal Al Hospital De Alta Complejidad Virgen De La Puerta",
@@ -1282,6 +1465,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / Moche / Moche",
+    "agencia": "Moche",
     "distrito": "Moche",
     "direccion_completa": "Av. La Marina Lote 25 - B – Moche – Trujillo - La Libertad",
     "referencia": "A Media Cdra De La Comisaría De Moche",
@@ -1289,6 +1473,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / Trujillo / Atahualpa",
+    "agencia": "Atahualpa",
     "distrito": "Trujillo",
     "direccion_completa": "Calle Atahualpa 481 – Trujillo – La Libertad",
     "referencia": "A 1/2 Cdra De La Av Los Incas",
@@ -1296,6 +1481,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / Trujillo / Av Hnos Uceda - America Norte",
+    "agencia": "Av Hnos Uceda - America Norte",
     "distrito": "Trujillo",
     "direccion_completa": "Av. Hermanos Uceda Meza N° 269 Urb Miraflores Ii Etapa - trujillo - Trujillo - La Libertad",
     "referencia": "A Una Cdra. De Av. America Norte. / Entre Av. Miraflores Y Av. Salvador Lara",
@@ -1303,6 +1489,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / Trujillo / Calle Liverpool",
+    "agencia": "Calle Liverpool",
     "distrito": "Trujillo",
     "direccion_completa": "Calle Liverpool N° 329 / Urb. Santa Isabel - Trujillo.",
     "referencia": "A Una Cuadra Antes De La Iglesia De Mansiche",
@@ -1310,6 +1497,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / Trujillo / Calle Santa Cruz - America Sur",
+    "agencia": "Calle Santa Cruz - America Sur",
     "distrito": "Trujillo",
     "direccion_completa": "Calle Santa Cruz n° 389 Chicago - Trujillo - La Libertad",
     "referencia": "A Media Cdra. De La Av. America Sur/a Media Cuadra Del Estadio Chan Chan.",
@@ -1317,6 +1505,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / Trujillo / Ovalo Papal",
+    "agencia": "Ovalo Papal",
     "distrito": "Trujillo",
     "direccion_completa": "Urb. Vista Hermosa Mz. F Lt. 11 Piso °1 Trujillo - Trujillo - La Libertad",
     "referencia": "A Espaldas Del Metro Del Ovalo Papal",
@@ -1324,6 +1513,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Trujillo / Trujillo / Trujillo La Perla",
+    "agencia": "Trujillo La Perla",
     "distrito": "Trujillo",
     "direccion_completa": "Av. La Perla Mz. E Lote 05 Urb. Ingenieria – Trujillo – La Libertad",
     "referencia": "A 1 Cdra. Del Colegio Bruning",
@@ -1331,6 +1521,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Viru / Chao / Chao",
+    "agencia": "Chao",
     "distrito": "Chao",
     "direccion_completa": "Av. Victor Raul Haya De La Torre 575 Chao - Viru",
     "referencia": "A Media Cdra. De La Comisaría De Chao",
@@ -1338,6 +1529,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Viru / Viru / Puente Viru",
+    "agencia": "Puente Viru",
     "distrito": "Viru",
     "direccion_completa": "Panamericana Norte N° 933 Puente Virú - Virú - La Libertad",
     "referencia": "A Media Cdra. Del Grifo Zona Etna/media Cdra. Del Semaforo Zona Etna",
@@ -1345,6 +1537,7 @@
   },
   {
     "ruta_agencia": "La Libertad / Viru / Viru / Viru Centro",
+    "agencia": "Viru Centro",
     "distrito": "Viru",
     "direccion_completa": "Calle Puno N° 125 - Mz. 32 Lt. 7a - Virú - La Libertad",
     "referencia": "A Media Cdra. Del Cruce De La Av. Viru Con La Calle Jorge Chavez / a Media Cdra. De La Plazuela Maria Parado De Bellido",
@@ -1352,6 +1545,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Chiclayo / Chiclayo / Av Las Americas",
+    "agencia": "Av Las Americas",
     "distrito": "Chiclayo",
     "direccion_completa": "Av. Las Américas Lt. 42 Mz. D, Urb. Monterrico - I Etapa, Chiclayo - Chiclayo - Lambayeque",
     "referencia": "A Media Cdra. entre La Av. Colectora Y Av. Las Americas Y A Media Cdra. Del Grifo Sr. De Sipán",
@@ -1359,6 +1553,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Chiclayo / Chiclayo / Mariscal Nieto",
+    "agencia": "Mariscal Nieto",
     "distrito": "Chiclayo",
     "direccion_completa": "Calle Mariscal Nieto N° 390",
     "referencia": "Entre Mariscal Nieto Y Miguel Grau",
@@ -1366,6 +1561,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Chiclayo / Chiclayo / Miraflores Chiclayo",
+    "agencia": "Miraflores Chiclayo",
     "distrito": "Chiclayo",
     "direccion_completa": "Av. Panamericana 975 Pp Jj Luis Alberto Sanchez, Chiclayo - Chiclayo - Lambayeque",
     "referencia": "A Media Cdra. Del Ovalo Señor De Sipan / Al Frente De Derco Center",
@@ -1373,6 +1569,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Chiclayo / Chongoyape / Chongoyape",
+    "agencia": "Chongoyape",
     "distrito": "Chongoyape",
     "direccion_completa": "Av. Atahualpa N° 1200 - Chongoyape - Chiclayo - Lambayeque",
     "referencia": "Interseccion Con Calle Iquitos / A 2 Cdras. De La Interseccion Con La Av. Chiclayo",
@@ -1380,6 +1577,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Chiclayo / Jose Leonardo Ortiz / Av Balta Cdra. 36",
+    "agencia": "Av Balta Cdra. 36",
     "distrito": "Jose Leonardo Ortiz",
     "direccion_completa": "Av. Jose Balta N° 3653 C.p.m. Primero De Mayo Jose Leonardo Ortiz -chiclayo -lambayeque",
     "referencia": "Entre La Av. Balta Y Néstor Barsallo / a 2 Cuadras De La Av. Chiclayo",
@@ -1387,6 +1585,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Chiclayo / Jose Leonardo Ortiz / Calle Tahuantinsuyo",
+    "agencia": "Calle Tahuantinsuyo",
     "distrito": "Jose Leonardo Ortiz",
     "direccion_completa": "Calle Tahuantinsuyo 995 - Urb. San Lorenzo - Jose Leonardo Ortiz - Chiclayo - Lambayeque",
     "referencia": "Entre La Cdra. 2 De Av. América Y La Calle Tahuantinsuyo/a Media Cdra. De La Iglesia Los Mormones",
@@ -1394,6 +1593,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Chiclayo / La Victoria / Av Victor R. Haya Co",
+    "agencia": "Av Victor R. Haya Co",
     "distrito": "La Victoria",
     "direccion_completa": "Av. Víctor Raul Haya De La Torre 2470 La Victoria - Chiclayo",
     "referencia": "Entre La Via Evitamiento Y Panamericana",
@@ -1401,6 +1601,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Chiclayo / Monsefu / Monsefu",
+    "agencia": "Monsefu",
     "distrito": "Monsefu",
     "direccion_completa": "Av. Venezuela N° 221, Monsefú - Chiclayo - Lambayeque",
     "referencia": "Ref 01: A Media Cdra. De La Calle Diego Ferre Y A Cdra. Y Media Del Parque Artesanal De Monsefú",
@@ -1408,6 +1609,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Chiclayo / Patapo / Patapo",
+    "agencia": "Patapo",
     "distrito": "Patapo",
     "direccion_completa": "Av. Chongoyape N° S/n Sector Cerro Mirador, Patapo - Chiclayo - Lambayeque",
     "referencia": "A Una Cdra. Y Media De La Intersección Con Av Trapiche / Al Frente Del Polideportivo Del Cerro Mirador",
@@ -1415,6 +1617,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Chiclayo / Pimentel / Pimentel",
+    "agencia": "Pimentel",
     "distrito": "Pimentel",
     "direccion_completa": "Calle Miguel Grau Mz B Lote 3 - pimentel - chiclayo - Lambayeque",
     "referencia": "Al Costado De La Comisaria De Pimentel",
@@ -1422,6 +1625,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Chiclayo / Pomalca / Pomalca",
+    "agencia": "Pomalca",
     "distrito": "Pomalca",
     "direccion_completa": "Calle 25 Mz. I Lt. 6 Sect. 6 San Juan, Pomalca - Chiclayo - Lambayeque",
     "referencia": "A Una Cdra. Y Media De La Intersección Con Av. San Martin/ Al Frente De La Iglesia Mormon",
@@ -1429,6 +1633,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Chiclayo / Reque / Reque",
+    "agencia": "Reque",
     "distrito": "Reque",
     "direccion_completa": "Av. Mariscal Ramon Castilla Mz. 4 Lote 14, Reque - Chiclayo - Lambayeque",
     "referencia": "A Media Cdra. De La Interseccion Con Calle San Martin / A Unos Mtrs De Alborada Eventos Y Recepciones",
@@ -1436,6 +1641,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Chiclayo / Tuman / Tuman",
+    "agencia": "Tuman",
     "distrito": "Tuman",
     "direccion_completa": "Av. Chota N° 288 Sector Acapulco, Tuman - Chiclayo - Lambayeque",
     "referencia": "Al Costado Del Restaurant Manos Chotanas",
@@ -1443,6 +1649,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Ferrenafe / Ferrenafe / Ferreñafe",
+    "agencia": "Ferreñafe",
     "distrito": "Ferrenafe",
     "direccion_completa": "Av. Andrés A. Cáceres N°550a",
     "referencia": "Al Costado Del Grifo Primax",
@@ -1450,6 +1657,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Lambayeque / Jayanca / Jayanca",
+    "agencia": "Jayanca",
     "distrito": "Jayanca",
     "direccion_completa": "Calle Diego Ferre N°1321 - jayanca - Lambayeque",
     "referencia": "Al Frente Del Centro De Salud De Jayanca / A Media Cdra. Del Grifo Asia",
@@ -1457,6 +1665,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Lambayeque / Lambayeque / Lambayeque Centro",
+    "agencia": "Lambayeque Centro",
     "distrito": "Lambayeque",
     "direccion_completa": "Av. Federico Villarreal N° 491, Lambayeque - Lambayeque - Lambayeque",
     "referencia": "A Media Cdra. De La Interseccion De La av. Federico Villarreal Con Calle Emiliano Niño",
@@ -1464,6 +1673,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Lambayeque / Lambayeque / Lambayeque Panamericana",
+    "agencia": "Lambayeque Panamericana",
     "distrito": "Lambayeque",
     "direccion_completa": "Calle Paraguay Mz. D Lt 2a Unidad Vecinal Indoamérica - lambayeque",
     "referencia": "Al Costado De La Fábrica De Kinkones Bruning / A 01 Cuadra Del Puente Lambayeque",
@@ -1471,6 +1681,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Lambayeque / Morrope / Morrope",
+    "agencia": "Morrope",
     "distrito": "Morrope",
     "direccion_completa": "Calle Tahuantinsuyo N° 821, Morrope - Lambayeque",
     "referencia": "Frente Al Parque Infantil De Morrope",
@@ -1478,6 +1689,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Lambayeque / Motupe / Motupe",
+    "agencia": "Motupe",
     "distrito": "Motupe",
     "direccion_completa": "Calle Los Pinos N°116 - Lotizacion La Primavera",
     "referencia": "A Media Cuadra De La Panamericana Carretera Fernando Belaunde Terry",
@@ -1485,6 +1697,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Lambayeque / Olmos / Olmos",
+    "agencia": "Olmos",
     "distrito": "Olmos",
     "direccion_completa": "Av. Augusto B. Leguía Mz. 87 Lt. 32 - olmos - Lambayeque",
     "referencia": "Al Frente De La Comisaria De Olmos.",
@@ -1492,6 +1705,7 @@
   },
   {
     "ruta_agencia": "Lambayeque / Lambayeque / Tucume / Tucume",
+    "agencia": "Tucume",
     "distrito": "Tucume",
     "direccion_completa": "Av. Federico Villarreal N° 982 (ctra. Fernando Belaunde Terry)",
     "referencia": "A Media Cdra. Del Cementerio Jardines De La Paz",
@@ -1499,6 +1713,7 @@
   },
   {
     "ruta_agencia": "Lima / Barranca / Barranca / Barranca",
+    "agencia": "Barranca",
     "distrito": "Barranca",
     "direccion_completa": "Jr. Andres Reyes Buitron 416. Barranca - Barranca – Lima",
     "referencia": "A 2 Cdrs. Del Parque El Olvivar / A Mtrs. De La Casa Del Maestro",
@@ -1506,6 +1721,7 @@
   },
   {
     "ruta_agencia": "Lima / Barranca / Paramonga / Paramonga",
+    "agencia": "Paramonga",
     "distrito": "Paramonga",
     "direccion_completa": "Av. Central N° 305 Mz. N1 Lt. 17",
     "referencia": "Urb. Miguel Grau",
@@ -1513,6 +1729,7 @@
   },
   {
     "ruta_agencia": "Lima / Barranca / Supe / Supe",
+    "agencia": "Supe",
     "distrito": "Supe",
     "direccion_completa": "Av. Francisco Vidal 1120, Supe - Barranca - Lima",
     "referencia": "Al Costado De Lubricentro Ciriaco Y Media Cdra. De La Cruz Misionera",
@@ -1520,6 +1737,7 @@
   },
   {
     "ruta_agencia": "Lima / Cañete / Chilca / Ant Panam Sur Cdra 11",
+    "agencia": "Ant Panam Sur Cdra 11",
     "distrito": "Chilca",
     "direccion_completa": "Antigua Panamericana Sur Cdra. 11 Mz. 46, Lt. 08. Chilca - Cañete - Lima",
     "referencia": "A Media Cdra. Del Hotel El Pacífico",
@@ -1527,6 +1745,7 @@
   },
   {
     "ruta_agencia": "Lima / Cañete / Imperial / Cañete Imperial",
+    "agencia": "Cañete Imperial",
     "distrito": "Imperial",
     "direccion_completa": "Jr. Augusto B. Leguía N.º 457, Mz E, Centro Poblado Imperial, Imperial - Cañete - Lima",
     "referencia": "Cevichería Brisas Del mar",
@@ -1534,6 +1753,7 @@
   },
   {
     "ruta_agencia": "Lima / Cañete / Mala / Mala",
+    "agencia": "Mala",
     "distrito": "Mala",
     "direccion_completa": "Av. Marchand # 250, Distrito De Mala .",
     "referencia": "A Unas Casas Frente A La Distribuidora Primax Gas",
@@ -1541,6 +1761,7 @@
   },
   {
     "ruta_agencia": "Lima / Cañete / Nuevo Imperial / Nuevo Imperial Co",
+    "agencia": "Nuevo Imperial Co",
     "distrito": "Nuevo Imperial",
     "direccion_completa": "Fundo Santa Adela, Mz. A, Lotes 8 Y 9 – Carretera Cañete A Yauyos Nuevo Imperial - Cañete - Lima",
     "referencia": "Al Costado Del Restaurant la Ruta Brava",
@@ -1548,6 +1769,7 @@
   },
   {
     "ruta_agencia": "Lima / Cañete / San Vicente De Canet / Cañete San Vicente",
+    "agencia": "Cañete San Vicente",
     "distrito": "San Vicente De Canet",
     "direccion_completa": "Aa.hh. Víctor Andrés Belaunde Mz. B Lt. 12, San Vicente De Cañete - Cañete - Lima",
     "referencia": "",
@@ -1555,6 +1777,7 @@
   },
   {
     "ruta_agencia": "Lima / Huaral / Chancay / Chancay",
+    "agencia": "Chancay",
     "distrito": "Chancay",
     "direccion_completa": "Prolongación San Martín N°403 Chancay",
     "referencia": "A Una Cdra. De La Av. Panamericana Norte",
@@ -1562,6 +1785,7 @@
   },
   {
     "ruta_agencia": "Lima / Huaral / Huaral / Huaral",
+    "agencia": "Huaral",
     "distrito": "Huaral",
     "direccion_completa": "Av. Jorge Chavez 647",
     "referencia": "Entre La Av. Grau Y Bolognesi (cerca Al Paradero Moto Naturales)",
@@ -1569,6 +1793,7 @@
   },
   {
     "ruta_agencia": "Lima / Huarochiri / San Antonio / Jicamarca",
+    "agencia": "Jicamarca",
     "distrito": "San Antonio",
     "direccion_completa": "Av. Sinchi Roca Mz. P Lt. 16a P Lote 16a, Aahh Las Praderas De Jicamarca – Sector El Cercado – Anexo 22 Jicamarca – Huarochiri",
     "referencia": "Cerca Al Arco Porton De Jicamarca",
@@ -1576,6 +1801,7 @@
   },
   {
     "ruta_agencia": "Lima / Huaura / Huacho / Huacho Av Indacochea",
+    "agencia": "Huacho Av Indacochea",
     "distrito": "Huacho",
     "direccion_completa": "Av. Mercedes Indacochea 1276 Huacho - Huaura - Lima",
     "referencia": "Intersección Con Pedro Ruiz Gallo, A 2 Cdras. De La Universidad Nacional José Faustino Sánchez Carrión",
@@ -1583,6 +1809,7 @@
   },
   {
     "ruta_agencia": "Lima / Huaura / Huacho / Salaverry Huacho Co",
+    "agencia": "Salaverry Huacho Co",
     "distrito": "Huacho",
     "direccion_completa": "Prolongación Salaverry N° 764 Huacho",
     "referencia": "Cruce Con La Av La Paz",
@@ -1590,6 +1817,7 @@
   },
   {
     "ruta_agencia": "Lima / Huaura / Huaura / Huaura",
+    "agencia": "Huaura",
     "distrito": "Huaura",
     "direccion_completa": "Av. Las Malvinas Mz. C Lote 16 Urb. El Rosario Sur Huaura",
     "referencia": "A Espaldas De La Plaza De Armas, A 1 Cdra. De La Calle Los Alamos",
@@ -1597,6 +1825,7 @@
   },
   {
     "ruta_agencia": "Lima / Huaura / Sayan / Sayan",
+    "agencia": "Sayan",
     "distrito": "Sayan",
     "direccion_completa": "Calle Naranjo N° 211.sayan - Huaura - Lima",
     "referencia": "A Media Cdra. De La Plaza De Armas Y De La Municipalidad",
@@ -1604,6 +1833,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Ancon / Ancon",
+    "agencia": "Ancon",
     "distrito": "Ancon",
     "direccion_completa": "Carretera Serpentín De Pasamayo mz. G Lt. 3 Sublt. B - Asoc. De Prop. Casa Huerta Ind. Pecuarias San Pedro Zona 4, Ancón - Lima-lima",
     "referencia": "A 1 Cdra. Del Ovalo De Ancón",
@@ -1611,6 +1841,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Ate-vitarte / Av El Sol",
+    "agencia": "Av El Sol",
     "distrito": "Ate-vitarte",
     "direccion_completa": "Av. El Sol Mz. S Lt. 2 Zona 03 - Asoc. Parque Industrial El Asesor, Sector 010 Zona 03 - Ate",
     "referencia": "A Una Cuadra Y Media De La Carretera Central",
@@ -1618,6 +1849,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Ate-vitarte / Av Esperanza",
+    "agencia": "Av Esperanza",
     "distrito": "Ate-vitarte",
     "direccion_completa": "Av. Esperanza Mz. K Lt. 06 Las Americas - Ate Vitarte - Lima",
     "referencia": "Pasando Mercado Raucana",
@@ -1625,6 +1857,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Ate-vitarte / Av Marco Puente",
+    "agencia": "Av Marco Puente",
     "distrito": "Ate-vitarte",
     "direccion_completa": "Av. Marco Puente Llanos 309, Mz. A, Lt. 03",
     "referencia": "",
@@ -1632,6 +1865,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Ate-vitarte / Huaycan Av Horacio Zevallos",
+    "agencia": "Huaycan Av Horacio Zevallos",
     "distrito": "Ate-vitarte",
     "direccion_completa": "Av. Horacio Zeballos Mz. V Lt. 12 Prog. Viv. Residencial Pariachi (sec. 031) Zona 5, Ate - Lima - Lima",
     "referencia": "Frente Al Circuito De Manejo Garcilaso De La Vega",
@@ -1639,6 +1873,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Ate-vitarte / Huaycan Av Jose C Mariategui",
+    "agencia": "Huaycan Av Jose C Mariategui",
     "distrito": "Ate-vitarte",
     "direccion_completa": "Av. José Carlos Mariátegui Z. E Lt. 23 Ucv 5 (zona Comercio) - Pueblo Joven Proyecto Especial Huaycán Ate Vitarte - Lima",
     "referencia": "A Dos Cdras. Del Cruce Con Av. 15 De Julio",
@@ -1646,6 +1881,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Ate-vitarte / Huaycan El Descanso",
+    "agencia": "Huaycan El Descanso",
     "distrito": "Ate-vitarte",
     "direccion_completa": "Av. Jose Carlos Mariategui Mza. B Lte 06, Residencial Pariachi Sec. 031 Zon. 05, Ate - Lima - Lima",
     "referencia": "Cruce Con La Av. Los Incas",
@@ -1653,6 +1889,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Ate-vitarte / Huaycan Entrada",
+    "agencia": "Huaycan Entrada",
     "distrito": "Ate-vitarte",
     "direccion_completa": "Carretera Central Km 17 Mz. E Lt. 1",
     "referencia": "Entrada De Huaycan Al Costado Del Grifo Primax. Ex Grifo El Negro.",
@@ -1660,6 +1897,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Ate-vitarte / Los Sauces",
+    "agencia": "Los Sauces",
     "distrito": "Ate-vitarte",
     "direccion_completa": "Av. Santa Rosa N°773 Manzana “a” Lote 6 Urb Los Sauces - Ate",
     "referencia": "Cruce Con La Av Separadora Industrial",
@@ -1667,6 +1905,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Ate-vitarte / Puente Santa Anita",
+    "agencia": "Puente Santa Anita",
     "distrito": "Ate-vitarte",
     "direccion_completa": "Av. Nicolás Ayllón N° 3080 - Ate Vitarte",
     "referencia": "",
@@ -1674,6 +1913,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Ate-vitarte / Santa Clara",
+    "agencia": "Santa Clara",
     "distrito": "Ate-vitarte",
     "direccion_completa": "Av. Pedro Ruíz Gallo Mz. H Lt. 3. Asoc. Viv. Villa San Luis, Santa Clara - Ate Vitarte - Limaref: Entre El Real Plaza Y La Utp Santa Clara",
     "referencia": "",
@@ -1681,6 +1921,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Ate-vitarte / Urb Santa Elvira",
+    "agencia": "Urb Santa Elvira",
     "distrito": "Ate-vitarte",
     "direccion_completa": "Av. Ferrocarril Mz. C Lt. 19 Parcela 3, Urb. Santa Elvira Sec. 018 zona 3",
     "referencia": "a Media Cdra. Del Cruce Con Av. De La Cultura",
@@ -1688,6 +1929,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Brena / Av Venezuela",
+    "agencia": "Av Venezuela",
     "distrito": "Brena",
     "direccion_completa": "Av. Venezuela 1670 - Breña",
     "referencia": "Al Costado Del Policlínico De Breña",
@@ -1695,6 +1937,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Brena / Jr. Huaraz - Breña",
+    "agencia": "Jr. Huaraz - Breña",
     "distrito": "Brena",
     "direccion_completa": "Jr. Huaraz 1633, Breña -lima",
     "referencia": "En Medio Del Cruce De Jr. Gral Orbegoso Y Jr. Centenario Con Jr. Huaraz",
@@ -1702,6 +1945,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Carabayllo / Av Jose Saco Rojas",
+    "agencia": "Av Jose Saco Rojas",
     "distrito": "Carabayllo",
     "direccion_completa": "Av. José Saco Rojas Mz. A Lt. 15 Programa De Vivienda El Pino, San Antonio - Carabayllo",
     "referencia": "Frente Al Chifa Hong Fu Y A 3 Cuadras Del Gran Mercado El Pino",
@@ -1709,6 +1953,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Carabayllo / Av Tupac Amaru Km. 19",
+    "agencia": "Av Tupac Amaru Km. 19",
     "distrito": "Carabayllo",
     "direccion_completa": "Mz. 1a - Lt. 8 Av. Tupac Amaru N° 10472, Carabayllo - Lima",
     "referencia": "Al Costado Del Colegio Ciro Alegría",
@@ -1716,6 +1961,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Carabayllo / Av. Tupac Amaru Km. 23.5",
+    "agencia": "Av. Tupac Amaru Km. 23.5",
     "distrito": "Carabayllo",
     "direccion_completa": "Av. Túpac Amaru Km. 23.5 - Carabayllo",
     "referencia": "Frente A La Iglesia De Mormones - A Una Cdra. Del Último Paradero Del Rápido",
@@ -1723,6 +1969,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Carabayllo / Carabayllo Establo",
+    "agencia": "Carabayllo Establo",
     "distrito": "Carabayllo",
     "direccion_completa": "Av. Tupac Amaru N? 441 - 443, Mz. O2 Lt. 35",
     "referencia": "Paradero Establo, A Una Cuadra De La Urb. Santa Isabel",
@@ -1730,6 +1977,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Carabayllo / El Progreso Km 22",
+    "agencia": "El Progreso Km 22",
     "distrito": "Carabayllo",
     "direccion_completa": "Av. Tupac Amaru 3493 – P.j. El Progreso (parte Baja) Mz. K Lt. 11b Zona Ii, carabayllo - Lima",
     "referencia": "A Una Cdra. Del Cruce Con La Av. Manuel Prado",
@@ -1737,6 +1985,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Carabayllo / Santo Domingo",
+    "agencia": "Santo Domingo",
     "distrito": "Carabayllo",
     "direccion_completa": "Av. A Mz. l2 Lt. 20 Urb. Santo domingo – vi etapa Carabayllo - Lima",
     "referencia": "En El Cruce De Las Av. Chillon Trapiche Y av. Camino Real",
@@ -1744,6 +1993,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Carabayllo / Tungasuca",
+    "agencia": "Tungasuca",
     "distrito": "Carabayllo",
     "direccion_completa": "Av. Trapiche Mz. P Lt. 48, Urb. Tungasuca",
     "referencia": "Aux. Av. Chimpu Ocllo Con Aux. Chillón Trapiche, A 1 Cuadra Del Mercado Qatuna",
@@ -1751,6 +2001,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Cercado Lima / Av Nicolas Dueñas Cdra. 5",
+    "agencia": "Av Nicolas Dueñas Cdra. 5",
     "distrito": "Cercado Lima",
     "direccion_completa": "Av. Nicolas Dueñas 584 Mz. C Lt. 4 – Aahh Primero De Setiembre, Cercado De Lima – Lima - Lima",
     "referencia": "A Media Cdra. Del Cruce Con Jr. Pedro Garezon",
@@ -1758,6 +2009,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Cercado Lima / Lima Av Tingo María",
+    "agencia": "Lima Av Tingo María",
     "distrito": "Cercado Lima",
     "direccion_completa": "Av. Tingo María N°1252-a - Cercado De Lima - Lima",
     "referencia": "A Media Cdra. Del Cruce Con Jr. Gral. Orbegoso",
@@ -1765,6 +2017,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Cercado Lima / Malvinas - Jr. Garcia Villón",
+    "agencia": "Malvinas - Jr. Garcia Villón",
     "distrito": "Cercado Lima",
     "direccion_completa": "Jr. Presbítero García Villon Nro. 560 Cercado Lima - Lima",
     "referencia": "A La Altura De La Cdra. 5 De Av. Oscar R. Benavides (ex Av. Colonial), En Medio De Las Av. Guillermo Dansey Y Av. Oscar R. Benavides",
@@ -1772,6 +2025,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Cercado Lima / Malvinas - Jr. Ricardo Treneman",
+    "agencia": "Malvinas - Jr. Ricardo Treneman",
     "distrito": "Cercado Lima",
     "direccion_completa": "Jr. Ricardo Treneman N° 920",
     "referencia": "Dentro Del Local Farenet",
@@ -1779,6 +2033,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Chorrillos / Chorrillos Co",
+    "agencia": "Chorrillos Co",
     "distrito": "Chorrillos",
     "direccion_completa": "Av. Santa Anita N.° 580, Chorrillos - Lima",
     "referencia": "Al Costado Del Mercado Santa Anita, Cruce Con San Genaro",
@@ -1786,6 +2041,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Chorrillos / Chorrillos Los Faisanes",
+    "agencia": "Chorrillos Los Faisanes",
     "distrito": "Chorrillos",
     "direccion_completa": "Av. Los Faisanes 420",
     "referencia": "Al Costado De La Tienda John Holden",
@@ -1793,6 +2049,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Chorrillos / Las Delicias De Villa",
+    "agencia": "Las Delicias De Villa",
     "distrito": "Chorrillos",
     "direccion_completa": "Av. 12 De Octubre Mz. A - 03, Lt. 02, Urb. Aria - Las Delicias De Villa",
     "referencia": "A Dos Cuadras De La Av. Defensores Del Morro (ex Av. Huaylas)",
@@ -1800,6 +2057,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Chorrillos / Megaplaza Chorrillos",
+    "agencia": "Megaplaza Chorrillos",
     "distrito": "Chorrillos",
     "direccion_completa": "Av. Alameda Sur 5, Chorrillos 15067",
     "referencia": "Cruce De Av. Alameda Sur Conav. Alameda San Marcos",
@@ -1807,6 +2065,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Cieneguilla / Cieneguilla Km. 14.5",
+    "agencia": "Cieneguilla Km. 14.5",
     "distrito": "Cieneguilla",
     "direccion_completa": "Av. Arterial Huarochiri d Mz. B Lt. 19, Asoc. De Viviendas Las Cumbres De Cieneguilla, Lima",
     "referencia": "Al Costado De La Tienda Mass",
@@ -1814,6 +2073,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Comas / Av Tupac Amaru Cdra. 57",
+    "agencia": "Av Tupac Amaru Cdra. 57",
     "distrito": "Comas",
     "direccion_completa": "Av. Tupac Amaru 5725-5727 - Urb. huaquillay I Etapa, comas - Lima - Lima",
     "referencia": "A Media Cdra. Del Banco De La Nación",
@@ -1821,6 +2081,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Comas / Av Univ. Retablo",
+    "agencia": "Av Univ. Retablo",
     "distrito": "Comas",
     "direccion_completa": "Av. Universitaria N° 7241",
     "referencia": "Ex Boulevard De Retablo / A 2 Cdras Del Metro De Belaunde",
@@ -1828,6 +2089,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Comas / Av. Trapiche",
+    "agencia": "Av. Trapiche",
     "distrito": "Comas",
     "direccion_completa": "Av. Trapiche 886 A 16 2p 2 - Urb. Pinar",
     "referencia": "Frente Al Complejo Deportivo Walon",
@@ -1835,6 +2097,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Comas / Av. Univ. Parque Sinchi Roca",
+    "agencia": "Av. Univ. Parque Sinchi Roca",
     "distrito": "Comas",
     "direccion_completa": "Av. Universitaria Norte Mzn. Q1 Lte. 030 Urb. Primavera,comas-lima - Lima",
     "referencia": "A Media Cdra. Del Ingreso Al Parque Zona Sinchi Roca",
@@ -1842,6 +2105,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Comas / Año Nuevo",
+    "agencia": "Año Nuevo",
     "distrito": "Comas",
     "direccion_completa": "Av. Tupac Amaru N° 7837- 7839 Mz. C Lt. 010 Urb. Popular San Juan bautista I Etapa, Comas - Lima",
     "referencia": "A Una Cdra. De La Entrada De Collique",
@@ -1849,6 +2113,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Comas / Urb. Repartición",
+    "agencia": "Urb. Repartición",
     "distrito": "Comas",
     "direccion_completa": "Av. Tupac Amaru 3184 Urb. Reparticion, Comas - Lima - Lima",
     "referencia": "A Media Cdra. De Av. Victor Andres Belaunde Y/o Frente A Dollarcity",
@@ -1856,6 +2121,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / El Agustino / Jiron Ancash",
+    "agencia": "Jiron Ancash",
     "distrito": "El Agustino",
     "direccion_completa": "Jr. Ancash Mz. B Lt. 11 Aahh Ancieta Alta, El Agustino - Lima - Lima",
     "referencia": "frente Al Ingreso De Agustino Plaza",
@@ -1863,6 +2129,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / El Agustino / Puente Nuevo",
+    "agencia": "Puente Nuevo",
     "distrito": "El Agustino",
     "direccion_completa": "Av 1° De Mayo 3071 - Urb Huancayo",
     "referencia": "Frente Al Grifo Repsol",
@@ -1870,6 +2137,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Independencia / Calle A Con Av Industrial",
+    "agencia": "Calle A Con Av Industrial",
     "distrito": "Independencia",
     "direccion_completa": "Calle A, Mz. D Lt. 26 Urbanización Panamericana (primer Piso) Independencia - Lima - Lima",
     "referencia": "A 1 Cdra. Del Cruce Con Av. Industrial (lateral De Megaplaza)",
@@ -1877,6 +2145,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Independencia / La Cincuenta",
+    "agencia": "La Cincuenta",
     "distrito": "Independencia",
     "direccion_completa": "Av. Tupac Amaru N° 4708 - 4710",
     "referencia": "A Una Cdra. Del Paradero Estación Naranjal",
@@ -1884,6 +2153,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Independencia / Megaplaza Independencia",
+    "agencia": "Megaplaza Independencia",
     "distrito": "Independencia",
     "direccion_completa": "Centro Comercial Mega Plaza Av. Alfredo Mendiola 3698 Lima - Independencia.",
     "referencia": "Primer Piso De Mega Plaza / Al Costado Del Estacionamiento De Bicicleta",
@@ -1891,6 +2161,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Independencia / Plaza Norte Entregas",
+    "agencia": "Plaza Norte Entregas",
     "distrito": "Independencia",
     "direccion_completa": "Av. Gerardo Unger Nro. 6917 Int. Lb 19",
     "referencia": "",
@@ -1898,6 +2169,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Jesus Maria / Jesus Maria",
+    "agencia": "Jesus Maria",
     "distrito": "Jesus Maria",
     "direccion_completa": "Av. Mariscal Luzuriaga 584-586 Jesús María - Lima",
     "referencia": "A Cuadra Y Media Del Parque San José, Paralelo A La Av. Mello Franco",
@@ -1905,6 +2177,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Jesus Maria / Real Plaza Salaverry",
+    "agencia": "Real Plaza Salaverry",
     "distrito": "Jesus Maria",
     "direccion_completa": "Centro Comercial Real Plaza Salaverry, Av. Gral. Salaverry 2370, Jesús María 15076",
     "referencia": "Frente A La Escuela De Postgrado Utp",
@@ -1912,6 +2185,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / La Molina / Av Alameda Del Corregidor",
+    "agencia": "Av Alameda Del Corregidor",
     "distrito": "La Molina",
     "direccion_completa": "Av. Alameda Del Corregidor Mz. U Lt. 19 Ui 1 - Urb La Capilla, La Molina - Lima - Lima",
     "referencia": "A 2 Cdras. Del Cruce Con Alameda De Los Cóndores",
@@ -1919,6 +2193,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / La Molina / Av Flora Tristan",
+    "agencia": "Av Flora Tristan",
     "distrito": "La Molina",
     "direccion_completa": "Av. Flora Tristán N° 885, urb. Santa Patricia Iii Etapa, La Molina - Lima",
     "referencia": "a Media Cdra. De Molisalud",
@@ -1926,6 +2201,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / La Molina / Av La Fontana",
+    "agencia": "Av La Fontana",
     "distrito": "La Molina",
     "direccion_completa": "Av La Fontana 440 - La Molina (cc La Rotonda Ii Local 1018)",
     "referencia": "",
@@ -1933,6 +2209,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / La Molina / Av. La Molina Cdra. 35",
+    "agencia": "Av. La Molina Cdra. 35",
     "distrito": "La Molina",
     "direccion_completa": "Av. La Molina (exav. La Universidad) #3551 Tda -7 Mz. H Sublote 1c, Urb. El Sol De La Molina I Etapa La Molina - Lima",
     "referencia": "A Media Cdra. Del Cruce Con Av. El Sol",
@@ -1940,6 +2217,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / La Molina / Los Fresnos",
+    "agencia": "Los Fresnos",
     "distrito": "La Molina",
     "direccion_completa": "Av. Los Fresnos 1305 Tienda 2 - Urb. Portada Del Sol I Etapa - La Molina - Lima",
     "referencia": "A 3 Cdras. Del Óvalo De Los Cóndores",
@@ -1947,6 +2225,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / La Molina / Parque La Molina",
+    "agencia": "Parque La Molina",
     "distrito": "La Molina",
     "direccion_completa": "Av. La Molina 2448, La Molina 15026, La Molina - Lima - Lima",
     "referencia": "Estacionamiento Nivel -3",
@@ -1954,6 +2233,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / La Victoria / Av Mexico Co",
+    "agencia": "Av Mexico Co",
     "distrito": "La Victoria",
     "direccion_completa": "Av. Mexico 1125, La Victoria - Lima",
     "referencia": "",
@@ -1961,6 +2241,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / La Victoria / Av. Canada",
+    "agencia": "Av. Canada",
     "distrito": "La Victoria",
     "direccion_completa": "Av. Canadá 1603",
     "referencia": "Entre Av. Canadá Con Av. Aviación",
@@ -1968,6 +2249,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / La Victoria / Jr. Raymondi",
+    "agencia": "Jr. Raymondi",
     "distrito": "La Victoria",
     "direccion_completa": "Jr. Antonio Raymondi Nro. 113",
     "referencia": "",
@@ -1975,6 +2257,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Lince / Av Jose Leal Cdra 6",
+    "agencia": "Av Jose Leal Cdra 6",
     "distrito": "Lince",
     "direccion_completa": "Av. Coronel José Leal 648, Urb. Fundo Lobatón, Lince - Lince",
     "referencia": "Paralela A La Cdra. 6 De La Av. Canevaro",
@@ -1982,6 +2265,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Lince / Jr Casanova Con Petit Thouars",
+    "agencia": "Jr Casanova Con Petit Thouars",
     "distrito": "Lince",
     "direccion_completa": "Jr. domingo casanova N°318 Lince - Lima",
     "referencia": "Cruce Con Petit Thouars",
@@ -1989,6 +2273,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Los Olivos / Av Huandoy Con Av Central",
+    "agencia": "Av Huandoy Con Av Central",
     "distrito": "Los Olivos",
     "direccion_completa": "Av. Huandoy Mza. 72 Lte. 54 P.j. P.m.v. “confraternidad” - Aahh. Enrique Milla Ochoa Los Olivos - Lima",
     "referencia": "A Una Cdra. Del Cruce Con Av. Central",
@@ -1996,6 +2281,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Los Olivos / Av Huandoy Con Marañon",
+    "agencia": "Av Huandoy Con Marañon",
     "distrito": "Los Olivos",
     "direccion_completa": "Av. Próceres, Mz. 3, Lt. 23 A.h. Laura Caller - Los Olivos",
     "referencia": "Cruce Entre Av. Huandoy Y Marañón",
@@ -2003,6 +2289,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Los Olivos / Av. Angelica Gamarra",
+    "agencia": "Av. Angelica Gamarra",
     "distrito": "Los Olivos",
     "direccion_completa": "Av. Angelica Gamarra De Leon Valverde N° 621 Urb El Trebol, Los Olivos - Lima",
     "referencia": "A La Altura Del Kfc / Cruce Con Av. Alfa",
@@ -2010,6 +2297,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Los Olivos / Av. Carlos Izaguirre Cdra. 14",
+    "agencia": "Av. Carlos Izaguirre Cdra. 14",
     "distrito": "Los Olivos",
     "direccion_completa": "Calle David Alva Manzana H Lote 4 Urb. Cajabamba Los Olivos - Lima",
     "referencia": "Entre La Av. Carlos Izaguirre Con La Av. Universitaria (frente Al Colegio Pamer)",
@@ -2017,6 +2305,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Los Olivos / Av. Dos De Octubre",
+    "agencia": "Av. Dos De Octubre",
     "distrito": "Los Olivos",
     "direccion_completa": "Av. 2 De Octubre Mz. H Lt. 2 - Los Olivos - Pro",
     "referencia": "Av. 2 De Octubre Con Av. Canta Callao, Al Costado Del Centro De Salud Pro",
@@ -2024,6 +2313,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Los Olivos / Av. Las Palmeras",
+    "agencia": "Av. Las Palmeras",
     "distrito": "Los Olivos",
     "direccion_completa": "Av. Las Palmeras N° 5236 Urb. Villa Norte - Los Olivos",
     "referencia": "",
@@ -2031,6 +2321,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Los Olivos / Av. Los Platinos",
+    "agencia": "Av. Los Platinos",
     "distrito": "Los Olivos",
     "direccion_completa": "Av. Los Platinos N°. 259, Mz. A - Lt. 17, Urb. Lotización Industrial Infantas Los Olivos - Lima",
     "referencia": "A Dos Cdras. Y Media De La Av. Alfredo Mendiola Y/o Panamericana Norte (altura Del Paradero Caseta)",
@@ -2038,6 +2329,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Los Olivos / Pro",
+    "agencia": "Pro",
     "distrito": "Los Olivos",
     "direccion_completa": "Av. Los Próceres Mz. Pp2 Lt.21, Urb. Puertas De Pro - Los Olivos",
     "referencia": "",
@@ -2045,6 +2337,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Lurigancho / Chosica",
+    "agencia": "Chosica",
     "distrito": "Lurigancho",
     "direccion_completa": "El Sol 124 (parque Echenique) Lurigancho - Chosica",
     "referencia": "",
@@ -2052,6 +2345,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Lurigancho / Santa María De Huachipa",
+    "agencia": "Santa María De Huachipa",
     "distrito": "Lurigancho",
     "direccion_completa": "Av. Circunvalación Mz. A Lt. 1 - D C - P Santa María De Huachipa - Lurigancho - Chosica",
     "referencia": "Entre La Av. Circunvalación Y La Av. Huachipa",
@@ -2059,6 +2353,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Lurin / Nuevo Lurin",
+    "agencia": "Nuevo Lurin",
     "distrito": "Lurin",
     "direccion_completa": "Av. Antigua Panamericana Sur Km 37 Mz C Lt 17 - Fundo Las Salinas",
     "referencia": "A Cuadra Y Media Del Mercado Virgen De Las Mercedes.",
@@ -2066,6 +2361,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Lurin / Puente Lurin",
+    "agencia": "Puente Lurin",
     "distrito": "Lurin",
     "direccion_completa": "Antigua Panamericana Sur, lote 2, Mz. B, Primer Piso Lurín - Lima",
     "referencia": "A Cdra. Y Media Del Cruce Con Av. Santa Cruz",
@@ -2073,6 +2369,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Magdalena Del Mar / Magdalena Del Mar",
+    "agencia": "Magdalena Del Mar",
     "distrito": "Magdalena Del Mar",
     "direccion_completa": "Jr. Ayacucho N° 756",
     "referencia": "A Una Cdra. Del Mercado Modelo De Magdalesy A 3 Cdras. De La Iglesia Cúpula De Sucre",
@@ -2080,6 +2377,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Miraflores / Larcomar",
+    "agencia": "Larcomar",
     "distrito": "Miraflores",
     "direccion_completa": "Malecón De La Reserva 610, Miraflores 15074, Miraflores - Lima - Lima",
     "referencia": "Sótano Nivel A",
@@ -2087,6 +2385,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Pachacamac / Av Manuel Valle",
+    "agencia": "Av Manuel Valle",
     "distrito": "Pachacamac",
     "direccion_completa": "Av. Manuel Valle Sub - Lote 2 - 1, Número De Parcela J, Proyecto Huertos De Pachacamac, Valle Lurín - Pachacamac - Lima",
     "referencia": "Frente Al Estudio De Canal 4 (america Televisión)",
@@ -2094,6 +2393,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Pachacamac / La Curva De Manchay",
+    "agencia": "La Curva De Manchay",
     "distrito": "Pachacamac",
     "direccion_completa": "Av. Prolongación De La Av. La Molina Mz. E Lote 21. Ah Paul Poblet Lind, Pachacamac - Lima",
     "referencia": "A Media Cdra. De Mi Banco",
@@ -2101,6 +2401,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Pachacamac / Manchay Tres Marias",
+    "agencia": "Manchay Tres Marias",
     "distrito": "Pachacamac",
     "direccion_completa": "Av. Victor Malasquez mz. B11 Sub-lote 06-a - aahh Centro Poblado Rural Los Huertos De Manchay Sector B Pachacamac - Lima",
     "referencia": "A Media Cdra. Del Paradero",
@@ -2108,6 +2409,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Pueblo Libre / Av Bolivar",
+    "agencia": "Av Bolivar",
     "distrito": "Pueblo Libre",
     "direccion_completa": "Av. Bolivar 1097, Pueblo Libre - Lima",
     "referencia": "A Media Cdra. Del Cruce av. Gral. José maría Egusquiza",
@@ -2115,6 +2417,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Pueblo Libre / Av. La Marina",
+    "agencia": "Av. La Marina",
     "distrito": "Pueblo Libre",
     "direccion_completa": "Av. La Marina 1640",
     "referencia": "A Una Cuadra Del Centro Comercial Plaza San Miguel",
@@ -2122,6 +2425,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Puente Piedra / Av Buenos Aires",
+    "agencia": "Av Buenos Aires",
     "distrito": "Puente Piedra",
     "direccion_completa": "Av. Buenos Aires Mz. D, Sub-lote 188e1 Asociación De Pobladoresmicaela Bastidas, Puente Piedra - Lima - Lima",
     "referencia": "A 2 Cdras. De La Demuna De Puente Piedra",
@@ -2129,6 +2433,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Puente Piedra / Av. San Lorenzo",
+    "agencia": "Av. San Lorenzo",
     "distrito": "Puente Piedra",
     "direccion_completa": "Av. San Lorenzo mz C Lt 20 - adp Virgen De Copacabana, Puente Piedra - Lima.",
     "referencia": "A Media Cuadra Del Parque Virgen De Copacabana",
@@ -2136,6 +2441,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Puente Piedra / Ovalo Puente Piedra",
+    "agencia": "Ovalo Puente Piedra",
     "distrito": "Puente Piedra",
     "direccion_completa": "Av. Miguel Grauâ mz. A Lt. 07 Y 08 Urb. San Martin De Porres, Cercado Puente Piedra - Lima",
     "referencia": "Espaldas De Tottus De Puente Piedra",
@@ -2143,6 +2449,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Puente Piedra / Puente Arica",
+    "agencia": "Puente Arica",
     "distrito": "Puente Piedra",
     "direccion_completa": "Panamericana Norte Km 32.5 , A 1/2 Cuadra Del Puente Arica - Al Costado Del Grifo Repsol",
     "referencia": "",
@@ -2150,6 +2457,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Puente Piedra / Zapallal",
+    "agencia": "Zapallal",
     "distrito": "Puente Piedra",
     "direccion_completa": "Av. Ancón 678",
     "referencia": "A La Espalda Del Precio Uno De Fundicion",
@@ -2157,6 +2465,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Punta Hermosa / Punta Hermosa",
+    "agencia": "Punta Hermosa",
     "distrito": "Punta Hermosa",
     "direccion_completa": "Av. Garcia Rada Mz.b Lt.04, Aahh Asociacion De vivienda Y Desarrollo Integral Nueva Generacion, Punta hermosa - Lima",
     "referencia": "A Una Cdra. Del Paradero Peatonal De Punta Hermosa",
@@ -2164,6 +2473,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Rimac / Rimac Av. Amancaes",
+    "agencia": "Rimac Av. Amancaes",
     "distrito": "Rimac",
     "direccion_completa": "Av. Amancaes Nro. 644 Urb. Ciudad Y Campo - Rimac",
     "referencia": "",
@@ -2171,6 +2481,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Rimac / Rimac Guardia Republicana Cdra. 9",
+    "agencia": "Rimac Guardia Republicana Cdra. 9",
     "distrito": "Rimac",
     "direccion_completa": "Sección Inmobiliaria N°2 – Primer Piso Lt. 11 De La Mz. 2, Urb. Villacampa Rimac",
     "referencia": "A Una Cdra. Del Cruce Con Av. Felipe Arancibia",
@@ -2178,6 +2489,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Borja / Av. Angamos",
+    "agencia": "Av. Angamos",
     "distrito": "San Borja",
     "direccion_completa": "Av. Angamos Este 2521 (ex Av. Primavera) - Conjunto Habitacional Limatambo - San Borja.",
     "referencia": "Cerca Al Cruce De Av. Angamos Este Con Av. Principal",
@@ -2185,6 +2497,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Borja / Aviacion 2819",
+    "agencia": "Aviacion 2819",
     "distrito": "San Borja",
     "direccion_completa": "Av. Aviación 2819, Urb. San Borja Sur",
     "referencia": "Al Frente De Bembos",
@@ -2192,6 +2505,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Av Central Sjl",
+    "agencia": "Av Central Sjl",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Av. Central Mz R9 Lote 3 Programa Ciudad Mrcal. Caceres, Sector Ii, Barrio 3, Grupo Residencial R - San Juan De Lurigancho",
     "referencia": "En Medio Del Cruce Con Las Av. El Muro Y Ampliacion Este",
@@ -2199,6 +2513,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Av Circunvalacion Sjl",
+    "agencia": "Av Circunvalacion Sjl",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Av. Circunvalación mz. B-5 Lt. 20 Aa. Hh. sargento Fernando Lores Tenazoa Comuna 20, san Juan De Lurigancho - Lima",
     "referencia": "A Dos Cdras. Del Colegio Ramiro Priale",
@@ -2206,6 +2521,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Av Malecon Checa Cdra. 1",
+    "agencia": "Av Malecon Checa Cdra. 1",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Av. Malecón Miguel Checa Eguiguren N° 167 Y 169 De La Urb. Zárate, Sjl - Lima",
     "referencia": "Esquina Con Av. Gran Chimú",
@@ -2213,6 +2529,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Av Santa Rosa Urb Los Alamos",
+    "agencia": "Av Santa Rosa Urb Los Alamos",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Av. Santa Rosa Mz. D1 Lote 1 Urb. Los Alamos 2da Etapa",
     "referencia": "Altura De La Cuadra 13 Del Paradero Canto Grande",
@@ -2220,6 +2537,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Av. 13 De Enero",
+    "agencia": "Av. 13 De Enero",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Av. 13 De Enero Nº2057, Urb. San Hilarión",
     "referencia": "Cerca A La Estación Los Postes",
@@ -2227,6 +2545,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Av. Del Mercado",
+    "agencia": "Av. Del Mercado",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Programa Ciudad Mrcal. Caceres, Sector Iii Mz. Q8 Lt. 11 San Juan De Lurigancho - Lima",
     "referencia": "A Media Cdra. Del Cruce De Av. Del Mercado Con Av. Ampliacion Oeste",
@@ -2234,6 +2553,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Av. Santa Rosa Cruce Av. El Sol",
+    "agencia": "Av. Santa Rosa Cruce Av. El Sol",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Av. Santa Rosa De Lima Mz. D Lt. 4 - Aahh 2 De Setiembre - San Juan De Lurigancho",
     "referencia": "A Tres Cdras. Del Cruce Con Av. El Sol",
@@ -2241,6 +2561,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Bayovar",
+    "agencia": "Bayovar",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Av. Fernando Wiesse Mz. E8. Lote 38b, Mariscal Cáceres Bayovar - San Juan De Lurigancho - Lima",
     "referencia": "Auxiliar Próceres De La Independencia, Al Frente De La Universidad San Marcos – Agroindustrial",
@@ -2248,6 +2569,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Campoy",
+    "agencia": "Campoy",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Av. Malecón Checa Mz. B Lt. 7, Urb. Campoy, San Juan De Lurigancho",
     "referencia": "A 1 Cdra. Del Cruce De Av. Malecón Checa Con Av. San Martín",
@@ -2255,6 +2577,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Canto Grande",
+    "agencia": "Canto Grande",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Calle San Martin Con Av. Comercial Norte 189 - San Juan De Lurigancho",
     "referencia": "A 1/2 Cuadra De La Av 6 De Canto Grande - Al Costado Del Play Park (parque Bolognesi)",
@@ -2262,6 +2585,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Cruz de Motupe",
+    "agencia": "Cruz de Motupe",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Av. Fernando Wiesse Mz. Q Lote 1 Aa.hh. Cruz De Motupe",
     "referencia": "",
@@ -2269,6 +2593,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Jr Chinchaysuyo Cdra 4",
+    "agencia": "Jr Chinchaysuyo Cdra 4",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Jr. Chinchaysuyo 468 Zarate, San Juan De Lurigancho - Lima",
     "referencia": "A 1 Cdra. De Tiendas 3 A",
@@ -2276,6 +2601,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Los Pinos",
+    "agencia": "Los Pinos",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Mz. B1 Lt. 25 Urbanización Los Pinos San Juan De Lurigancho",
     "referencia": "Av. Fernando Wiesse - Cerca A La Estación San Martín",
@@ -2283,6 +2609,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Sjl- Las Flores",
+    "agencia": "Sjl- Las Flores",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Av. Canto Grande N°. 2570 - Urb. Ganimedes",
     "referencia": "A 3 Cdras. De Plaza Vea",
@@ -2290,6 +2617,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Lurigancho / Sjl-av.proceres",
+    "agencia": "Sjl-av.proceres",
     "distrito": "San Juan De Lurigancho",
     "direccion_completa": "Av. Próceres De La Independencia Nro. 1295 - 1299",
     "referencia": "Al Costado Del Banco De La Nación De Av. Los Tusilagos Oeste",
@@ -2297,6 +2625,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Miraflores / Atocongo",
+    "agencia": "Atocongo",
     "distrito": "San Juan De Miraflores",
     "direccion_completa": "Av. De Los Héroes N° 228 - San Juan De Miraflores - (estación Atocongo)",
     "referencia": "",
@@ -2304,6 +2633,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Miraflores / Av Miguel Grau Pamplona Alta",
+    "agencia": "Av Miguel Grau Pamplona Alta",
     "distrito": "San Juan De Miraflores",
     "direccion_completa": "Av. Almirante Miguel Grau Mz. Y3 Lt. 29,pamplona Alta - San Juan De Miraflores - Lima",
     "referencia": "A Media Cdra. Del Mercado Ollantay Pamplonaalta",
@@ -2311,6 +2641,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Miraflores / Av San Juan Pamplona Alta",
+    "agencia": "Av San Juan Pamplona Alta",
     "distrito": "San Juan De Miraflores",
     "direccion_completa": "Av. San Juan Mz. 24 Lt. 1, Sect. Nuevo Horizonte, Pp. Jj Pamplona Alta - San Juan De Miraflores",
     "referencia": "A 3 Cdras. Del Cruce Con Av. Salvador Allende",
@@ -2318,6 +2649,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Miraflores / Av. Canevaro",
+    "agencia": "Av. Canevaro",
     "distrito": "San Juan De Miraflores",
     "direccion_completa": "Av. Canevaro 336 - A",
     "referencia": "A 2 Cuadras De La Av. Vargas Machuga Y A Una Cuadra De La Fiscalía Provincial Penal De S.j.m.",
@@ -2325,6 +2657,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Juan De Miraflores / Maria Auxiliadora",
+    "agencia": "Maria Auxiliadora",
     "distrito": "San Juan De Miraflores",
     "direccion_completa": "Av. Los Héroes 1140 - Sjm",
     "referencia": "Una Cdra. Antes Del Hospital María Auxiliadora",
@@ -2332,6 +2665,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Av Bertello Smp",
+    "agencia": "Av Bertello Smp",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. Alejandro Bertello Bollati Mz. H Lt. 2-a - Asoc. De Viv. San Remo Ii Etapa, San Martín De Porres - Lima - Lima",
     "referencia": "A Media Cdra. Del Cruce Con Av. Canta Callao",
@@ -2339,6 +2673,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Av Central Smp",
+    "agencia": "Av Central Smp",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. Central Mz. A Lt. 07, Urb. Programa De Vivienda Lucerito De Naranjal, San Martín De Porres - Lima - Lima",
     "referencia": "A 5 Cdras. Del Cruce Con Av. Tantamayo",
@@ -2346,6 +2681,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Av Jose Granda Cdra 38",
+    "agencia": "Av Jose Granda Cdra 38",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. José Granda 3826 De La Urb. Condevilla Señor Y Valdivieso Mz. M7 Lt 20, 2 Etapa, 2 Sector - S.m.p.",
     "referencia": "Entre Av. Condevilla Y Av. Los Próceres",
@@ -2353,6 +2689,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Av Jose Granda Cdra. 25",
+    "agencia": "Av Jose Granda Cdra. 25",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. Jose Granda 2546 - San Martin De Porres -lima - Lima",
     "referencia": "A Una Cdra. Del Óvalo Jose Granda Y Av. Universitaria",
@@ -2360,6 +2697,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Av. Canta Callao Con Alisos",
+    "agencia": "Av. Canta Callao Con Alisos",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. Canta Callao, Mz. A Lt. 3 Urb. Arizona - 2da Etapa",
     "referencia": "",
@@ -2367,6 +2705,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Av. Canta Callao Con Izaguirre",
+    "agencia": "Av. Canta Callao Con Izaguirre",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. Canta Callao Mz. A Lt. 3 Asoc. Brisas Santa Rosa 1ra Etapa",
     "referencia": "A Media Cdra. Del Colegio Amistad y/o A Cuatro Cdras. De La av. Carlos Izaguirre",
@@ -2374,6 +2713,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Av. Carlos Izaguirre Cuadra 23",
+    "agencia": "Av. Carlos Izaguirre Cuadra 23",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. Carlos Izaguirre Sub Lt. 8, Mz. C - Asoc. De Viv. Los Nisperos",
     "referencia": "Entre Av. 12 De Octubre Y Av. Santa Rosa",
@@ -2381,6 +2721,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Av. Dominicos Cdra 14",
+    "agencia": "Av. Dominicos Cdra 14",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. Los Dominicos 1460 - Urb. Los Cipreses Mz. Z Lt. 4 - San Martín De Porres",
     "referencia": "A Una Cdra. Del Cruce Con Av. Santa Rosa Al Lado Del Mercado Los Cipreses",
@@ -2388,6 +2729,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Av. Gerardo Unger Cdra 64",
+    "agencia": "Av. Gerardo Unger Cdra 64",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. Gerardo Unger 6475, Urb. Santa Luisa, 1ra Etapa, S.m.p.",
     "referencia": "Esquina Con Av. 22 De Agosto, Límite Con Comas / A Una Cdra. Y Media De La Comisaria Santa Luzmila",
@@ -2395,6 +2737,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Av. Lima Cdra 38",
+    "agencia": "Av. Lima Cdra 38",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. Lima 3899 - Smp",
     "referencia": "A 3 Cdras. Del Tottus De Quilca Con Av. Lima",
@@ -2402,6 +2745,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Av. Peru 15",
+    "agencia": "Av. Peru 15",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. Perú 1589, San Martin De Porres - Lima.",
     "referencia": "A Dos Cuadras Del Cruce Con La Av. Canadá.",
@@ -2409,6 +2753,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Av. Universitaria Cdra. 16",
+    "agencia": "Av. Universitaria Cdra. 16",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. Universitaria 1619 - urb. Maria Gracia De Antares Mz. B lt. 25 – San Martin De Porres - Lima",
     "referencia": "Frente Al Plaza Vea De Universitaria Con Tomas Valle",
@@ -2416,6 +2761,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Fiori",
+    "agencia": "Fiori",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. Miguel Angel N° 235 - Urb. Fiori 4ta Etapa Mz. N-1 Lt. 04 U.i N°6, San Martín De Porres - Lima",
     "referencia": "A 1 Cdra. Del Cruce Con Av. Marco Polo",
@@ -2423,6 +2769,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Germán Aguirre",
+    "agencia": "Germán Aguirre",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. German Aguirre Ugarte 649 Urb. San German - San Martin De Porres",
     "referencia": "A La Altura De La Cuadra 6 De La Av. German Aguirre Y A 3 Cuadras De Av. Tomas Valle",
@@ -2430,6 +2777,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / San Martin De Porres / Smp-av. Proceres",
+    "agencia": "Smp-av. Proceres",
     "distrito": "San Martin De Porres",
     "direccion_completa": "Av. Próceres N° 588 Urb. Covicem",
     "referencia": "A 2 Cdras. De Tomás Valle",
@@ -2437,6 +2785,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Santa Anita / Av Santa Rosa - Sta Anita",
+    "agencia": "Av Santa Rosa - Sta Anita",
     "distrito": "Santa Anita",
     "direccion_completa": "Av. Santa Rosa #147 – Urb. Santa Anita Mz. B1 Lt. 08 Unidad Inmobiliaria N° 1 - Santa Anita - Lima",
     "referencia": "A Una Cdra. De La Carretera Central",
@@ -2444,6 +2793,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Santa Anita / Av. Huarochirí",
+    "agencia": "Av. Huarochirí",
     "distrito": "Santa Anita",
     "direccion_completa": "Av. Huarochirí Mz. E1 Lt. 03 - Urb. Los Cedros Santa Anita",
     "referencia": "Cruce De Av. Huarochirí Con Av. Santa Ana",
@@ -2451,6 +2801,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Santa Anita / Jr Cesar Vallejo",
+    "agencia": "Jr Cesar Vallejo",
     "distrito": "Santa Anita",
     "direccion_completa": "Jr. Cesar Vallejo 302 Mz. B1 Lt. 02 Urb Universal, Santa Anita- Lima-lima",
     "referencia": "A 1 Cdra. Del Cruce Con Av. Tupac Amaru",
@@ -2458,6 +2809,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Santa Rosa / Santa Rosa",
+    "agencia": "Santa Rosa",
     "distrito": "Santa Rosa",
     "direccion_completa": "Mz. L 23 Urb. Coovitiomar, - Santa Rosa - Lima",
     "referencia": "Cruce De Ingreso A Santa Rosa Y/o Al Costado De Imagen De Santa Rosa",
@@ -2465,6 +2817,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Santiago De Surco / Av Tomas Marsano - La Bolichera",
+    "agencia": "Av Tomas Marsano - La Bolichera",
     "distrito": "Santiago De Surco",
     "direccion_completa": "Av. Santiago De Surco Nº 4348, Urbanización La Virreyna, Santiago De Surco - Lima",
     "referencia": "Al Lado De Inteci Sede Surco",
@@ -2472,6 +2825,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Santiago De Surco / Higuereta",
+    "agencia": "Higuereta",
     "distrito": "Santiago De Surco",
     "direccion_completa": "Calle Barlovento N° 134",
     "referencia": "A 3 Cdras De Polvos Rosados, Cerca Al Óvalo Higuereta, Surco",
@@ -2479,6 +2833,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Santiago De Surco / Surco Mateo Pumacahua",
+    "agencia": "Surco Mateo Pumacahua",
     "distrito": "Santiago De Surco",
     "direccion_completa": "Av. San Juan Mz A Lote 01 Mateo Pumacahua - Surco",
     "referencia": "A 2 Cuadras De La Av. Tupac Amaru Entre El Límite De Chorrillos Y Surco",
@@ -2486,6 +2841,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Surquillo / Av. Principal",
+    "agencia": "Av. Principal",
     "distrito": "Surquillo",
     "direccion_completa": "Lt. 12 Mz. G, Av. Principal 995 (ex Av. Uno) Urb. Los Sauces 2da Etapa, Surquillo",
     "referencia": "Cruce Con A. Manuel Villarán",
@@ -2493,6 +2849,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Surquillo / Rep. De Panama",
+    "agencia": "Rep. De Panama",
     "distrito": "Surquillo",
     "direccion_completa": "Av República De Panamá N° 5115",
     "referencia": "Costado Del Grifo Repsol.",
@@ -2500,6 +2857,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Villa El Salvador / 01 De Mayo",
+    "agencia": "01 De Mayo",
     "distrito": "Villa El Salvador",
     "direccion_completa": "Av. 01de Mayo 1 Sect Gp 23 - A Mz N Lote 13 - V.e.s.",
     "referencia": "Av. Pastor Sevilla Con Av. 1 De Mayo A 2 Cuadras Del Hospital De La Solidaridad Por La Ruta C",
@@ -2507,6 +2865,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Villa El Salvador / Av. Cesar Vallejo",
+    "agencia": "Av. Cesar Vallejo",
     "distrito": "Villa El Salvador",
     "direccion_completa": "Av. Cesar Vallejo, Mz. F Lt. 1 - Sect. 2",
     "referencia": "Frente A Essalud, Al Costado Del Mercado Villa Sur",
@@ -2514,6 +2873,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Villa El Salvador / Av. Pastor Sevilla",
+    "agencia": "Av. Pastor Sevilla",
     "distrito": "Villa El Salvador",
     "direccion_completa": "Mz. B Lt. 3 Barrio 3 Sector 2 - 4ta Etapa - Ves",
     "referencia": "Por El Óvalo Cerro Lomas, Frente Al Colegio Virgen Del Rosario",
@@ -2521,6 +2881,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Villa El Salvador / Óvalo Mariátegui",
+    "agencia": "Óvalo Mariátegui",
     "distrito": "Villa El Salvador",
     "direccion_completa": "Av. Pastor Sevilla Sect. 6 - Gp 7 - Mz. A - Lote 05 - V.e.s.",
     "referencia": "A 2 Cuadras Del Óvalo Mariátegui Con 3 De Octubre",
@@ -2528,6 +2889,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Villa Maria Del Triunfo / Av. Lima - Vmt",
+    "agencia": "Av. Lima - Vmt",
     "distrito": "Villa Maria Del Triunfo",
     "direccion_completa": "Av. Lima 2208 José Gálvez- Villa María Del Triunfo",
     "referencia": "A Dos Cdras. De La Curva José Gálvez",
@@ -2535,6 +2897,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Villa Maria Del Triunfo / Av. Villa Maria",
+    "agencia": "Av. Villa Maria",
     "distrito": "Villa Maria Del Triunfo",
     "direccion_completa": "Av Villa Maria Mz. G12 Lt. 9 - B Ps 1 Sect. Villa Maria Del Triunfo",
     "referencia": "Av. Villa Maria A 2 Cuadras De La Municipalidad De Vmt Y Al Costado De Essalud",
@@ -2542,6 +2905,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Villa Maria Del Triunfo / Las Conchitas",
+    "agencia": "Las Conchitas",
     "distrito": "Villa Maria Del Triunfo",
     "direccion_completa": "Av. Pachacutec 6779, Mz. N, Lt. 20, Villa Maria Del Triunfo",
     "referencia": "A Una Cdra. Del Grifo Repsol Las Conchitas",
@@ -2549,6 +2913,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Villa Maria Del Triunfo / Nueva Esperanza Vmt",
+    "agencia": "Nueva Esperanza Vmt",
     "distrito": "Villa Maria Del Triunfo",
     "direccion_completa": "Av. 26 De Noviembre, 1728b - 1728c Mz. 90 Sub Lote. 19b Pueblo joven Nueva Esperanza, Villa Maria Del Triunfo - Lima",
     "referencia": "A 3 Cdras. Del Mercado Virgen De Lourdes",
@@ -2556,6 +2921,7 @@
   },
   {
     "ruta_agencia": "Lima / Lima / Villa Maria Del Triunfo / Pesquero",
+    "agencia": "Pesquero",
     "distrito": "Villa Maria Del Triunfo",
     "direccion_completa": "Av. Pachacutec N° 3548",
     "referencia": "Frente A Real Plaza, A 1 Cdra. De Mayorsa",
@@ -2563,6 +2929,7 @@
   },
   {
     "ruta_agencia": "Loreto / Alto Amazonas / Yurimaguas / Yurimaguas",
+    "agencia": "Yurimaguas",
     "distrito": "Yurimaguas",
     "direccion_completa": "Calle Jorge Chávez N° 300",
     "referencia": "Esquina Con Progreso, Al Costado De Enapu",
@@ -2570,6 +2937,7 @@
   },
   {
     "ruta_agencia": "Loreto / Maynas / Iquitos / Iquitos Av Tupac Amaru",
+    "agencia": "Iquitos Av Tupac Amaru",
     "distrito": "Iquitos",
     "direccion_completa": "Av. tupac Amaru Con - Calle Lourdes De León #479 iquitos Maynas - Loreto",
     "referencia": "Frente A La Botica Thiagofama",
@@ -2577,6 +2945,7 @@
   },
   {
     "ruta_agencia": "Loreto / Maynas / Iquitos / Iquitos Co Jr. Pablo Rossell",
+    "agencia": "Iquitos Co Jr. Pablo Rossell",
     "distrito": "Iquitos",
     "direccion_completa": "Jr. Pablo Rossell 590 Con Nanay",
     "referencia": "Cruce Con Av. Nanay Frente Al Instituto Cepro América Computer",
@@ -2584,6 +2953,7 @@
   },
   {
     "ruta_agencia": "Loreto / Maynas / Iquitos / Iquitos Jr Francisco Bolognesi",
+    "agencia": "Iquitos Jr Francisco Bolognesi",
     "distrito": "Iquitos",
     "direccion_completa": "Jr. Francisco Bolognesi Nro 203 - 215 Iquitos.",
     "referencia": "Esquina Con Putumayo",
@@ -2591,6 +2961,7 @@
   },
   {
     "ruta_agencia": "Loreto / Maynas / Iquitos San Juan Bautista / Av Jose A. Quiñones",
+    "agencia": "Av Jose A. Quiñones",
     "distrito": "Iquitos San Juan Bautista",
     "direccion_completa": "Av. José Abelardo Quiñones # 2475 San Juan Bautista - Maynas - Loreto",
     "referencia": "Frente A La Universidad Científica Del Perú (ucp)",
@@ -2598,6 +2969,7 @@
   },
   {
     "ruta_agencia": "Loreto / Maynas / Iquitos San Juan Bautista / Av Participacion Parcela",
+    "agencia": "Av Participacion Parcela",
     "distrito": "Iquitos San Juan Bautista",
     "direccion_completa": "Av. Participación Parcela 9-a San Juan Bautista - Maynas - Loreto",
     "referencia": "Frente Al Lavadero Osito Y A Media Cdra. Del Parque 1 De Enero",
@@ -2605,6 +2977,7 @@
   },
   {
     "ruta_agencia": "Loreto / Maynas / Iquitos San Juan Bautista / Ctra Iquitos Nauta",
+    "agencia": "Ctra Iquitos Nauta",
     "distrito": "Iquitos San Juan Bautista",
     "direccion_completa": "Carretera Iquitos Nauta, S/n Mz. K - Lt. 20, San Juan Bautista - Maynas - Loreto",
     "referencia": "Al Costado De La Distribuidora Amazon Gas.",
@@ -2612,6 +2985,7 @@
   },
   {
     "ruta_agencia": "Loreto / Maynas / Punchana / Punchana",
+    "agencia": "Punchana",
     "distrito": "Punchana",
     "direccion_completa": "Calle Borja N°648 Punchana - Maynas - Loreto",
     "referencia": "Al Costado De La Farmacia San Carlos Centro Médico",
@@ -2619,6 +2993,7 @@
   },
   {
     "ruta_agencia": "Madre De Dios / Tahuamanu / Iberia / Iberia",
+    "agencia": "Iberia",
     "distrito": "Iberia",
     "direccion_completa": "Av. Jorge Chavez Mz. H1 Sub Lote 11-b, Iberia - Tahuamanu - Madre De Dios",
     "referencia": "A Una Cdra. De La Empresa Real Dorado / A Una Cdra. Y Media De La Av Jose Aldamiz",
@@ -2626,6 +3001,7 @@
   },
   {
     "ruta_agencia": "Madre De Dios / Tambopata / Inambari / Mazuko",
+    "agencia": "Mazuko",
     "distrito": "Inambari",
     "direccion_completa": "Av. Los Pioneros, Lt. 2 Y 3, Inambari – Tambopata - Madre De Dios",
     "referencia": "al Costado Del Terminal Terrestre De Mazuko / Al Pie De La Carretera Al Rio Inambari",
@@ -2633,6 +3009,7 @@
   },
   {
     "ruta_agencia": "Madre De Dios / Tambopata / Las Piedras / El Triunfo",
+    "agencia": "El Triunfo",
     "distrito": "Las Piedras",
     "direccion_completa": "Av. Interoceanica Km. 1 , Las Piedras - Tambopata - Madre De Dios",
     "referencia": "Al Costado Del Grifo Virgen Natividad",
@@ -2640,6 +3017,7 @@
   },
   {
     "ruta_agencia": "Madre De Dios / Tambopata / Tambopata / Av 15 De Agosto",
+    "agencia": "Av 15 De Agosto",
     "distrito": "Tambopata",
     "direccion_completa": "Av. 15 De Agosto n° 529, Tambopata - Tambopata - Madre De Dios",
     "referencia": "a Espaldas Del Colegio Carlos Fermin Fitzcarrald / Cruce Con Jr. Ica",
@@ -2647,6 +3025,7 @@
   },
   {
     "ruta_agencia": "Madre De Dios / Tambopata / Tambopata / Tambopata Av Circunvalacion",
+    "agencia": "Tambopata Av Circunvalacion",
     "distrito": "Tambopata",
     "direccion_completa": "Av. Circunvalacion Mz. C Lt. 01, Tambopata - Tambopata - Madre De Dios",
     "referencia": "A Dos Cdras. De La Carretera Interoceanica Sur / Cruce Con Jr. Las Mercedes Cabello",
@@ -2654,6 +3033,7 @@
   },
   {
     "ruta_agencia": "Madre De Dios / Tambopata / Tambopata / Tambopata Av La Joya Co",
+    "agencia": "Tambopata Av La Joya Co",
     "distrito": "Tambopata",
     "direccion_completa": "Av. La Joya N° 122 - Pto. Maldonado",
     "referencia": "Frente Al Óvalo De Los Otorongos",
@@ -2661,6 +3041,7 @@
   },
   {
     "ruta_agencia": "Moquegua / Ilo / Ilo / Ilo Co Pampa Inalambrica",
+    "agencia": "Ilo Co Pampa Inalambrica",
     "distrito": "Ilo",
     "direccion_completa": "Urb. Ciudad Del Pescador, Mz. J Lt. 18-19",
     "referencia": "A Dos Cuadras Del Poder Judicial",
@@ -2668,6 +3049,7 @@
   },
   {
     "ruta_agencia": "Moquegua / Ilo / Ilo / Ilo Puerto",
+    "agencia": "Ilo Puerto",
     "distrito": "Ilo",
     "direccion_completa": "Jr. Callao Prolongación Mz. N, Lt. 19 - A",
     "referencia": "A Media Cdra. De La Cooperativa Cuajone",
@@ -2675,6 +3057,7 @@
   },
   {
     "ruta_agencia": "Moquegua / Ilo / Pacocha / Ilo Pacocha",
+    "agencia": "Ilo Pacocha",
     "distrito": "Pacocha",
     "direccion_completa": "Agrupación De Familias Pueblo Nuevo M.z E2 Lt. Com2a Sect. Ii – Ilo - Moquegua",
     "referencia": "Al Costado Del Banco Bcp",
@@ -2682,6 +3065,7 @@
   },
   {
     "ruta_agencia": "Moquegua / Mariscal Nieto / Moquegua / Calle Lima",
+    "agencia": "Calle Lima",
     "distrito": "Moquegua",
     "direccion_completa": "Calle Lima 190 - Mariscal Nieto - Moquegua",
     "referencia": "A Dos Cuadras Del Parque Los Héroes/alameda",
@@ -2689,6 +3073,7 @@
   },
   {
     "ruta_agencia": "Moquegua / Mariscal Nieto / Moquegua / Chen Chen",
+    "agencia": "Chen Chen",
     "distrito": "Moquegua",
     "direccion_completa": "Mz. C Lt. 24 – Asociación César Vizcarra – Centro Poblado Chen Chen , Moquegua –mariscal Nieto – Moquegua",
     "referencia": "Al Costado Del Ovalo Chen Chen",
@@ -2696,6 +3081,7 @@
   },
   {
     "ruta_agencia": "Moquegua / Mariscal Nieto / Moquegua / Quebrada Las Lechuzas Co",
+    "agencia": "Quebrada Las Lechuzas Co",
     "distrito": "Moquegua",
     "direccion_completa": "Sector Quebrada Las Lechuzas Moquegua Calle N°1 Mz H Lt. 04, Moquegua - Mariscal Nieto - Moquegua",
     "referencia": "Quebrada De Lechuzas",
@@ -2703,6 +3089,7 @@
   },
   {
     "ruta_agencia": "Moquegua / Mariscal Nieto / Moquegua / San Antonio",
+    "agencia": "San Antonio",
     "distrito": "Moquegua",
     "direccion_completa": "Av. Santa Fortunata Mz. N5 Lt. 10 Asoc. Villa Moquegua San Antonio.",
     "referencia": "A Una Cuadra De La Casa De La Mujer",
@@ -2710,6 +3097,7 @@
   },
   {
     "ruta_agencia": "Pasco / Oxapampa / Oxapampa / Oxapampa",
+    "agencia": "Oxapampa",
     "distrito": "Oxapampa",
     "direccion_completa": "Mz. 239 Sub Lote H – 1 Oxapampa - Oxapampa - Pasco",
     "referencia": "Entre Av. Angélica Frey Y Jr. Lima",
@@ -2717,6 +3105,7 @@
   },
   {
     "ruta_agencia": "Pasco / Oxapampa / Villa Rica / Villa Rica",
+    "agencia": "Villa Rica",
     "distrito": "Villa Rica",
     "direccion_completa": "Av. Leopoldo Krausse N° 442 Villa Rica - Oxapampa - Pasco",
     "referencia": "Entre El Jr. Pozuzo Y Jr. Cooperativa, Al Costado De La Notaría Guerra Y A 20 Metros De La Plaza Principal",
@@ -2724,6 +3113,7 @@
   },
   {
     "ruta_agencia": "Pasco / Pasco / Chaupimarca / Cerro De Pasco",
+    "agencia": "Cerro De Pasco",
     "distrito": "Chaupimarca",
     "direccion_completa": "Jr. Huaricapcha S/n A.h. Tupac Amaru Chaupimarca",
     "referencia": "Frente Al Nuevo Terminal",
@@ -2731,6 +3121,7 @@
   },
   {
     "ruta_agencia": "Pasco / Pasco / Huayllay / Huayllay",
+    "agencia": "Huayllay",
     "distrito": "Huayllay",
     "direccion_completa": "Calle Lima S/n Barrio Arenales Huayllay Pasco",
     "referencia": "Al Costado Del Colegio Cesar Vallejo",
@@ -2738,6 +3129,7 @@
   },
   {
     "ruta_agencia": "Piura / Ayabaca / Ayabaca / Ayabaca",
+    "agencia": "Ayabaca",
     "distrito": "Ayabaca",
     "direccion_completa": "Calle Bolognesi N° 136",
     "referencia": "A 2 Cuadras De La Plaza De Armas De Ayabaca",
@@ -2745,6 +3137,7 @@
   },
   {
     "ruta_agencia": "Piura / Ayabaca / Paimas / Paimas",
+    "agencia": "Paimas",
     "distrito": "Paimas",
     "direccion_completa": "Av. Sullana S/n",
     "referencia": "Frente Al Complejo Educativo Juan Velasco Alvarado",
@@ -2752,6 +3145,7 @@
   },
   {
     "ruta_agencia": "Piura / Huancabamba / Huancabamba / Huancabamba",
+    "agencia": "Huancabamba",
     "distrito": "Huancabamba",
     "direccion_completa": "Av. Ramon Castilla 0351 Huancabamba - Piura",
     "referencia": "A 1 Cuadra De La Capilla Ramon Castilla",
@@ -2759,6 +3153,7 @@
   },
   {
     "ruta_agencia": "Piura / Morropon / Chulucanas / Chulucanas",
+    "agencia": "Chulucanas",
     "distrito": "Chulucanas",
     "direccion_completa": "Jr. Huancavelica N° 548",
     "referencia": "Al Lado Del Terminal De Ronco",
@@ -2766,6 +3161,7 @@
   },
   {
     "ruta_agencia": "Piura / Morropon / Morropon / Morropon",
+    "agencia": "Morropon",
     "distrito": "Morropon",
     "direccion_completa": "Jr. Adrianzén N° 099, Morropon - Morropon - Piura",
     "referencia": "A Espaldas De Del Terminal Terrestre De Trampsa",
@@ -2773,6 +3169,7 @@
   },
   {
     "ruta_agencia": "Piura / Paita / Paita / Paita",
+    "agencia": "Paita",
     "distrito": "Paita",
     "direccion_completa": "Mz. H Lt. 14 Urb. Sol Y Mar - Paita",
     "referencia": "Al Costado De La Empresa San Miguel",
@@ -2780,6 +3177,7 @@
   },
   {
     "ruta_agencia": "Piura / Piura / 26 De Octubre / Aahh Santa Rosa Piura",
+    "agencia": "Aahh Santa Rosa Piura",
     "distrito": "26 De Octubre",
     "direccion_completa": "Urb. Santa Rosa Mz. D Lt. 7, Sect. 7, 26 De Octubre - Piura.",
     "referencia": "Av. Raul Mata La Cruz Con Circunvalación Al Frente De Repuestos Frank|",
@@ -2787,6 +3185,7 @@
   },
   {
     "ruta_agencia": "Piura / Piura / 26 De Octubre / Av. Gullman",
+    "agencia": "Av. Gullman",
     "distrito": "26 De Octubre",
     "direccion_completa": "A.a.h.h. Consuelo De Velasco 1 Etapa Sector B Mz Lt.18 26 De Octubre – Piura",
     "referencia": "Cruce Av. Circunvalación Con Av. Gullman Al Costado De La Ferreteria los Reyes",
@@ -2794,6 +3193,7 @@
   },
   {
     "ruta_agencia": "Piura / Piura / 26 De Octubre / Calle Emaús",
+    "agencia": "Calle Emaús",
     "distrito": "26 De Octubre",
     "direccion_completa": "Calle Tres N° 102, Sublote N° 1d Mz. Y - Zona Industrial Ii, Distrito 26 De Octubre",
     "referencia": "Al Costado De Senati",
@@ -2801,6 +3201,7 @@
   },
   {
     "ruta_agencia": "Piura / Piura / 26 De Octubre / Parque Industrial Co Piura Futura",
+    "agencia": "Parque Industrial Co Piura Futura",
     "distrito": "26 De Octubre",
     "direccion_completa": "Urb. Parque Industrial Piura Futura Mz. G, Lt. 1a. 26 De Octubre - Piura",
     "referencia": "Al Frente Del Grifo Petro Perú",
@@ -2808,6 +3209,7 @@
   },
   {
     "ruta_agencia": "Piura / Piura / Castilla / Av Tacna",
+    "agencia": "Av Tacna",
     "distrito": "Castilla",
     "direccion_completa": "Av. Tacna 503 Castilla - Piura",
     "referencia": "Frente A Ugel De Castilla",
@@ -2815,6 +3217,7 @@
   },
   {
     "ruta_agencia": "Piura / Piura / Castilla / Tacala",
+    "agencia": "Tacala",
     "distrito": "Castilla",
     "direccion_completa": "Carr. Panamericana A-2 Ah. Almirante Miguel Grau I Etapa, Castilla - Piura - Piura",
     "referencia": "Al Costado De Cerámicas San Lorenzo",
@@ -2822,6 +3225,7 @@
   },
   {
     "ruta_agencia": "Piura / Piura / Catacaos / Catacaos",
+    "agencia": "Catacaos",
     "distrito": "Catacaos",
     "direccion_completa": "Av. Francisco Bolognesi Mz. 60 Lt. 37 Catacaos - Piura - Piura",
     "referencia": "Al Lado Del Ex Pronei",
@@ -2829,6 +3233,7 @@
   },
   {
     "ruta_agencia": "Piura / Piura / La Union / La Union",
+    "agencia": "La Union",
     "distrito": "La Union",
     "direccion_completa": "Av. Lima N° 590",
     "referencia": "Frente A Tiendas Chancafe",
@@ -2836,6 +3241,7 @@
   },
   {
     "ruta_agencia": "Piura / Piura / Las Lomas / Las Lomas",
+    "agencia": "Las Lomas",
     "distrito": "Las Lomas",
     "direccion_completa": "Jr. Miguel Grau Mz. H Lt. 7, Las Lomas - Piura",
     "referencia": "Al Costado De Caja Huancayo Y Al Costado De Comisaria Las Lomas",
@@ -2843,6 +3249,7 @@
   },
   {
     "ruta_agencia": "Piura / Piura / Piura / Av Raul Mata La Cruz- Dos Grifos",
+    "agencia": "Av Raul Mata La Cruz- Dos Grifos",
     "distrito": "Piura",
     "direccion_completa": "Av. Raúl Mata La Cruz Lt. 11 Mz. C Urb. Los Jardines - Corpiura, - Piura - Piura - Piura",
     "referencia": "A Una Cdra. De Los 2 Grifos En Toda La Av. Raúl Mata La Cruz",
@@ -2850,6 +3257,7 @@
   },
   {
     "ruta_agencia": "Piura / Piura / Piura / Av. Grau",
+    "agencia": "Av. Grau",
     "distrito": "Piura",
     "direccion_completa": "Av. Grau Manzana N, Lote 33 - Urbanización La Alborada.",
     "referencia": "Grau Con Marcavelica",
@@ -2857,6 +3265,7 @@
   },
   {
     "ruta_agencia": "Piura / Piura / Piura / Av. Luis Eguiguren",
+    "agencia": "Av. Luis Eguiguren",
     "distrito": "Piura",
     "direccion_completa": "Av. Málaga Mz. A Lt.20 Int. 105 Piura",
     "referencia": "A Media Cuadra De Honda Del Peru S.a. En El Cruce De Av. Luis Eguiguren Con Sullana Norte",
@@ -2864,6 +3273,7 @@
   },
   {
     "ruta_agencia": "Piura / Piura / Tambo Grande / Tambo Grande",
+    "agencia": "Tambo Grande",
     "distrito": "Tambo Grande",
     "direccion_completa": "Aa. Hh. El Huerto Mz. E Lt. 08 Tambo Grande – Piura - Piura",
     "referencia": "Atrás Del Colegio Ina 54 Agropecuario, A La Altura Del Campo Campestre Rivera Del Río",
@@ -2871,6 +3281,7 @@
   },
   {
     "ruta_agencia": "Piura / Sechura / Sechura / Sechura",
+    "agencia": "Sechura",
     "distrito": "Sechura",
     "direccion_completa": "Av. Bayovar N° 311",
     "referencia": "Al Costado De Antena 10 Radio",
@@ -2878,6 +3289,7 @@
   },
   {
     "ruta_agencia": "Piura / Sullana / Bellavista / Bellavista Sullana",
+    "agencia": "Bellavista Sullana",
     "distrito": "Bellavista",
     "direccion_completa": "Calle Moquegua 381, Bellavista",
     "referencia": "Rest. Parrilladas Chavelos",
@@ -2885,6 +3297,7 @@
   },
   {
     "ruta_agencia": "Piura / Sullana / Ignacio Escudero / Ignacio Escudero",
+    "agencia": "Ignacio Escudero",
     "distrito": "Ignacio Escudero",
     "direccion_completa": "Av. Panamericana Calle 26 Lote 3, Ignacio Escudero - Sullana - Piura",
     "referencia": "Frente A La Institución Educativa Ignacio Escudero",
@@ -2892,6 +3305,7 @@
   },
   {
     "ruta_agencia": "Piura / Sullana / Sullana / Sullana Co Zona Industrial",
+    "agencia": "Sullana Co Zona Industrial",
     "distrito": "Sullana",
     "direccion_completa": "Ctra. Sullana Nº S/n Mz. K, Lt. 06 - Zona Industrial Municipal",
     "referencia": "Al Costado Del Hotel Coco Suite",
@@ -2899,6 +3313,7 @@
   },
   {
     "ruta_agencia": "Piura / Sullana / Sullana / Sullana Santa Rosa",
+    "agencia": "Sullana Santa Rosa",
     "distrito": "Sullana",
     "direccion_completa": "Carretera Panamericana Norte Nº 790 Sullana",
     "referencia": "Frente Al Colegio Chiquititos",
@@ -2906,6 +3321,7 @@
   },
   {
     "ruta_agencia": "Piura / Talara / El Alto / El Alto",
+    "agencia": "El Alto",
     "distrito": "El Alto",
     "direccion_completa": "Av. Bolognesi O-37 Centro El Alto",
     "referencia": "A Espaldas De La Municipalidad De El Alto",
@@ -2913,6 +3329,7 @@
   },
   {
     "ruta_agencia": "Piura / Talara / Los Organos / Los Organos",
+    "agencia": "Los Organos",
     "distrito": "Los Organos",
     "direccion_completa": "Av. Panamericana Norte P-29 - Urb. Cercado Zona Urbana",
     "referencia": "Al Frente De Grifo De Troncos O Grifo San Pedro",
@@ -2920,6 +3337,7 @@
   },
   {
     "ruta_agencia": "Piura / Talara / Mancora / Máncora",
+    "agencia": "Máncora",
     "distrito": "Mancora",
     "direccion_completa": "Av. Grau Nro. 432 Máncora - Talara - Piura",
     "referencia": "Frente Al Paradero De Autos De Los Órganos En Toda La Panamericana Norte.",
@@ -2927,6 +3345,7 @@
   },
   {
     "ruta_agencia": "Piura / Talara / Parinas / Talara Alta 9 De Octubre",
+    "agencia": "Talara Alta 9 De Octubre",
     "distrito": "Parinas",
     "direccion_completa": "Mz. N-10 Aa.hh 9 De Octubre talara Alta, pariñas - Talara - Piura",
     "referencia": "A 1 Cdra. Antes De Amecfa",
@@ -2934,6 +3353,7 @@
   },
   {
     "ruta_agencia": "Piura / Talara / Parinas / Talara Baja Parque 22",
+    "agencia": "Talara Baja Parque 22",
     "distrito": "Parinas",
     "direccion_completa": "Parque 22 – 03 Lateral. Talara Baja, Pariñas - Talara - Piura.",
     "referencia": "Frente A Minsa",
@@ -2941,6 +3361,7 @@
   },
   {
     "ruta_agencia": "Piura / Talara / Parinas / Talara Co Asoc California",
+    "agencia": "Talara Co Asoc California",
     "distrito": "Parinas",
     "direccion_completa": "Asociación California C - 03 Frente A Carretera Negritos, Talara - Pariñas",
     "referencia": "Al Costado Del Restaurante Mi Torete",
@@ -2948,6 +3369,7 @@
   },
   {
     "ruta_agencia": "Puno / Azangaro / Azangaro / Azangaro",
+    "agencia": "Azangaro",
     "distrito": "Azangaro",
     "direccion_completa": "Av. Próceres S/n, Azángaro - Puno",
     "referencia": "a Dos Cdras. Del Parque De La Madre / A Orillas De La Misma Av. Proceres",
@@ -2955,6 +3377,7 @@
   },
   {
     "ruta_agencia": "Puno / Chucuito / Desaguadero / Desaguadero",
+    "agencia": "Desaguadero",
     "distrito": "Desaguadero",
     "direccion_completa": "Av. 28 De Julio N° 564 - 566, Chucuito",
     "referencia": "A 50 Mtrs. Del Banco De La Nacion",
@@ -2962,6 +3385,7 @@
   },
   {
     "ruta_agencia": "Puno / El Collao / Ilave / Ilave",
+    "agencia": "Ilave",
     "distrito": "Ilave",
     "direccion_completa": "Jr. Bolognesi Nro. 866 Barrio Cruzani, El Collao - Puno",
     "referencia": "A Una Cuadra Del Coliseo Y Del Cementerio De Ilave",
@@ -2969,6 +3393,7 @@
   },
   {
     "ruta_agencia": "Puno / Melgar / Ayaviri / Ayaviri",
+    "agencia": "Ayaviri",
     "distrito": "Ayaviri",
     "direccion_completa": "Jr. Santa Rosa Prolongación S/n Magisterial - Puno - Melgar - Ayaviri",
     "referencia": "A 50 Metros Del Óvalo, Salida A Juliaca",
@@ -2976,6 +3401,7 @@
   },
   {
     "ruta_agencia": "Puno / Puno / Puno / Alto Puno",
+    "agencia": "Alto Puno",
     "distrito": "Puno",
     "direccion_completa": "Urb. San Pedro-alto Puno, Av La Cultura N° 160, Puno - Puno - Puno",
     "referencia": "A Tres Cdras. De La Av. Que Va A Juliaca / A Dos Cdras. Del Grifo Bronco",
@@ -2983,6 +3409,7 @@
   },
   {
     "ruta_agencia": "Puno / Puno / Puno / Av 4 De Noviembre Co",
+    "agencia": "Av 4 De Noviembre Co",
     "distrito": "Puno",
     "direccion_completa": "Av. 4 De Noviembre N° 474-b Y 486-b Barrio Santa Rosa, Puno - Puno – Puno",
     "referencia": "A Una Cdra. De Sunafil",
@@ -2990,6 +3417,7 @@
   },
   {
     "ruta_agencia": "Puno / Puno / Puno / Av Costanera",
+    "agencia": "Av Costanera",
     "distrito": "Puno",
     "direccion_completa": "Av. Costanera N° 211 Con Jr. Los Incas - Puno",
     "referencia": "",
@@ -2997,6 +3425,7 @@
   },
   {
     "ruta_agencia": "Puno / Puno / Puno / Salcedo",
+    "agencia": "Salcedo",
     "distrito": "Puno",
     "direccion_completa": "Urb. Aziruni Tepro I Etapa Mz. 18 Lt. 52 Jr Los Rosales – Salcedo Puno",
     "referencia": "A Una Cdra. De La Av. Estudiante / A Dos Cdras. De Senati Puno",
@@ -3004,6 +3433,7 @@
   },
   {
     "ruta_agencia": "Puno / San Roman / Juliaca / Av Heroes Del Pacifico Co",
+    "agencia": "Av Heroes Del Pacifico Co",
     "distrito": "Juliaca",
     "direccion_completa": "Av. Héroes De La Guerra Del Pacifico Km 3.5, Juliaca - San Román - Puno",
     "referencia": "Al Frente Del Grifo Leon Service",
@@ -3011,6 +3441,7 @@
   },
   {
     "ruta_agencia": "Puno / San Roman / Juliaca / Av Independencia",
+    "agencia": "Av Independencia",
     "distrito": "Juliaca",
     "direccion_completa": "Av. Independencia Nro. 1538 Mz. A1 Lt. 04 Urb. Horacio Zeballos Gamez, Juliaca - San Román - Puno, Al Frente Del Grifo San Carlos / Cruce Con Jr 21 De Eneroref.",
     "referencia": "",
@@ -3018,6 +3449,7 @@
   },
   {
     "ruta_agencia": "Puno / San Roman / Juliaca / Av. Huancane Cdra. 9",
+    "agencia": "Av. Huancane Cdra. 9",
     "distrito": "Juliaca",
     "direccion_completa": "Jr. Sillustani N° 202, San Roman - Juliaca",
     "referencia": "A 3 Cdras. Del Hospital Carlos Monge Medrano",
@@ -3025,6 +3457,7 @@
   },
   {
     "ruta_agencia": "Puno / San Roman / Juliaca / Av. Lampa",
+    "agencia": "Av. Lampa",
     "distrito": "Juliaca",
     "direccion_completa": "Av. Lampa Mz. B2 Lt. 3 Urb. Santa Adriana, Juliaca - San Román - Puno",
     "referencia": "A Media Cdra. De La Posta De Salud De La Urb. Santa Adriana",
@@ -3032,6 +3465,7 @@
   },
   {
     "ruta_agencia": "Puno / San Roman / Juliaca / Av. Modesto Borda",
+    "agencia": "Av. Modesto Borda",
     "distrito": "Juliaca",
     "direccion_completa": "Av. Modesto Borda Mz. A Lt. 04 Urb. Arrabal Don Julio, Juliaca - San Roman - Puno",
     "referencia": "Dos Cdras. Antes Del Grifo Blanco / A Dos Cdras. Del Salon De Eventos Paraiso Azul",
@@ -3039,6 +3473,7 @@
   },
   {
     "ruta_agencia": "Puno / San Roman / Juliaca / Jr Agustin Gamarra",
+    "agencia": "Jr Agustin Gamarra",
     "distrito": "Juliaca",
     "direccion_completa": "Jr. Agustin Gamarra Mz. R1 Lt. 09 Urb. Huancane, Juliaca - San Román - Puno",
     "referencia": "A Una Cdra. De La Av. Huancane / Cruce Con Jr. Alberto Cuentas Zabala",
@@ -3046,6 +3481,7 @@
   },
   {
     "ruta_agencia": "Puno / San Roman / Juliaca / Jr. Mama Ocllo",
+    "agencia": "Jr. Mama Ocllo",
     "distrito": "Juliaca",
     "direccion_completa": "Jr. Mama Ocllo 915 - B ( Cruce Con Jr Azángaro )",
     "referencia": "",
@@ -3053,6 +3489,7 @@
   },
   {
     "ruta_agencia": "Puno / San Roman / Juliaca / Las Mercedes",
+    "agencia": "Las Mercedes",
     "distrito": "Juliaca",
     "direccion_completa": "Jr. Porvenir N° 228 Urb. Las Mercedes, San Roman - Puno",
     "referencia": "A Una Cdra. De La Av. Circunvalacion Oeste - A Una Cdra. Del Terminal Las Mercedes",
@@ -3060,6 +3497,7 @@
   },
   {
     "ruta_agencia": "San Martin / Bellavista / Bellavista / San Martin Bellavista",
+    "agencia": "San Martin Bellavista",
     "distrito": "Bellavista",
     "direccion_completa": "Av. Lima S/n C-4 Mz 71 – Lote A – Tercer Piso, Bellavista- Bellavista- San Martin",
     "referencia": "espaldas De Ferretería El Iman",
@@ -3067,6 +3505,7 @@
   },
   {
     "ruta_agencia": "San Martin / El Dorado / San Jose De Sisa / San Jose De Sisa",
+    "agencia": "San Jose De Sisa",
     "distrito": "San Jose De Sisa",
     "direccion_completa": "Jr. Bolognesi Cdra 6, San Jose De Sisa - El Dorado - San Martin",
     "referencia": "Altura De Jr Lamas Y Jr Eladio Tapullima",
@@ -3074,6 +3513,7 @@
   },
   {
     "ruta_agencia": "San Martin / Huallaga / Saposoa / Saposoa",
+    "agencia": "Saposoa",
     "distrito": "Saposoa",
     "direccion_completa": "Av. Loreto S/n - Saposoa - El Huallaga - San Martin",
     "referencia": "En El Hostal El Gato, A Una Cdra. Y Media De La Plaza De Armas",
@@ -3081,6 +3521,7 @@
   },
   {
     "ruta_agencia": "San Martin / Lamas / Lamas / Lamas",
+    "agencia": "Lamas",
     "distrito": "Lamas",
     "direccion_completa": "Jr. 16 De Octubre N°1137",
     "referencia": "A La Espalda Del Grifo Vargas Tello",
@@ -3088,6 +3529,7 @@
   },
   {
     "ruta_agencia": "San Martin / Mariscal Caceres / Juanjui / Juanjui Centro",
+    "agencia": "Juanjui Centro",
     "distrito": "Juanjui",
     "direccion_completa": "Jr. Sargento Lorez N° 568, Juanjui - Mariscal Cáceres - San Martin",
     "referencia": "A una Cdra. De Del Jr. Huallaga Cdra. 11 Y A Una Cdra. De Importaciones Patricia",
@@ -3095,6 +3537,7 @@
   },
   {
     "ruta_agencia": "San Martin / Mariscal Caceres / Juanjui / Juanjuí Fernando Belaunde Terry Co",
+    "agencia": "Juanjuí Fernando Belaunde Terry Co",
     "distrito": "Juanjui",
     "direccion_completa": "Carretera Fernando Terry Km. 1 S/n",
     "referencia": "Al Costado De Paradero De Autos Huallaga Express",
@@ -3102,6 +3545,7 @@
   },
   {
     "ruta_agencia": "San Martin / Moyobamba / Moyobamba / Moyobamba Centro",
+    "agencia": "Moyobamba Centro",
     "distrito": "Moyobamba",
     "direccion_completa": "Jr. Serafín Filomeno N°279, Moyobamba - Moyobamba - San Martín",
     "referencia": "A Una Cuadra Imedia Del Cumo (centro Cultural De Moyobamba)",
@@ -3109,6 +3553,7 @@
   },
   {
     "ruta_agencia": "San Martin / Moyobamba / Moyobamba / Ovalo Orquideas Co",
+    "agencia": "Ovalo Orquideas Co",
     "distrito": "Moyobamba",
     "direccion_completa": "Jr. 20 De Abril 2138",
     "referencia": "Altura De La Pampa Del Hambre",
@@ -3116,6 +3561,7 @@
   },
   {
     "ruta_agencia": "San Martin / Moyobamba / Soritor / Soritor",
+    "agencia": "Soritor",
     "distrito": "Soritor",
     "direccion_completa": "Jr. Miguel Grau Cdra 7 N°741 Mz.05 Lte.16b, Soritor - Moyobamba - San Martín",
     "referencia": "A Media Cdra. De La Iglesia Asambleas De Dios",
@@ -3123,6 +3569,7 @@
   },
   {
     "ruta_agencia": "San Martin / Picota / Picota / Picota",
+    "agencia": "Picota",
     "distrito": "Picota",
     "direccion_completa": "Av. Fernando Belaunde Terry Lote 2b Picota - Picota - San Martin.",
     "referencia": "A Una Cdra. De La Comisaria De Picota Salida A Bellavista",
@@ -3130,6 +3577,7 @@
   },
   {
     "ruta_agencia": "San Martin / Rioja / Elias Soplin Vargas / Segunda Jerusalen",
+    "agencia": "Segunda Jerusalen",
     "distrito": "Elias Soplin Vargas",
     "direccion_completa": "Jr. Lima Mz. 43 Lt. 08 , Elias Soplin Vargas - Rioja - San Martin",
     "referencia": "Al Costado De Tienda Chingay",
@@ -3137,6 +3585,7 @@
   },
   {
     "ruta_agencia": "San Martin / Rioja / Nueva Cajamarca / Nueva Cajamarca",
+    "agencia": "Nueva Cajamarca",
     "distrito": "Nueva Cajamarca",
     "direccion_completa": "Av. Cajamarca Norte Mz. 51 Lt. 15",
     "referencia": "Al Costado De Essalud",
@@ -3144,6 +3593,7 @@
   },
   {
     "ruta_agencia": "San Martin / Rioja / Pardo Miguel / Pardo Miguel Naranjos",
+    "agencia": "Pardo Miguel Naranjos",
     "distrito": "Pardo Miguel",
     "direccion_completa": "Jr. Miguel Grau 101 Mz. 34 Lt. 6, Pardo Miguel - Rioja - San Martin",
     "referencia": "Av. Marginal Cdra 5",
@@ -3151,6 +3601,7 @@
   },
   {
     "ruta_agencia": "San Martin / Rioja / Rioja / Rioja",
+    "agencia": "Rioja",
     "distrito": "Rioja",
     "direccion_completa": "Ctra. Fernando Belaúnde Terry N° 415",
     "referencia": "Al Costado De La Clínica Chilcon Hope",
@@ -3158,6 +3609,7 @@
   },
   {
     "ruta_agencia": "San Martin / San Martin / La Banda De Shilcayo / Tarapoto La Banda De Shilcayo",
+    "agencia": "Tarapoto La Banda De Shilcayo",
     "distrito": "La Banda De Shilcayo",
     "direccion_completa": "Jr. Perú N°186",
     "referencia": "A 2 Cdrs. De La Plaza De La Banda De Shilcayo",
@@ -3165,6 +3617,7 @@
   },
   {
     "ruta_agencia": "San Martin / San Martin / Morales / Tarapoto Jr. Sargento Lorez",
+    "agencia": "Tarapoto Jr. Sargento Lorez",
     "distrito": "Morales",
     "direccion_completa": "Jr. Sargento Lorez N° 264, Morales - San Martin",
     "referencia": "A Una Cdra. Y Media De La Plaza De Morales, Frente A Vulcano Gas",
@@ -3172,6 +3625,7 @@
   },
   {
     "ruta_agencia": "San Martin / San Martin / Tarapoto / Jr Leoncio Prado",
+    "agencia": "Jr Leoncio Prado",
     "distrito": "Tarapoto",
     "direccion_completa": "Jr. Leoncio Prado N° 1175",
     "referencia": "A Una Cuadra Del Instituto María Parado De Bellido",
@@ -3179,6 +3633,7 @@
   },
   {
     "ruta_agencia": "San Martin / San Martin / Tarapoto / Jr. Ramón Castilla",
+    "agencia": "Jr. Ramón Castilla",
     "distrito": "Tarapoto",
     "direccion_completa": "Jr. Ramon Castilla N°1362 Tarapoto - San Martin",
     "referencia": "A Media Cdra. De Mannucci Motor S.a.",
@@ -3186,6 +3641,7 @@
   },
   {
     "ruta_agencia": "San Martin / San Martin / Tarapoto / Jr. Tahuantinsuyo",
+    "agencia": "Jr. Tahuantinsuyo",
     "distrito": "Tarapoto",
     "direccion_completa": "Jr. Tahuantinsuyo N° 158 - Tarapoto - San Martín",
     "referencia": "Al Costado Del Grifo San Martín",
@@ -3193,6 +3649,7 @@
   },
   {
     "ruta_agencia": "San Martin / San Martin / Tarapoto / Tarapoto Co Jr Alfonso Ugarte",
+    "agencia": "Tarapoto Co Jr Alfonso Ugarte",
     "distrito": "Tarapoto",
     "direccion_completa": "Jr. Alfonso Ugarte N°2283 - Tarapoto - San Martin - San Martin",
     "referencia": "frente A La Cancha Sintético El Golazo",
@@ -3200,6 +3657,7 @@
   },
   {
     "ruta_agencia": "San Martin / Tocache / Tocache / Av Fernando Belaunde",
+    "agencia": "Av Fernando Belaunde",
     "distrito": "Tocache",
     "direccion_completa": "Av. Fernando Belaunde C-09 Mz H6 (21), Lt. 04, Cercado De Tocache",
     "referencia": "Frente Al Mercadillo De Tocache",
@@ -3207,6 +3665,7 @@
   },
   {
     "ruta_agencia": "San Martin / Tocache / Tocache / Jr Fredy Aliaga Co",
+    "agencia": "Jr Fredy Aliaga Co",
     "distrito": "Tocache",
     "direccion_completa": "Jr. Fredy Aliaga N°3046 -tocache - Tocache - San Martin",
     "referencia": "al Costado Del Recreo Campestre Estragos",
@@ -3214,6 +3673,7 @@
   },
   {
     "ruta_agencia": "San Martin / Tocache / Uchiza / Uchiza",
+    "agencia": "Uchiza",
     "distrito": "Uchiza",
     "direccion_completa": "Av. Leoncio Prado N°524 - Uchiza - Tocache - San Martin",
     "referencia": "A Media Cdra. De La Plaza Central / Frente A Coopact",
@@ -3221,6 +3681,7 @@
   },
   {
     "ruta_agencia": "Tacna / Tacna / Ciudad Nueva / Tacna Ciudad Nueva",
+    "agencia": "Tacna Ciudad Nueva",
     "distrito": "Ciudad Nueva",
     "direccion_completa": "Ciudad Nueva Mz 46 Lt 12 Comité 10 Ciudad Nueva - Tacna",
     "referencia": "A Una Cdra. De La Plaza José Olaya De Ciudad Nueva",
@@ -3228,6 +3689,7 @@
   },
   {
     "ruta_agencia": "Tacna / Tacna / Coronel Gregorio Albarracin Lanchipa / Av. Municipal",
+    "agencia": "Av. Municipal",
     "distrito": "Coronel Gregorio Albarracin Lanchipa",
     "direccion_completa": "Asociación Las vilcas mz. E Lt. 16, Gregorio Albarracín Lanchipa - Tacna",
     "referencia": "Frente Al Mercado Héroes Del Cenepa",
@@ -3235,6 +3697,7 @@
   },
   {
     "ruta_agencia": "Tacna / Tacna / Coronel Gregorio Albarracin Lanchipa / Villa San Francisco",
+    "agencia": "Villa San Francisco",
     "distrito": "Coronel Gregorio Albarracin Lanchipa",
     "direccion_completa": "Asoc. Villa San Francisco Mz. 94 Lt. 22",
     "referencia": "Cerca A Caja Cusco",
@@ -3242,6 +3705,7 @@
   },
   {
     "ruta_agencia": "Tacna / Tacna / Coronel Gregorio Albarracin Lanchipa / Viñanis",
+    "agencia": "Viñanis",
     "distrito": "Coronel Gregorio Albarracin Lanchipa",
     "direccion_completa": "Promuvi Viñani, Amp. I Etapa, Mz. 574, Lt. 09 – Coronel Gregorio Albarracín Lanchipa – Tacna - Tacna",
     "referencia": "A Media Cdra. Del Óvalo Los Molles",
@@ -3249,6 +3713,7 @@
   },
   {
     "ruta_agencia": "Tacna / Tacna / Tacna / Av Ejercito",
+    "agencia": "Av Ejercito",
     "distrito": "Tacna",
     "direccion_completa": "Av. Litoral Nro. 306 – Para Chico (anterior Av. Ejército Prolongación 306 Tacna), Tacna - Tacna - Tacna",
     "referencia": "Dentro Del Establecimiento Del Grifo Primax",
@@ -3256,6 +3721,7 @@
   },
   {
     "ruta_agencia": "Tacna / Tacna / Tacna / Av Vigil",
+    "agencia": "Av Vigil",
     "distrito": "Tacna",
     "direccion_completa": "Av. Vigil 1636",
     "referencia": "A Una Cdra. De La Plaza Grau",
@@ -3263,6 +3729,7 @@
   },
   {
     "ruta_agencia": "Tacna / Tacna / Tacna / Av. Arias Araguez",
+    "agencia": "Av. Arias Araguez",
     "distrito": "Tacna",
     "direccion_completa": "Calle Arias Araguez N° 836 tacna",
     "referencia": "A Una Cdra. Antes De Llegar Al Coliseo Perú",
@@ -3270,6 +3737,7 @@
   },
   {
     "ruta_agencia": "Tacna / Tacna / Tacna / Pocollay",
+    "agencia": "Pocollay",
     "distrito": "Tacna",
     "direccion_completa": "Pueblo Tradicional Pocollay Mz. T Lote 01 , Pocollay - Tacna - Tacna",
     "referencia": "A Una Cdra. Del Centro De Salud Pocollay",
@@ -3277,6 +3745,7 @@
   },
   {
     "ruta_agencia": "Tacna / Tacna / Tacna / Tacna Co Av. Jorge Basadre",
+    "agencia": "Tacna Co Av. Jorge Basadre",
     "distrito": "Tacna",
     "direccion_completa": "Av. Jorge Basadre Grohmann Oeste N° 366 - Tacna",
     "referencia": "",
@@ -3284,6 +3753,7 @@
   },
   {
     "ruta_agencia": "Tumbes / Contralmirante Villa / Zorritos / Zorritos",
+    "agencia": "Zorritos",
     "distrito": "Zorritos",
     "direccion_completa": "Av. 28 De Julio n° 205 Mz. 14 Lt. 04 Los Pinos Tumbes, contralmiraante Villar - Zorritos - Tumbes",
     "referencia": "",
@@ -3291,6 +3761,7 @@
   },
   {
     "ruta_agencia": "Tumbes / Tumbes / Corrales / Corrales",
+    "agencia": "Corrales",
     "distrito": "Corrales",
     "direccion_completa": "Av. Huáscar Nº 311 Int. 01 Centro, Corrales - Tumbes",
     "referencia": "A Espaldas De La Plaza De Armas",
@@ -3298,6 +3769,7 @@
   },
   {
     "ruta_agencia": "Tumbes / Tumbes / La Cruz / La Cruz Tumbes",
+    "agencia": "La Cruz Tumbes",
     "distrito": "La Cruz",
     "direccion_completa": "Jr. Piura 105 Caleta La Cruz, La Cruz - Tumbes",
     "referencia": "Frente a ctr. panamericana Norte Y Al Frente De Motorepuestos Y Multiservicios Lujan",
@@ -3305,6 +3777,7 @@
   },
   {
     "ruta_agencia": "Tumbes / Tumbes / Tumbes / Pampa Grande Tumbes",
+    "agencia": "Pampa Grande Tumbes",
     "distrito": "Tumbes",
     "direccion_completa": "Mz. 0u Lt. 00a Aa.hh. Pampa Grande, Tumbes",
     "referencia": "Frente a la Av. Universitaria, Y Al Frente A La iglesia Mormones Y Al Lado De Un Lavadero De Autos.",
@@ -3312,6 +3785,7 @@
   },
   {
     "ruta_agencia": "Tumbes / Tumbes / Tumbes / Tumbes - Av Arica",
+    "agencia": "Tumbes - Av Arica",
     "distrito": "Tumbes",
     "direccion_completa": "Av. Arica N° 227 - Tumbes.",
     "referencia": "",
@@ -3319,6 +3793,7 @@
   },
   {
     "ruta_agencia": "Tumbes / Tumbes / Tumbes / Tumbes Co - Panamericana Norte Km 2360",
+    "agencia": "Tumbes Co - Panamericana Norte Km 2360",
     "distrito": "Tumbes",
     "direccion_completa": "Av. Panamericana Norte S/n Villa Primavera - Tumbes.",
     "referencia": "Pasando Senati Frente A Agripac",
@@ -3326,6 +3801,7 @@
   },
   {
     "ruta_agencia": "Tumbes / Tumbes / Tumbes / Tumbes Puyango",
+    "agencia": "Tumbes Puyango",
     "distrito": "Tumbes",
     "direccion_completa": "Urb. Andrés Araujo Morán Mz. 28-a Lote 03 Calle Jacinto Seminario",
     "referencia": "Al Costado Del Mercado Puyango",
@@ -3333,6 +3809,7 @@
   },
   {
     "ruta_agencia": "Tumbes / Zarumilla / Aguas Verdes / Aguas Verdes",
+    "agencia": "Aguas Verdes",
     "distrito": "Aguas Verdes",
     "direccion_completa": "Av Tumbes S/n Lote 09 Mz 17 , A.h Tomas Arizola Olaya , Sector Ii",
     "referencia": "A Una Cuadra Del Parque Tomas Arizola.",
@@ -3340,6 +3817,7 @@
   },
   {
     "ruta_agencia": "Tumbes / Zarumilla / Zarumilla / Zarumilla",
+    "agencia": "Zarumilla",
     "distrito": "Zarumilla",
     "direccion_completa": "Jiron Independencia 309 Zarumilla",
     "referencia": "Atrás De La Plaza De Armas Y Frente Al Dorado Pasando 5 Casas",
@@ -3347,6 +3825,7 @@
   },
   {
     "ruta_agencia": "Ucayali / Coronel Portillo / Pucallpa Calleria / Calleria Av Saenz Peña",
+    "agencia": "Calleria Av Saenz Peña",
     "distrito": "Pucallpa Calleria",
     "direccion_completa": "Av. Saenz Peña 229, Calleria - Coronel Portillo - Ucayali",
     "referencia": "A Dos Cuadras Del Ovalo De Federico Basadre Y Saenz Peña",
@@ -3354,6 +3833,7 @@
   },
   {
     "ruta_agencia": "Ucayali / Coronel Portillo / Pucallpa Calleria / Calleria Jr Jose Galvez",
+    "agencia": "Calleria Jr Jose Galvez",
     "distrito": "Pucallpa Calleria",
     "direccion_completa": "Jr. Jose Galvez 147 Calleria - Coronel Portillo - Ucayali.",
     "referencia": "A Media Cuadra De La Av. Centenario",
@@ -3361,6 +3841,7 @@
   },
   {
     "ruta_agencia": "Ucayali / Coronel Portillo / Pucallpa Manantay / Manantay Av Aguaytia",
+    "agencia": "Manantay Av Aguaytia",
     "distrito": "Pucallpa Manantay",
     "direccion_completa": "Av. Aguaytia Mz., 26 Lt. 20 manantay - Coronel Portillo - Ucayali",
     "referencia": "A Media Cdra. Del Nuevo Mercado De San Fernando",
@@ -3368,6 +3849,7 @@
   },
   {
     "ruta_agencia": "Ucayali / Coronel Portillo / Pucallpa Manantay / Manantay Av Tupac Amaru",
+    "agencia": "Manantay Av Tupac Amaru",
     "distrito": "Pucallpa Manantay",
     "direccion_completa": "Av. Tupac Amaru 2315 manantay - Coronel Portillo - Ucayali",
     "referencia": "A Media Cdra. De La Polleria Emanuel",
@@ -3375,6 +3857,7 @@
   },
   {
     "ruta_agencia": "Ucayali / Coronel Portillo / Pucallpa Yarinacocha / Pucallpa Co Federico Basadre",
+    "agencia": "Pucallpa Co Federico Basadre",
     "distrito": "Pucallpa Yarinacocha",
     "direccion_completa": "Carretera Federico Basadre Km 6.800 Yarinacocha - Coronel Portillo - Ucayali",
     "referencia": "Entrada Del Asentamiento Humano Alan Sisley/al Costado De La Empresa Jvj Service Oriente Sac",
@@ -3382,6 +3865,7 @@
   },
   {
     "ruta_agencia": "Ucayali / Coronel Portillo / Pucallpa Yarinacocha / Yarinacocha Av Universitaria",
+    "agencia": "Yarinacocha Av Universitaria",
     "distrito": "Pucallpa Yarinacocha",
     "direccion_completa": "Av. Universitaria Mza A Lote 6, Yarinacocha - Coronel Portillo - Ucayali",
     "referencia": "A Media Cdra. Del Local Rokalpa",
@@ -3389,6 +3873,7 @@
   },
   {
     "ruta_agencia": "Ucayali / Coronel Portillo / Pucallpa Yarinacocha / Yarinacocha Centro",
+    "agencia": "Yarinacocha Centro",
     "distrito": "Pucallpa Yarinacocha",
     "direccion_completa": "Jr. Tupac Amaru, Mz. 50, Lt. 07",
     "referencia": "A Espalda De Maestranza De Yarinacocha",
@@ -3396,6 +3881,7 @@
   },
   {
     "ruta_agencia": "Ucayali / Padre Abad / Aguaytia / Aguaytía",
+    "agencia": "Aguaytía",
     "distrito": "Aguaytia",
     "direccion_completa": "U. Vecinal Barrio Unido Mz. 1 Lt. 2, Padre Abad - Ucayali",
     "referencia": "Al Costado Del Terminal Terrestre De Aguaytia",
