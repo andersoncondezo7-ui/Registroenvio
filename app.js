@@ -202,7 +202,6 @@ function construirMensajeWhatsapp(datos) {
 🏢 Agencia: ${datos.ruta_agencia}
 📍 ${datos.direccion_completa}, Ref. ${datos.referencia}
 
-🛍️ Prendas compradas: ${datos.cantidad}
 📅 Registro: ${datos.fecha_hora}
 
 🚚 Shalom`;
@@ -242,7 +241,6 @@ function validarFormulario() {
   const nombre = document.getElementById("nombre").value.trim();
   const telefonoDigitos = document.getElementById("telefono").value.replace(/\D/g, "");
   const dni = document.getElementById("dni").value.trim();
-  const cantidad = Number(document.getElementById("cantidad").value);
 
   let valido = true;
 
@@ -255,10 +253,9 @@ function validarFormulario() {
   if (!nombre) { mostrarError("errNombre", true); valido = false; } else mostrarError("errNombre", false);
   if (!telefonoValido) { mostrarError("errTelefono", true); valido = false; } else mostrarError("errTelefono", false);
   if (!dniValido) { mostrarError("errDni", true); valido = false; } else mostrarError("errDni", false);
-  if (!isFinite(cantidad) || cantidad < 1) { mostrarError("errCantidad", true); valido = false; } else mostrarError("errCantidad", false);
   if (!AGENCIA_SELECCIONADA) { mostrarError("errAgencia", true); valido = false; } else mostrarError("errAgencia", false);
 
-  return valido ? { nombre, telefono: telefonoDigitos, dni, cantidad } : null;
+  return valido ? { nombre, telefono: telefonoDigitos, dni } : null;
 }
 
 function mostrarMensajeForm(tipo, texto) {
@@ -281,7 +278,6 @@ async function manejarSubmit(evento) {
     nombre: datosCliente.nombre,
     telefono: datosCliente.telefono,
     dni: datosCliente.dni,
-    cantidad: datosCliente.cantidad,
     ruta_agencia: AGENCIA_SELECCIONADA.ruta_agencia,
     agencia: AGENCIA_SELECCIONADA.agencia || "",
     distrito: AGENCIA_SELECCIONADA.distrito,
