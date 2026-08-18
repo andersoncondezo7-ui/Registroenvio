@@ -29,6 +29,8 @@ const WHATSAPP_NUMBER = "51906745999";
 
 let AGENCIAS = [];
 let AGENCIA_SELECCIONADA = null;
+let ENVIO_EN_CURSO = false;
+let FORMULARIO_MODIFICADO = false;
 
 // =========================================================
 // CARGA DE DATOS (JSON local o Google Sheets publicado como CSV)
@@ -225,7 +227,7 @@ function abrirWhatsapp(mensaje) {
   // común de falla (ERR_QUIC_PROTOCOL_ERROR, timeouts) en redes con QUIC/HTTP3 bloqueado
   // o inestable. Yendo directo a api.whatsapp.com se evita ese salto.
   const url = `https://api.whatsapp.com/send?phone=${WHATSAPP_NUMBER}&text=${encodeURIComponent(mensaje)}`;
-  window.open(url, "_blank");
+  window.location.assign(url);
 }
 
 // =========================================================
@@ -265,8 +267,44 @@ function mostrarMensajeForm(tipo, texto) {
   el.classList.remove("hidden");
 }
 
+function cambiarEstadoEnvio(enCurso) {
+  ENVIO_EN_CURSO = enCurso;
+
+  const form = document.getElementById("envioForm");
+  const btnTxt = document.getElementById("btnEnviarTxt");
+  form.setAttribute("aria-busy", String(enCurso));
+  form.querySelectorAll("input, button").forEach(control => {
+    control.disabled = enCurso;
+  });
+  btnTxt.textContent = enCurso
+    ? "Guardando información… No cierres esta página"
+    : "📲 Confirmar y enviar por WhatsApp";
+}
+
+function protegerSalida(evento) {
+  if (!ENVIO_EN_CURSO && !FORMULARIO_MODIFICADO) return;
+
+  evento.preventDefault();
+  // Asignar returnValue activa el diálogo nativo de confirmación. Los navegadores
+  // modernos deciden el texto que muestran por motivos de seguridad.
+  evento.returnValue = "";
+}
+
+function mostrarOverlayEnvio() {
+  document.getElementById("envioOverlay").classList.remove("hidden");
+  document.body.classList.add("modal-open");
+}
+
+function ocultarOverlayEnvio() {
+  document.getElementById("envioOverlay").classList.add("hidden");
+  document.body.classList.remove("modal-open");
+}
+
 async function manejarSubmit(evento) {
   evento.preventDefault();
+
+  // Evita que dos clics rápidos creen filas duplicadas en Google Sheets.
+  if (ENVIO_EN_CURSO) return;
 
   const datosCliente = validarFormulario();
   if (!datosCliente) {
@@ -287,26 +325,25 @@ async function manejarSubmit(evento) {
     fecha_hora_iso: new Date().toISOString()
   };
 
-  const btn = document.getElementById("btnEnviar");
-  const btnTxt = document.getElementById("btnEnviarTxt");
-  btn.disabled = true;
-  btnTxt.textContent = "Guardando…";
+  cambiarEstadoEnvio(true);
+  mostrarOverlayEnvio();
+  mostrarMensajeForm("ok", "Guardando toda la información. No cierres ni retrocedas esta página…");
 
   try {
     await guardarEnServidor(datos);
-    mostrarMensajeForm("ok", "Registro guardado en Sheets. Abriendo WhatsApp…");
+
+    // La fila ya quedó confirmada en Sheets. Recién ahora permitimos la salida y
+    // redirigimos automáticamente a WhatsApp con el mensaje preparado.
+    FORMULARIO_MODIFICADO = false;
+    ENVIO_EN_CURSO = false;
+    mostrarMensajeForm("ok", "Información guardada. Abriendo WhatsApp automáticamente…");
+    abrirWhatsapp(construirMensajeWhatsapp(datos));
   } catch (err) {
     console.error("Error guardando en Sheets:", err);
-    mostrarMensajeForm("bad", "No se pudo guardar en Sheets, pero igual se abrirá WhatsApp. Avisa al negocio si esto se repite.");
+    ocultarOverlayEnvio();
+    cambiarEstadoEnvio(false);
+    mostrarMensajeForm("bad", "No se completó el envío. Tus datos siguen aquí: revisa tu conexión y vuelve a intentarlo.");
   }
-
-  abrirWhatsapp(construirMensajeWhatsapp(datos));
-
-  btn.disabled = false;
-  btnTxt.textContent = "📲 Confirmar y enviar por WhatsApp";
-  document.getElementById("envioForm").reset();
-  limpiarSeleccionAgencia();
-  document.getElementById("agenciaCard").classList.add("hidden");
 }
 
 // =========================================================
@@ -363,7 +400,12 @@ async function init() {
   initTelefono();
   initDni();
   initBuscador();
-  document.getElementById("envioForm").addEventListener("submit", manejarSubmit);
+
+  const form = document.getElementById("envioForm");
+  form.addEventListener("submit", manejarSubmit);
+  form.addEventListener("input", () => { FORMULARIO_MODIFICADO = true; });
+  form.addEventListener("change", () => { FORMULARIO_MODIFICADO = true; });
+  window.addEventListener("beforeunload", protegerSalida);
 }
 
 document.addEventListener("DOMContentLoaded", init);
