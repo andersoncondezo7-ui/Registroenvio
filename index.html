@@ -84,11 +84,25 @@
           <span id="btnEnviarTxt">📲 Confirmar y enviar por WhatsApp</span>
         </button>
 
-        <div id="formMsg" class="form-msg hidden"></div>
+        <div id="formMsg" class="form-msg hidden" role="status" aria-live="polite"></div>
       </form>
     </main>
 
     <footer class="footnote">Shalom · Registro interno de envíos</footer>
+  </div>
+
+  <div id="envioOverlay" class="completion-modal hidden" role="alert" aria-live="assertive">
+    <div class="completion-card loading-card">
+      <div class="loading-spinner" aria-hidden="true"></div>
+      <span class="completion-kicker">Procesando tu envío</span>
+      <h2>Estamos guardando tu información</h2>
+      <p class="completion-copy">No cierres ni retrocedas esta página. Al terminar, WhatsApp se abrirá automáticamente con tu mensaje listo.</p>
+
+      <div class="completion-alert">
+        <span aria-hidden="true">⏳</span>
+        <p><strong>Espera unos segundos.</strong><br />La redirección se realizará automáticamente.</p>
+      </div>
+    </div>
   </div>
 
   <script src="app.js"></script>
