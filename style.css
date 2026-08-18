@@ -323,3 +323,127 @@ input::placeholder { color: #a5a5aa; }
   font-size: 11px;
   padding: 10px 0 max(16px, env(safe-area-inset-bottom));
 }
+
+/* Pantalla de espera durante el guardado */
+.modal-open {
+  overflow: hidden;
+}
+
+.completion-modal {
+  position: fixed;
+  z-index: 1000;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  background: rgba(20, 20, 24, 0.68);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  animation: modalFadeIn 0.22s ease-out;
+}
+
+.completion-card {
+  width: min(100%, 430px);
+  overflow: hidden;
+  position: relative;
+  padding: 32px 24px 24px;
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  border-radius: 24px;
+  background: #fff;
+  box-shadow: 0 24px 70px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  animation: modalCardIn 0.3s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.completion-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 6px;
+  background: linear-gradient(90deg, var(--shalom-red), #ff5960);
+}
+
+.loading-spinner {
+  width: 62px;
+  height: 62px;
+  margin: 0 auto 18px;
+  border: 6px solid rgba(236, 28, 36, 0.13);
+  border-top-color: var(--shalom-red);
+  border-radius: 50%;
+  animation: loadingSpin 0.85s linear infinite;
+}
+
+.completion-kicker {
+  display: inline-block;
+  margin-bottom: 8px;
+  color: var(--shalom-red-dark);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+}
+
+.completion-card h2 {
+  margin: 0;
+  color: var(--text);
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
+.completion-copy {
+  margin: 11px auto 18px;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.completion-alert {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 13px 14px;
+  border: 1px solid #fde68a;
+  border-radius: 13px;
+  color: #854d0e;
+  background: #fffbeb;
+  text-align: left;
+}
+
+.completion-alert > span {
+  font-size: 18px;
+  line-height: 1.2;
+}
+
+.completion-alert p {
+  margin: 0;
+  font-size: 12.5px;
+  line-height: 1.45;
+}
+
+@keyframes loadingSpin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes modalFadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes modalCardIn {
+  from { opacity: 0; transform: translateY(18px) scale(0.97); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+@media (max-width: 380px) {
+  .completion-modal { padding: 12px; }
+  .completion-card { padding: 28px 18px 20px; border-radius: 20px; }
+  .completion-card h2 { font-size: 1.3rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .completion-modal,
+  .completion-card,
+  .loading-spinner {
+    animation: none;
+  }
+}
