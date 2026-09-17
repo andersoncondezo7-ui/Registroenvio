@@ -2,6 +2,8 @@
   --shalom-red: #ec1c24;
   --shalom-red-dark: #c8151c;
   --shalom-red-light: rgba(236, 28, 36, 0.08);
+  --brand-cream: #f7f1e6;
+  --brand-brown: #4a3428;
   --bg-top: #ffffff;
   --bg-bottom: #fbfbfc;
   --card-bg: #ffffff;
@@ -39,34 +41,38 @@ body {
 
 /* Topbar */
 .topbar {
-  background: var(--shalom-red);
-  padding: 22px 20px;
-  padding-top: calc(22px + env(safe-area-inset-top));
-  box-shadow: 0 4px 20px rgba(236, 28, 36, 0.25);
+  background: var(--brand-cream);
+  padding: 18px 20px;
+  padding-top: calc(18px + env(safe-area-inset-top));
+  border-bottom: 3px solid var(--shalom-red);
+  box-shadow: 0 4px 16px rgba(20, 20, 25, 0.08);
 }
 
 .topbar-brand {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
 }
 
-.topbar-logo {
-  font-size: 30px;
-  line-height: 1;
+.topbar-logo-img {
+  height: 52px;
+  width: 52px;
+  object-fit: contain;
+  flex-shrink: 0;
 }
 
 .topbar h1 {
-  color: #fff;
-  font-size: 1.25rem;
+  color: var(--brand-brown);
+  font-size: 1.2rem;
   font-weight: 700;
   margin: 0;
   letter-spacing: 0.2px;
 }
 
 .topbar p {
-  color: rgba(255, 255, 255, 0.85);
+  color: var(--shalom-red-dark);
   font-size: 0.8rem;
+  font-weight: 600;
   margin: 2px 0 0;
 }
 
