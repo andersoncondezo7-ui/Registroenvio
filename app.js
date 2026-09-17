@@ -17,7 +17,7 @@ const SHEETS_CSV_URL = "";
 // Backend (el mismo Code.gs / Apps Script del sistema de inventario — usa un token propio
 // SHALOM_TOKEN que solo puede llamar a "registrarEnvioShalom", nada más). Cada registro se
 // guarda en la hoja "Envios_Shalom" de tu Google Sheets.
-const API_URL = "https://script.google.com/macros/s/AKfycby96q3BUEbRRjcs3_dcWTlOfgUMtK_7eKLEnHKnLIWnPtgHmg-nyf4dG5WDMJN7B5kblA/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbxnlGeGZzHHqx3kGnD3YaMdoUaamten_AbRPkRzJhFtUgSeIGr7Y14LnZJuLCIb0mXb/exec";
 const SHALOM_API_TOKEN = "shl_7Wm2Qx9Nc4Vb0Rt6Zk3Ly8Ag5Sf1Dh_2026";
 
 // Número de WhatsApp que recibe el mensaje (formato: código de país + número, sin "+" ni espacios).
