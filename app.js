@@ -17,7 +17,7 @@ const SHEETS_CSV_URL = "";
 // Backend (el mismo Code.gs / Apps Script del sistema de inventario — usa un token propio
 // SHALOM_TOKEN que solo puede llamar a "registrarEnvioShalom", nada más). Cada registro se
 // guarda en la hoja "Envios_Shalom" de tu Google Sheets.
-const API_URL = "https://script.google.com/macros/s/AKfycbxnlGeGZzHHqx3kGnD3YaMdoUaamten_AbRPkRzJhFtUgSeIGr7Y14LnZJuLCIb0mXb/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycby96q3BUEbRRjcs3_dcWTlOfgUMtK_7eKLEnHKnLIWnPtgHmg-nyf4dG5WDMJN7B5kblA/exec";
 const SHALOM_API_TOKEN = "shl_7Wm2Qx9Nc4Vb0Rt6Zk3Ly8Ag5Sf1Dh_2026";
 
 // Número de WhatsApp que recibe el mensaje (formato: código de país + número, sin "+" ni espacios).
@@ -216,8 +216,26 @@ async function guardarEnServidor(datos) {
   const payloadStr = encodeURIComponent(JSON.stringify(datos));
   const qs = `?action=registrarEnvioShalom&token=${SHALOM_API_TOKEN}&payload=${payloadStr}`;
 
-  const res = await fetch(API_URL + qs);
-  const json = await res.json();
+  let res;
+  try {
+    res = await fetch(API_URL + qs);
+  } catch (err) {
+    throw new Error("Sin conexión con el servidor. Revisa tu internet e inténtalo de nuevo.");
+  }
+
+  if (!res.ok) {
+    throw new Error(`El servidor respondió con un error (HTTP ${res.status}). Inténtalo de nuevo.`);
+  }
+
+  let json;
+  try {
+    json = await res.json();
+  } catch (err) {
+    // El deployment de Apps Script no devolvió JSON: normalmente pasa cuando la URL
+    // apunta a un deployment eliminado, sin permiso de acceso, o caído.
+    throw new Error("El servidor de registro no está disponible en este momento. Avisa al negocio.");
+  }
+
   if (!json.ok) throw new Error(json.error || "El servidor rechazó el registro.");
 }
 
@@ -342,7 +360,8 @@ async function manejarSubmit(evento) {
     console.error("Error guardando en Sheets:", err);
     ocultarOverlayEnvio();
     cambiarEstadoEnvio(false);
-    mostrarMensajeForm("bad", "No se completó el envío. Tus datos siguen aquí: revisa tu conexión y vuelve a intentarlo.");
+    const detalle = err?.message ? ` (${err.message})` : "";
+    mostrarMensajeForm("bad", `No se completó el envío. Tus datos siguen aquí: revisa tu conexión y vuelve a intentarlo${detalle}.`);
   }
 }
 
